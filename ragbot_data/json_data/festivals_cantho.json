@@ -1,0 +1,395 @@
+[
+  {
+  "id": "festival_hoa_dang",
+  "type": "festival",
+  "name_vi": "Lễ hội Hoa đăng Ninh Kiều",
+  "name_en": "Ninh Kieu Lantern Festival",
+  "category_vi": "Lễ hội văn hóa - du lịch",
+  "category_en": "Cultural & Tourism Festival",
+  "time_vi": "Tháng 12 hằng năm",
+  "time_en": "Every December",
+  "location_vi": "Bến Ninh Kiều, quận Ninh Kiều, Cần Thơ",
+  "location_en": "Ninh Kieu Wharf, Ninh Kieu District, Can Tho",
+  "description_vi": "Lễ hội Hoa Đăng Ninh Kiều là sự kiện văn hóa đặc sắc với hàng ngàn hoa đăng được thả trên sông Hậu. Du khách có thể ngắm cảnh lung linh ban đêm, thưởng thức nghệ thuật và khám phá các gian hàng ẩm thực địa phương.",
+  "description_en": "The Ninh Kieu Lantern Festival is a signature cultural event featuring thousands of floating lanterns on the Hau River. Visitors can enjoy the sparkling night scenery, local performances, and traditional street food stalls.",
+  "highlights_vi": [
+    "Thả hoa đăng trên sông Hậu",
+    "Biểu diễn nghệ thuật truyền thống",
+    "Không gian ánh sáng lung linh",
+    "Gian hàng ẩm thực địa phương"
+  ],
+  "highlights_en": [
+    "Lantern floating on the Hau River",
+    "Traditional cultural performances",
+    "Beautiful illuminated night scenery",
+    "Local food stalls and activities"
+  ]
+},
+  {
+  "id": "festival_trai_cay_phong_dien",
+  "type": "festival",
+  "name_vi": "Lễ hội Trái Cây Phong Điền",
+  "name_en": "Phong Dien Fruit Festival",
+  "category_vi": "Lễ hội nông nghiệp - du lịch",
+  "category_en": "Agricultural & Tourism Festival",
+  "time_vi": "Tháng 5 - 6 hằng năm (mùa trái cây)",
+  "time_en": "May - June (fruit season)",
+  "location_vi": "Huyện Phong Điền, Cần Thơ",
+  "location_en": "Phong Dien District, Can Tho",
+  "description_vi": "Lễ hội Trái Cây Phong Điền tôn vinh các loại trái cây đặc sản miền Tây với nhiều hoạt động như trưng bày nghệ thuật, hội thi tạo hình trái cây, và tham quan vườn cây ăn trái. Đây là điểm đến thu hút du khách vào mùa hè.",
+  "description_en": "The Phong Dien Fruit Festival celebrates the Mekong Delta's signature fruits through exhibitions, fruit-carving contests, and orchard tours. It is a popular event during summer travel season.",
+  "highlights_vi": [
+    "Trưng bày trái cây đặc sản",
+    "Nghệ thuật tạo hình trái cây",
+    "Hái trái tại vườn",
+    "Gian hàng nông sản địa phương"
+  ],
+  "highlights_en": [
+    "Showcase of regional fruits",
+    "Fruit-sculpting competitions",
+    "Orchard tours",
+    "Local agricultural markets"
+  ]
+},
+  {
+  "id": "festival_tra_ong",
+  "type": "festival",
+
+  "name_vi": "Lễ hội Trà Ông",
+  "name_en": "Tra Ong (Ong Pagoda) Festival",
+
+  "category_vi": "Tín ngưỡng dân gian",
+  "category_en": "Folk Spiritual Festival",
+
+  "time_vi": "Rằm tháng 3 âm lịch",
+  "time_en": "15th day of the 3rd lunar month",
+
+  "location_vi": "Chùa Ông, quận Ninh Kiều, Cần Thơ",
+  "location_en": "Ong Pagoda, Ninh Kieu District, Can Tho",
+
+  "description_vi": "Lễ hội Trà Ông là sự kiện truyền thống của cộng đồng người Hoa tại Cần Thơ nhằm cầu bình an, mưa thuận gió hòa. Hoạt động gồm múa lân - rồng, dâng hương, và các nghi thức cúng truyền thống.",
+  "description_en": "The Tra Ong Festival is a traditional celebration of the Chinese community in Can Tho, praying for peace and prosperity. Activities include lion and dragon dances, incense offering, and traditional rituals.",
+
+  "highlights_vi": [
+    "Múa lân - rồng",
+    "Nghi thức dâng hương",
+    "Lễ rước truyền thống",
+    "Không khí nhộn nhịp phố người Hoa"
+  ],
+  "highlights_en": [
+    "Lion & dragon dances",
+    "Incense offering rituals",
+    "Traditional procession",
+    "Vibrant Chinese community atmosphere"
+  ]
+},
+  {
+  "id": "festival_nguyen_sinh",
+  "type": "festival",
+
+  "name_vi": "Lễ hội Kỷ niệm Ngày sinh Chủ tịch Hồ Chí Minh",
+  "name_en": "Celebration of President Ho Chi Minh's Birthday",
+
+  "category_vi": "Lễ hội văn hóa - chính trị",
+  "category_en": "Cultural & Political Festival",
+
+  "time_vi": "19/5 hằng năm",
+  "time_en": "May 19 every year",
+
+  "location_vi": "Tượng đài Bác Hồ, Bến Ninh Kiều, Cần Thơ",
+  "location_en": "Ho Chi Minh Statue, Ninh Kieu Wharf, Can Tho City",
+
+  "description_vi": "Lễ hội được tổ chức nhằm tri ân Chủ tịch Hồ Chí Minh với các hoạt động dâng hương, diễu hành và chương trình nghệ thuật đặc biệt.",
+  "description_en": "The festival is held to honor President Ho Chi Minh, featuring incense offering ceremonies, parades, and special cultural performances.",
+
+  "highlights_vi": [
+    "Nghi thức dâng hương",
+    "Lễ diễu hành",
+    "Chương trình nghệ thuật đặc biệt"
+  ],
+  "highlights_en": [
+    "Incense offering ceremony",
+    "Parade procession",
+    "Special cultural performances"
+  ]
+},
+  {
+    "id": "festival_ao_ba_ba",
+    "type": "festival",
+    "name_vi": "Lễ hội Áo Bà Ba",
+    "name_en": "Ao Ba Ba Cultural Festival",
+    "category_vi": "Lễ hội văn hóa - thời trang",
+    "category_en": "Cultural & Fashion Festival",
+    "time_vi": "Tháng 11 (tùy năm)",
+    "time_en": "November (varies by year)",
+    "location_vi": "Trung tâm Cần Thơ",
+    "location_en": "Central Can Tho City",
+    "description_vi": "Lễ hội Áo Bà Ba tôn vinh trang phục truyền thống Nam Bộ với các hoạt động trình diễn, chụp ảnh nghệ thuật và không gian chợ quê. Đây là điểm nhấn văn hóa nổi bật của Cần Thơ.",
+    "description_en": "The Ao Ba Ba Festival celebrates the iconic Southern Vietnamese attire through fashion shows, artistic photography, and traditional market spaces.",
+    "highlights_vi": [
+      "Trình diễn áo bà ba",
+      "Chợ quê dân gian",
+      "Không gian nghệ thuật miền Tây"
+    ],
+    "highlights_en": [
+      "Ao Ba Ba fashion runway",
+      "Traditional rural market space",
+      "Southern cultural art exhibitions"
+    ]
+  },
+  {
+    "id": "festival_chol_chnam_thmay",
+    "type": "festival",
+    "name_vi": "Tết Chôl Chnăm Thmây (Khmer)",
+    "name_en": "Chol Chnam Thmay (Khmer New Year)",
+    "category_vi": "Lễ hội tết truyền thống Khmer",
+    "category_en": "Traditional Khmer New Year Festival",
+    "time_vi": "Tháng 4 dương lịch",
+    "time_en": "April (Gregorian calendar)",
+    "location_vi": "Các chùa Khmer tại Cần Thơ",
+    "location_en": "Khmer temples across Can Tho",
+    "description_vi": "Tết Chol Chnam Thmay là tết năm mới của người Khmer với nghi lễ tắm Phật, cầu an và múa Romvong. Không khí sôi động và mang đậm bản sắc văn hóa.",
+    "description_en": "Chol Chnam Thmay is the Khmer New Year featuring Buddha bathing rituals, blessing ceremonies, and traditional Romvong dances.",
+    "highlights_vi": [
+      "Múa Romvong",
+      "Tắm Phật",
+      "Lễ chúc phúc truyền thống"
+    ],
+    "highlights_en": [
+      "Romvong dancing",
+      "Buddha bathing ritual",
+      "Traditional blessing ceremonies"
+    ]
+  },
+  {
+    "id": "festival_ok_om_bok",
+    "type": "festival",
+    "name_vi": "Lễ hội Ok Om Bok",
+    "name_en": "Ok Om Bok Festival",
+    "category_vi": "Lễ hội truyền thống Khmer",
+    "category_en": "Traditional Khmer Festival",
+    "time_vi": "Rằm tháng 10 âm lịch",
+    "time_en": "15th day of the 10th lunar month",
+    "location_vi": "Chùa Khmer tại Cần Thơ",
+    "location_en": "Khmer temples in Can Tho",
+    "description_vi": "Lễ hội Ok Om Bok là lễ cúng trăng tạ ơn mùa màng của người Khmer với các nghi lễ truyền thống và múa dân gian.",
+    "description_en": "Ok Om Bok is the Khmer moon-offering festival held to thank the deities for good harvests. It includes traditional ceremonies and folk dances.",
+    "highlights_vi": [
+      "Lễ cúng trăng",
+      "Múa dân gian Khmer",
+      "Nghi thức truyền thống"
+    ],
+    "highlights_en": [
+      "Moon worship ritual",
+      "Khmer folk dances",
+      "Traditional ceremonies"
+    ]
+  },
+  {
+    "id": "festival_cho_noi_cai_rang",
+    "type": "festival",
+    "name_vi": "Ngày hội Du lịch Chợ Nổi Cái Răng",
+    "name_en": "Cai Rang Floating Market Tourism Festival",
+    "category_vi": "Sự kiện du lịch",
+    "category_en": "Tourism Event",
+    "time_vi": "Tháng 7 hằng năm",
+    "time_en": "Every July",
+    "location_vi": "Chợ Nổi Cái Răng, Cần Thơ",
+    "location_en": "Cai Rang Floating Market, Can Tho",
+    "description_vi": "Ngày hội Chợ Nổi Cái Răng quảng bá văn hóa sông nước với hoạt động đua ghe, biểu diễn nghệ thuật và tái hiện cảnh mua bán thương hồ. Du khách có thể trải nghiệm đời sống chợ nổi đặc trưng.",
+    "description_en": "The Cai Rang Floating Market Festival promotes river culture through boat races, cultural performances, and reenactments of floating market trading. Visitors can experience the authentic river lifestyle.",
+    "highlights_vi": [
+      "Đua ghe ngo",
+      "Biểu diễn nghệ thuật trên sông",
+      "Tái hiện cảnh thương hồ",
+      "Ẩm thực miền sông nước"
+    ],
+    "highlights_en": [
+      "Traditional boat races",
+      "Cultural shows on the river",
+      "Floating market reenactments",
+      "River-based cuisine booths"
+    ]
+  },
+  {
+    "id": "festival_dinh_binh_thuy",
+    "type": "festival",
+    "name_vi": "Lễ hội Đình Bình Thủy",
+    "name_en": "Binh Thuy Communal House Festival",
+    "category_vi": "Lễ hội truyền thống cấp quốc gia",
+    "category_en": "National Traditional Festival",
+    "time_vi": "Ngày 12 - 14 tháng 4 âm lịch",
+    "time_en": "12th - 14th day of the 4th lunar month",
+    "location_vi": "Đình Bình Thủy, quận Bình Thủy, Cần Thơ",
+    "location_en": "Binh Thuy Communal House, Binh Thuy District, Can Tho",
+    "description_vi": "Lễ hội Đình Bình Thủy tưởng nhớ Thành Hoàng và các bậc tiền nhân khai khẩn vùng đất. Lễ hội gồm nghi thức cúng tế, múa bóng rỗi và trình diễn nghệ thuật dân gian.",
+    "description_en": "The Binh Thuy Communal House Festival honors the village's deities and early settlers. Rituals include ceremonial offerings, traditional dances, and folk performances.",
+    "highlights_vi": [
+      "Múa bóng rỗi",
+      "Rước sắc phong",
+      "Cúng tế Thành Hoàng",
+      "Biểu diễn dân gian"
+    ],
+    "highlights_en": [
+      "Traditional spirit dances",
+      "Royal decree procession",
+      "Worship ceremonies",
+      "Folk performances"
+    ]
+  },
+  {
+    "id": "festival_mung_dang_mung_xuan",
+    "type": "festival",
+    "name_vi": "Lễ hội Mừng Đảng - Mừng Xuân",
+    "name_en": "Spring & Party Celebration Festival",
+    "category_vi": "Lễ hội mùa xuân - văn hóa",
+    "category_en": "Spring Cultural Festival",
+    "time_vi": "Tết Nguyên Đán",
+    "time_en": "Lunar New Year",
+    "location_vi": "Khắp các quận huyện Cần Thơ",
+    "location_en": "Across all districts of Can Tho",
+    "description_vi": "Lễ hội Mừng Đảng - Mừng Xuân diễn ra hằng năm với đường hoa nghệ thuật, hội chợ xuân, biểu diễn nghệ thuật và không gian lễ hội rộn rã.",
+    "description_en": "The Spring & Party Festival features flower streets, spring fairs, artistic performances, and festive New Year activities.",
+    "highlights_vi": [
+      "Đường hoa nghệ thuật",
+      "Hội chợ xuân",
+      "Biểu diễn văn nghệ"
+    ],
+    "highlights_en": [
+      "Artistic flower streets",
+      "Spring marketplaces",
+      "Cultural performances"
+    ]
+  },
+  {
+    "id": "festival_banh_dan_gian",
+    "type": "festival",
+    "name_vi": "Lễ hội Bánh Dân Gian Nam Bộ",
+    "name_en": "Southern Folk Cake Festival",
+    "category_vi": "Lễ hội ẩm thực - văn hóa",
+    "category_en": "Culinary & Cultural Festival",
+    "time_vi": "Tháng 4 (giỗ Tổ Hùng Vương)",
+    "time_en": "April (Hung Kings’ Commemoration period)",
+    "location_vi": "Trung tâm Hội chợ Triển lãm Cần Thơ",
+    "location_en": "Can Tho Exhibition & Fair Center",
+    "description_vi": "Lễ hội Bánh Dân Gian Nam Bộ quy tụ hơn 200 loại bánh truyền thống với khu trình diễn làm bánh, không gian chợ quê và chương trình tôn vinh nghệ nhân.",
+    "description_en": "The Southern Folk Cake Festival showcases over 200 traditional cakes, featuring live cooking shows, a rural-themed market, and artisan recognition events.",
+    "highlights_vi": [
+      "Trình diễn làm bánh truyền thống",
+      "Không gian chợ quê",
+      "Hơn 200 loại bánh dân gian"
+    ],
+    "highlights_en": [
+      "Traditional cake-making shows",
+      "Folk-style rural market",
+      "Over 200 types of folk cakes"
+    ]
+  },
+  {
+  "id": "festival_tet_nguyen_dan",
+  "type": "festival",
+
+  "name_vi": "Tết Nguyên Đán Cần Thơ",
+  "name_en": "Lunar New Year Festival in Can Tho",
+
+  "category_vi": "Lễ hội truyền thống lớn nhất năm",
+  "category_en": "Major Traditional Festival",
+
+  "time_vi": "Tết Nguyên Đán (tháng 1 - tháng 2 dương lịch)",
+  "time_en": "Lunar New Year (January - February)",
+
+  "location_vi": "Trọng điểm tại Bến Ninh Kiều, đường đèn nghệ thuật, các quận Ninh Kiều - Bình Thủy - Cái Răng",
+  "location_en": "Mainly at Ninh Kieu Wharf, artistic light streets, and districts Ninh Kieu - Binh Thuy - Cai Rang",
+
+  "description_vi": "Tết Nguyên Đán tại Cần Thơ là thời khắc rực rỡ với đường hoa nghệ thuật, chợ hoa xuân rộn ràng, các chương trình văn nghệ mừng xuân và hoạt động đón giao thừa trên bến Ninh Kiều. Thành phố được trang hoàng lung linh với đèn lồng, hoa mai, hoa đào và nhiều hoạt động văn hóa truyền thống.",
+  "description_en": "Lunar New Year in Can Tho is a vibrant season featuring artistic flower streets, bustling spring flower markets, cultural performances, and a festive countdown at Ninh Kieu Wharf. The city is decorated with lanterns, apricot blossoms, peach blossoms, and traditional cultural activities.",
+
+  "highlights_vi": [
+    "Đường hoa nghệ thuật Tết",
+    "Chợ hoa xuân Ninh Kiều",
+    "Bắn pháo hoa giao thừa",
+    "Biểu diễn văn nghệ mừng xuân",
+    "Trang trí đèn lồng - hoa mai - hoa đào khắp thành phố"
+  ],
+  "highlights_en": [
+    "Tet artistic flower street",
+    "Ninh Kieu spring flower market",
+    "New Year's Eve fireworks show",
+    "Cultural and musical spring performances",
+    "Citywide decorations with lanterns and blossoms"
+  ],
+
+  "travel_tips_vi": [
+    "Nên tham quan đường hoa buổi tối để thấy ánh đèn đẹp nhất.",
+    "Đi sớm vào chiều 30 Tết vì chợ hoa thường rất đông.",
+    "Khu vực Bến Ninh Kiều thường kẹt xe nhẹ vào đêm giao thừa.",
+    "Mang theo nước uống và giày thoải mái khi đi dạo chợ hoa."
+  ],
+  "travel_tips_en": [
+    "Visit the flower street at night for the best lighting.",
+    "Go early on Lunar New Year's Eve due to heavy crowds at the flower market.",
+    "Expect light traffic congestion around Ninh Kieu Wharf on New Year’s Eve.",
+    "Bring water and comfortable shoes for walking around spring markets."
+  ]
+},
+{
+  "id": "festival_duong_hoa_can_tho",
+  "type": "festival",
+  "name_vi": "Đường Hoa Nghệ Thuật Cần Thơ",
+  "name_en": "Can Tho Flower Street Festival",
+
+  "category_vi": "Lễ hội mùa xuân – Trang trí nghệ thuật",
+  "category_en": "Spring Festival – Artistic Decoration",
+
+  "time_vi": "Tết Nguyên Đán hằng năm (mở cửa 7–10 ngày, ngày cụ thể cần xem thông báo trên các trang báo chính thống địa phương)",
+  "time_en": "Every Lunar New Year (open for 7–10 days)",
+
+  "location_vi": "Đại lộ Hòa Bình, trung tâm quận Ninh Kiều",
+  "location_en": "Hoa Binh Boulevard, Ninh Kieu District",
+
+  "description_vi": "Đường Hoa Nghệ Thuật là một trong những sự kiện Tết lớn nhất tại Cần Thơ, trưng bày hàng trăm tiểu cảnh hoa, mô hình linh vật và nghệ thuật ánh sáng. Đây là địa điểm check-in nổi tiếng trong dịp Tết, thu hút hàng ngàn du khách mỗi ngày.",
+  "description_en": "The Can Tho Flower Street is one of the city’s largest Lunar New Year events, showcasing hundreds of floral miniatures, zodiac displays, and artistic lighting installations. It is a popular Tết check-in spot attracting thousands of visitors daily.",
+
+  "highlights_vi": [
+    "Tiểu cảnh hoa theo chủ đề từng năm",
+    "Mô hình linh vật năm mới",
+    "Trang trí đèn led nghệ thuật ban đêm",
+    "Hoạt động văn hóa – biểu diễn sân khấu nhỏ"
+  ],
+  "highlights_en": [
+    "Thematic floral landscapes",
+    "Lunar New Year zodiac decorations",
+    "Artistic LED lighting displays at night",
+    "Cultural performances and mini-stages"
+  ]
+},
+{
+  "id": "festival_fireworks_can_tho",
+  "type": "festival",
+  "name_vi": "Trình Diễn Pháo Hoa Cần Thơ",
+  "name_en": "Can Tho Fireworks Show",
+
+  "category_vi": "Sự kiện lễ hội – Tết Nguyên Đán",
+  "category_en": "Festival Event – Lunar New Year",
+
+  "time_vi": "Đêm giao thừa (00:00 – 00:15 ngày mùng 1 Tết)",
+  "time_en": "New Year’s Eve (00:00 – 00:15 on Lunar New Year Day)",
+
+  "location_vi": "Bến Ninh Kiều hoặc cầu Trần Hưng Đạo (thay đổi mỗi năm)",
+  "location_en": "Ninh Kieu Wharf or Tran Hung Dao Bridge (varies by year)",
+
+  "description_vi": "Màn pháo hoa chào năm mới là sự kiện được mong đợi nhất tại Cần Thơ trong đêm giao thừa. Hàng chục ngàn người dân và du khách tập trung tại khu vực trung tâm để thưởng thức màn trình diễn pháo hoa tầm cao rực rỡ trên sông Hậu.",
+  "description_en": "The New Year fireworks display is one of Can Tho’s most anticipated events. Tens of thousands of residents and visitors gather in the city center to watch the vibrant high-altitude fireworks illuminate the Hau River.",
+
+  "highlights_vi": [
+    "Pháo hoa tầm cao kéo dài 10–15 phút",
+    "Không gian ven sông hòa cùng âm nhạc và lễ hội",
+    "Hoạt động đếm ngược và chúc mừng năm mới"
+  ],
+  "highlights_en": [
+    "High-altitude fireworks lasting 10–15 minutes",
+    "Riverside celebration with music and festive atmosphere",
+    "Countdown and New Year greetings"
+  ]
+}
+]

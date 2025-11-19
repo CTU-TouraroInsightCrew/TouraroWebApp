@@ -1,0 +1,321 @@
+[
+  {
+    "id": "transportation_moility",
+    "city_vi": "Cần Thơ",
+    "city_en": "Can Tho City",
+
+    "type": "transport",
+    "category_vi": "Giao thông & Di chuyển",
+    "category_en": "Transportation & Mobility",
+
+    "transport_overview_vi": "Cần Thơ có đầy đủ taxi, Grab, xe ôm công nghệ, thuê xe máy và xe buýt. Taxi phổ biến và dễ gọi. Grab hoạt động rộng khắp trung tâm. Thuê xe máy phù hợp cho các điểm ngoại thành như Mỹ Khánh, Phong Điền. Xe buýt giá rẻ nhưng ít tuyến phục vụ du lịch.",
+    "transport_overview_en": "Can Tho offers taxis, Grab, motorbike taxis, motorbike rentals, and buses. Taxis are common and easy to find. Grab services cover most central areas. Motorbike rentals are ideal for visiting suburban spots like My Khanh and Phong Dien. Buses are cheap but not very convenient for tourists.",
+    "taxi_providers": [
+      {
+        "name_vi": "Taxi Mai Linh Cần Thơ",
+        "name_en": "Mai Linh Taxi Can Tho",
+        "phone": "0292 3 65 65 65",
+        "base_fare_vi": "10.000 - 12.000 đ/km",
+        "base_fare_en": "10,000 - 12,000 VND/km",
+        "notes_vi": "Đội xe lớn nhất Cần Thơ, có mặt nhanh và uy tín cao.",
+        "notes_en": "Largest taxi fleet in Can Tho, fast arrival and high reliability."
+      },
+      {
+        "id": "taxi_sanh_sm_cantho",
+        "type": "transport",
+        "category_vi": "Dịch vụ taxi",
+        "category_en": "Taxi Service",
+        "name_vi": "Taxi Sanh SM",
+        "name_en": "Sanh SM Taxi",
+        "phone": "0292 3 77 77 77",
+        "base_fare_vi": "10.000 - 11.000 đ/km",
+        "base_fare_en": "10,000 - 11,000 VND/km",
+        "notes_vi": "Taxi Sanh SM là thương hiệu địa phương với giá mềm, dễ gọi trong khu vực Ninh Kiều và Cái Răng. Xe hoạt động nhiều vào buổi sáng và tối, phù hợp di chuyển ngắn trong nội ô.",
+        "notes_en": "Sanh SM Taxi is a local budget-friendly taxi provider operating mainly around Ninh Kieu and Cai Rang. Easy to catch during morning and evening hours, ideal for short city trips."
+      },
+      {
+        "name_vi": "Vinasun Green Taxi",
+        "name_en": "Vinasun Green Taxi",
+        "phone": "0292 3 82 82 82",
+        "base_fare_vi": "11.000 - 12.500 đ/km",
+        "base_fare_en": "11,000 - 12,500 VND/km",
+        "notes_vi": "Nhiều xe 7 chỗ, phù hợp nhóm gia đình.",
+        "notes_en": "Many 7-seater cars—ideal for families."
+      },
+      {
+        "name_vi": "Mekong Taxi",
+        "name_en": "Mekong Taxi",
+        "phone": "0292 3 69 69 69",
+        "base_fare_vi": "10.000 đ/km",
+        "base_fare_en": "10,000 VND/km",
+        "notes_vi": "Phủ tốt khu Phong Điền, Cái Răng và Bình Thủy.",
+        "notes_en": "Covers Phong Dien, Cai Rang, and Binh Thuy areas very well."
+      },
+      {
+        "name_vi": "Taxi Panda",
+        "name_en": "Panda Taxi",
+        "phone": "0292 3 79 79 79",
+        "base_fare_vi": "10.000 - 11.000 đ/km",
+        "base_fare_en": "10,000 - 11,000 VND/km",
+        "notes_vi": "Giá mềm, xe chủ yếu ở nội ô Ninh Kiều.",
+        "notes_en": "Affordable price; fleet mainly operates in Ninh Kieu downtown."
+      }
+    ],
+    "grab": {
+      "available": true,
+      "services_vi": ["GrabBike", "GrabCar 4 chỗ", "GrabCar 7 chỗ", "GrabRent - Thuê xe theo giờ"],
+      "services_en": ["GrabBike", "GrabCar 4-seater", "GrabCar 7-seater", "GrabRent - Hourly rental"],
+      "estimated_price_vi": {
+        "short_trip": "15.000 - 35.000 đ",
+        "city_center": "25.000 - 60.000 đ",
+        "airport_to_center": "120.000 - 160.000 đ"
+      },
+      "estimated_price_en": {
+        "short_trip": "15,000 - 35,000 VND",
+        "city_center": "25,000 - 60,000 VND",
+        "airport_to_center": "120,000 - 160,000 VND"
+      },
+      "notes_vi": "Grab phủ rộng vùng trung tâm, dễ gọi nhất tại Bến Ninh Kiều, Vincom, sân bay và các điểm du lịch.",
+      "notes_en": "Grab is widely available in central areas, especially easy to book around Ninh Kieu Wharf, Vincom, the airport, and tourist spots."
+    },
+    "motorbike_rental": {
+      "price_range_vi": "120.000 - 180.000 đ/ngày",
+      "price_range_en": "120,000 - 180,000 VND/day",
+      "deposit_vi": "500.000 - 1.000.000 đ hoặc CMND/CCCD",
+      "deposit_en": "500,000 - 1,000,000 VND or ID card as deposit",
+      "popular_suppliers_vi": [
+        "Dịch vụ thuê xe máy Ninh Kiều. Số điện thoại 0899928982.",
+        "Thuê xe máy Cái Răng - Nguyễn Văn Cừ. Số điện thoại 0911773978.",
+        "Thuê xe máy sân bay Cần Thơ. Số điện thoại 0939688898"
+      ],
+      "popular_suppliers_en": [
+        "Ninh Kieu Motorbike Rental",
+        "Cai Rang - Nguyen Van Cu Motorbike Rental",
+        "Can Tho Airport Motorbike Rental"
+      ],
+      "notes_vi": "Phù hợp để khám phá Mỹ Khánh, Phong Điền, Cồn Sơn và các điểm xa trung tâm.",
+      "notes_en": "Ideal for exploring My Khanh, Phong Dien, Son Islet, and suburban destinations."
+    },
+    "bus_info": {
+      "ticket_price_vi": "7.000 - 15.000 đ/lượt",
+      "ticket_price_en": "7,000 - 15,000 VND/ride",
+      "operating_hours_vi": "05:30 - 17:30",
+      "operating_hours_en": "05:30 AM - 5:30 PM",
+      "notes_vi": "Xe buýt chủ yếu phục vụ dân địa phương, ít tuyến buổi tối, không thuận tiện cho lịch trình du lịch.",
+      "notes_en": "Buses mainly serve locals; few evening routes; not ideal for multi-stop tourist itineraries."
+    },
+    "recommended_transport_for_tourists": [
+      {
+        "destination_vi": "Bến Ninh Kiều",
+        "destination_en": "Ninh Kieu Wharf",
+        "best_options_vi": ["Taxi", "Grab", "Xe máy"],
+        "best_options_en": ["Taxi", "Grab", "Motorbike"],
+        "note_vi": "Khu trung tâm dễ đi, giá rẻ.",
+        "note_en": "Easy to reach, affordable options."
+      },
+      {
+    "destination_vi": "Đền thờ Hùng Vương",
+    "destination_en": "Hung Kings Temple",
+    "best_options_vi": ["Taxi", "Grab", "Xe máy"],
+    "best_options_en": ["Taxi", "Grab", "Motorbike"],
+    "note_vi": "Đường lớn, dễ đi; cách trung tâm Ninh Kiều khoảng 10–15 phút. Đi taxi tiện hơn vào giờ nắng nóng.",
+    "note_en": "Wide roads and easy access; about 10–15 minutes from Ninh Kieu. Taxi is more comfortable in hot weather."
+  },
+  {
+    "destination_vi": "Nhà Cổ Bình Thủy",
+    "destination_en": "Binh Thuy Ancient House",
+    "best_options_vi": ["Taxi", "Grab", "Xe máy"],
+    "best_options_en": ["Taxi", "Grab", "Motorbike"],
+    "note_vi": "Đường nhỏ nhưng dễ đi; taxi di chuyển nhanh, xe máy phù hợp nếu đi thêm các điểm gần đó như chùa Nam Nhã.",
+    "note_en": "Narrow but easy road; taxi is convenient, motorbike is great if you want to visit nearby spots like Nam Nha Pagoda."
+  },
+  {
+    "destination_vi": "Chùa Ông (Hội quán Quảng Triệu)",
+    "destination_en": "Ong Pagoda (Quang Trieu Assembly Hall)",
+    "best_options_vi": ["Đi bộ", "Taxi", "Grab"],
+    "best_options_en": ["Walk", "Taxi", "Grab"],
+    "note_vi": "Nằm ngay trung tâm Ninh Kiều, có thể đi bộ từ Bến Ninh Kiều chỉ 3–5 phút.",
+    "note_en": "Located in Ninh Kieu center; walkable from Ninh Kieu Wharf in 3–5 minutes."
+  },
+  {
+    "destination_vi": "Chùa Nam Nhã",
+    "destination_en": "Nam Nha Pagoda",
+    "best_options_vi": ["Taxi", "Grab", "Xe máy"],
+    "best_options_en": ["Taxi", "Grab", "Motorbike"],
+    "note_vi": "Đường vào khá nhỏ; nên đi taxi hoặc xe máy. Gần Nhà Cổ Bình Thủy, thuận tiện kết hợp tham quan.",
+    "note_en": "Access road is narrow; taxi or motorbike recommended. Close to Binh Thuy Ancient House for combined visits."
+  },
+  {
+    "destination_vi": "Thiền Viện Trúc Lâm Phương Nam",
+    "destination_en": "Truc Lam Phuong Nam Zen Monastery",
+    "best_options_vi": ["Taxi", "Grab", "Xe máy"],
+    "best_options_en": ["Taxi", "Grab", "Motorbike"],
+    "note_vi": "Cách trung tâm 12–15 km; di chuyển bằng taxi thuận tiện, xe máy phù hợp nếu thời tiết mát.",
+    "note_en": "Located 12–15 km from center; taxi is convenient; motorbike is good in cool weather."
+  },
+  {
+    "destination_vi": "Chùa Pitu Khôsa Răngsây",
+    "destination_en": "Pitu Khosa Rangsay Pagoda",
+    "best_options_vi": ["Taxi", "Grab", "Xe máy"],
+    "best_options_en": ["Taxi", "Grab", "Motorbike"],
+    "note_vi": "Nằm trong trung tâm, đường dễ đi và ít kẹt xe. Xe máy thuận tiện nhất.",
+    "note_en": "Located downtown with easy roads; motorbike is the quickest option."
+  },
+  {
+    "destination_vi": "Chùa Phật Học",
+    "destination_en": "Phat Hoc Pagoda",
+    "best_options_vi": ["Đi bộ", "Taxi", "Grab"],
+    "best_options_en": ["Walk", "Taxi", "Grab"],
+    "note_vi": "Nằm trên đường Hòa Bình, sát trung tâm, có thể đi bộ từ nhiều điểm lân cận.",
+    "note_en": "Located on Hoa Binh Boulevard, walkable from nearby attractions."
+  },
+  {
+    "destination_vi": "Chùa Munir Ansay",
+    "destination_en": "Munir Ansay Khmer Pagoda",
+    "best_options_vi": ["Đi bộ", "Taxi", "Grab"],
+    "best_options_en": ["Walk", "Taxi", "Grab"],
+    "note_vi": "Ngay trung tâm thành phố, có thể đi bộ từ Bến Ninh Kiều hoặc chợ đêm.",
+    "note_en": "Right in the city center; walkable from Ninh Kieu Wharf or Night Market."
+  },
+  {
+    "destination_vi": "Chùa Hội Linh",
+    "destination_en": "Hoi Linh Pagoda",
+    "best_options_vi": ["Taxi", "Grab", "Xe máy"],
+    "best_options_en": ["Taxi", "Grab", "Motorbike"],
+    "note_vi": "Nằm trong hẻm yên tĩnh, đường nhỏ thoáng; xe máy là lựa chọn dễ đi nhất.",
+    "note_en": "Located in a calm alley; motorbike offers the easiest access."
+  },
+  {
+    "destination_vi": "Thới Long Cổ Tự",
+    "destination_en": "Thoi Long Ancient Temple",
+    "best_options_vi": ["Taxi", "Grab", "Xe máy"],
+    "best_options_en": ["Taxi", "Grab", "Motorbike"],
+    "note_vi": "Đường đi xa hơn (~10 km); taxi thoải mái, xe máy phù hợp nếu muốn đi thêm các quán ăn địa phương.",
+    "note_en": "Farther away (~10 km); taxi is comfortable, motorbike is good if combining with local food stops."
+  },
+      {
+        "destination_vi": "Chợ nổi Cái Răng",
+        "destination_en": "Cai Rang Floating Market",
+        "best_options_vi": ["Taxi + tàu", "Grab + tàu"],
+        "best_options_en": ["Taxi + boat", "Grab + boat"],
+        "note_vi": "Cách trung tâm khoảng 15 phút.",
+        "note_en": "Around 15 minutes from the city center."
+      },
+      {
+        "destination_vi": "Làng du lịch Mỹ Khánh / Ông Đề",
+        "destination_en": "My Khanh / Ong De Tourist Village",
+        "best_options_vi": ["Xe máy", "Taxi"],
+        "best_options_en": ["Motorbike", "Taxi"],
+        "note_vi": "Di chuyển 25-30 phút, đường lớn và dễ đi.",
+        "note_en": "25–30 minutes ride; wide and easy roads."
+      },
+      {
+        "destination_vi": "Cồn Sơn (Bình Thủy)",
+        "destination_en": "Son Islet (Binh Thuy)",
+        "best_options_vi": ["Taxi"],
+        "best_options_en": ["Taxi"],
+        "note_vi": "Một số đoạn dễ ngập vào mùa triều cường.",
+        "note_en": "Some roads may flood during high tides."
+      }
+    ],
+
+    "price_reference_center_to_places": {
+      "san_bay_can_tho_to_trung_tam_vi": "120.000 - 160.000 đ",
+      "san_bay_can_tho_to_trung_tam_en": "120,000 - 160,000 VND",
+
+      "ninh_kieu_to_cai_rang_vi": "70.000 - 90.000 đ",
+      "ninh_kieu_to_cai_rang_en": "70,000 - 90,000 VND",
+      "ninh_kieu_to_my_khanh_vi": "120.000 - 150.000 đ",
+      "ninh_kieu_to_my_khanh_en": "120,000 - 150,000 VND",
+      "ninh_kieu_to_binh_thuy_vi": "60.000 - 80.000 đ",
+      "ninh_kieu_to_binh_thuy_en": "60,000 - 80,000 VND",
+      "ninh_kieu_to_ong_de_vi": "120.000 - 160.000 đ",
+      "ninh_kieu_to_ong_de_en": "120,000 - 160,000 VND"
+    },
+
+    "safety_tips_vi": [
+      "Kiểm tra biển số và đồng hồ taxi trước khi lên xe.",
+      "Tránh đi xe máy vào các tuyến đường thường ngập khi triều cường.",
+      "Nếu đi xa, nên xem giá ước tính trên Grab.",
+      "Mang theo áo mưa nhẹ khi đi xe máy mùa mưa."
+    ],
+    "safety_tips_en": [
+      "Check the taxi plate number and meter before boarding.",
+      "Avoid riding motorbikes on flood-prone roads during high tides.",
+      "Use Grab to check estimated fares for long-distance trips.",
+      "Carry a lightweight raincoat when traveling by motorbike in rainy season."
+    ]
+  },
+  {
+  "id": "transport_traffic_status_can_tho",
+  "type": "transport",
+  "category_vi": "Tình trạng giao thông & kẹt xe",
+  "category_en": "Traffic Conditions & Congestion",
+
+  "overview_vi": "Giao thông Cần Thơ nhìn chung thông thoáng hơn so với TP.HCM hay Hà Nội, tuy nhiên vào giờ cao điểm hoặc khi triều cường, một số tuyến đường trung tâm vẫn thường xuyên ùn tắc nhẹ. Các khu vực quanh Bến Ninh Kiều, Đại lộ Hòa Bình, và các trục chính như 30 Tháng 4 – Mậu Thân là điểm nóng về kẹt xe ngắn hạn.",
+  "overview_en": "Traffic in Can Tho is generally smoother than in Ho Chi Minh City or Hanoi, but minor congestion still occurs during rush hours or high tides. Central zones such as Ninh Kieu Wharf, Hoa Binh Boulevard, and main routes like 30 Thang 4 – Mau Than often experience short-term traffic jams.",
+
+  "rush_hours_vi": {
+    "morning": "06:30 – 08:00",
+    "evening": "16:30 – 18:30",
+    "notes": "Các tuyến đường quanh trường học, khu hành chính, và chợ thường đông xe nhất vào hai khung giờ này."
+  },
+  "rush_hours_en": {
+    "morning": "06:30 – 08:00 AM",
+    "evening": "04:30 – 06:30 PM",
+    "notes": "Streets around schools, government offices, and markets are most crowded during these hours."
+  },
+
+  "common_congestion_areas_vi": [
+    "Đường 3/2 - có Đại học Cần Thơ, đông đúc vào buổi sáng, trục đường kết nối các tuyến đường lớn như Nguyễn Văn Linh, Mậu Thân",
+    "Đại lộ Hòa Bình – trung tâm hành chính, trường học cấp 2 và cấp 3, nhiều xe máy và ô tô, kẹt xe giờ cao điểm ở các giao lộ với Đề Thám và Công viên Lưu Hữu Phước",
+    "Đường Mậu Thân – tuyến kết nối chính giữa nội ô và sân bay Cần Thơ, kẹt xe giờ cao điểm ở các ngã tư với Nguyễn Văn Cừ, 3/2",
+    "Đường 30 Tháng 4 – nhiều cửa hàng, trung tâm thương mại, ít kẹt xe nhưng luôn đông đúc",
+    "Khu Bến Ninh Kiều – đông đúc vào buổi tối và cuối tuần, các tuyến đường quanh bến bị phong tỏa vào cuối tuần để làm phố đi bộ",
+    "Nguyễn Văn Linh – trục giao thông quan trọng kết nối bến xe Cần Thơ, luôn đông đúc và kẹt xe mạnh vào giờ tan tầm",
+    "Khu vực cầu Cần Thơ – dễ kẹt xe nhẹ khi có mưa hoặc sự cố giao thông",
+    "Cầu Quang Trung - kết nối đến khu công nghiệp Cái Răng, kẹt xe mạnh vào buổi sáng và giờ tan tầm",
+    "Đường Cách Mạng Tháng Tám - các bệnh viện lớn và khu dân cư, đông đúc vào giờ cao điểm, thường kẹt xe giờ tan tầm ở ngã tư giao với Nguyễn Văn Cừ",
+    "Đường Nguyễn Văn Cừ - các bệnh viện lớn và đại học Y Dược, kết nối các tuyến đường quan trọng như 3/2, Nguyễn Văn Linh, Cách Mạng Tháng Tám, kẹt xe mạnh ở các giao điểm ngã tư.",
+    "Đường Trần Hưng Đạo - kết nối các tuyến đường quan trọng như Cách Mạng Tháng Tám, Mậu Thân, 3/2, Lý Tự Trọng"
+  ],
+  "common_congestion_areas_en": [
+  "3/2 Street – home to Can Tho University, very crowded in the morning; connects major roads such as Nguyen Van Linh and Mau Than.",
+  "Hoa Binh Boulevard – administrative center with many secondary and high schools; heavy traffic during peak hours, especially at intersections with De Tham Street and Luu Huu Phuoc Park.",
+  "Mau Than Street – a main route connecting the city center and Can Tho Airport; frequent congestion during peak hours at the intersections with Nguyen Van Cu and 3/2 Street.",
+  "30 Thang 4 Street – full of shops and commercial centers; not heavily congested but always very busy.",
+  "Ninh Kieu Wharf area – crowded at night and on weekends; surrounding streets may be blocked on weekends for the walking street.",
+  "Nguyen Van Linh Street – an important road connecting to Can Tho Bus Station; usually busy and heavily congested during evening rush hours.",
+  "Can Tho Bridge area – prone to mild congestion during rain or when traffic incidents occur.",
+  "Quang Trung Bridge – connects to the Cai Rang industrial zone; heavy morning and evening congestion.",
+  "Cach Mang Thang Tam Street – many hospitals and residential areas; rush-hour congestion, especially near the intersection with Nguyen Van Cu.",
+  "Nguyen Van Cu Street – hosts major hospitals and the University of Medicine and Pharmacy; connects to key roads such as 3/2, Nguyen Van Linh, and Cach Mang Thang Tam; heavy congestion at major intersections.",
+  "Tran Hung Dao Street – connects important routes such as Cach Mang Thang Tam, Mau Than, 3/2, and Ly Tu Trong."
+],
+
+  "special_factors_vi": [
+    "Triều cường gây ngập tạm thời, khiến giao thông bị chậm tại các tuyến ven sông.",
+    "Các sự kiện lớn như lễ hội Đường Hoa, Tết, hoặc bắn pháo hoa thường khiến khu vực Ninh Kiều – Hòa Bình bị tắc nghẽn.",
+    "Công trình cải tạo hoặc ngập cục bộ có thể gây kẹt xe cục bộ 10–15 phút."
+  ],
+  "special_factors_en": [
+    "High tides cause temporary flooding and slow traffic along riverside roads.",
+    "Major events such as Flower Street Festival, Tet, or fireworks shows cause congestion near Ninh Kieu – Hoa Binh.",
+    "Road maintenance or localized flooding may lead to short 10–15-minute traffic delays."
+  ],
+
+  "travel_tips_vi": [
+    "Hạn chế di chuyển bằng ô tô trong nội ô vào giờ cao điểm sáng – chiều.",
+    "Nếu đi tham quan Bến Ninh Kiều buổi tối, nên gửi xe sớm và đi bộ quanh khu vực.",
+    "Sử dụng GrabBike hoặc taxi công nghệ để tránh tìm chỗ đậu xe khó khăn.",
+    "Khi trời mưa lớn hoặc triều cường, nên đi sớm 15–20 phút để tránh trễ lịch."
+  ],
+  "travel_tips_en": [
+    "Avoid driving cars downtown during morning and evening rush hours.",
+    "If visiting Ninh Kieu Wharf at night, park early and explore on foot.",
+    "Use GrabBike or ride-hailing taxis to avoid parking difficulties.",
+    "During heavy rain or high tides, leave 15–20 minutes earlier to stay on schedule."
+  ],
+  "related_ids": ["transport_flooding_can_tho", "transport_tide_schedule_can_tho"]
+}
+]

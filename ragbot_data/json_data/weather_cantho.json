@@ -1,0 +1,55 @@
+[
+  {
+  "id": "weather_cantho_general",
+  "type": "weather",
+  "city_vi": "Cần Thơ",
+  "city_en": "Can Tho",
+  "category_vi": "Khí hậu & thời tiết quanh năm",
+  "category_en": "Climate & Year-round Weather",
+
+  "overview_vi": "Cần Thơ nằm trong vùng khí hậu nhiệt đới gió mùa, có hai mùa rõ rệt là mùa mưa và mùa khô. Nhiệt độ trung bình 26–28°C, thời tiết ôn hòa, thuận lợi cho du lịch quanh năm.",
+  "overview_en": "Can Tho has a tropical monsoon climate with two distinct seasons: rainy and dry. The average temperature ranges between 26°C and 28°C, offering mild conditions suitable for travel all year round.",
+
+  "seasons": [
+    {
+      "name_vi": "Mùa khô",
+      "name_en": "Dry Season",
+      "duration_vi": "Từ tháng 12 đến tháng 4",
+      "duration_en": "From December to April",
+      "description_vi": "Trời nắng ấm, ít mưa, không khí khô ráo. Thời điểm lý tưởng để tham quan chợ nổi, khám phá miệt vườn và tham dự các lễ hội đầu năm như Tết Nguyên Đán, Đường Hoa Cần Thơ.",
+      "description_en": "Warm and dry with plenty of sunshine. The perfect time to visit floating markets, explore fruit gardens, and enjoy early-year festivals such as Lunar New Year and the Can Tho Flower Street."
+    },
+    {
+      "name_vi": "Mùa mưa",
+      "name_en": "Rainy Season",
+      "duration_vi": "Từ tháng 5 đến tháng 11",
+      "duration_en": "From May to November",
+      "description_vi": "Mưa rào xuất hiện ngắn vào buổi chiều nhưng không kéo dài. Cảnh vật xanh tươi, cây trái sum suê – rất thích hợp cho du lịch sinh thái và chụp ảnh miệt vườn.",
+      "description_en": "Short afternoon showers but rarely prolonged. The landscape becomes lush and vibrant – perfect for eco-tours and countryside photography."
+    }
+  ],
+
+  "average_conditions": {
+    "temperature_vi": "26–28°C quanh năm",
+    "temperature_en": "26–28°C year-round",
+    "rainfall_vi": "Mưa tập trung từ tháng 6 đến tháng 10, trung bình 1.600–2.000mm/năm",
+    "rainfall_en": "Rainfall peaks from June to October, averaging 1,600–2,000 mm per year",
+    "humidity_vi": "Độ ẩm trung bình 80–85%",
+    "humidity_en": "Average humidity around 80–85%",
+    "wind_vi": "Gió Tây Nam thịnh hành vào mùa mưa, Đông Bắc vào mùa khô",
+    "wind_en": "Prevailing southwest winds during rainy season, northeast winds during dry season"
+  },
+  "best_travel_time_vi": "Tháng 12 đến tháng 4 là thời điểm đẹp nhất để du lịch Cần Thơ – trời khô ráo, nắng nhẹ và nhiều hoạt động lễ hội.",
+  "best_travel_time_en": "December to April is the best time to visit Can Tho – dry weather, gentle sunlight, and many festive events.",
+  "special_notes_vi": [
+    "Buổi sáng và chiều là thời điểm dễ chịu nhất trong ngày.",
+    "Thời tiết ổn định, ít chịu ảnh hưởng của bão so với các vùng ven biển.",
+    "Nếu du lịch mùa mưa, nên mang theo áo mưa nhẹ hoặc dù nhỏ."
+  ],
+  "special_notes_en": [
+    "Mornings and late afternoons offer the most comfortable weather.",
+    "The city is rarely affected by storms compared to coastal provinces.",
+    "Bring a light raincoat or umbrella if traveling during the rainy season."
+  ]
+}
+]

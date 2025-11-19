@@ -1,0 +1,303 @@
+[{
+  "id": "market_xuan_khanh",
+  "type": "market",
+  "name_vi": "Chợ Xuân Khánh",
+  "name_en": "Xuan Khanh Market",
+  "category_vi": "Chợ truyền thống – thực phẩm tươi sống",
+  "category_en": "Traditional Market – Fresh Produce",
+  "address_vi": "Đường Trần Hưng Đạo, quận Ninh Kiều, Cần Thơ",
+  "address_en": "Tran Hung Dao Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "05:00 – 18:00",
+  "price_range_vi": "Rẻ – trung bình",
+  "price_range_en": "Low – Medium",
+  "description_vi": "Chợ lớn tại khu dân cư Xuân Khánh, nổi tiếng với hải sản tươi, rau củ và đồ ăn sáng. Không khí nhộn nhịp từ sáng sớm.",
+  "description_en": "A large local market known for its fresh seafood, vegetables, and breakfast stalls. Very lively during early morning hours.",
+  "best_time_vi": "05:00 – 08:00 sáng",
+  "best_time_en": "5 AM – 8 AM"
+},
+{
+  "id": "market_tan_an",
+  "type": "market",
+  "name_vi": "Chợ Tân An",
+  "name_en": "Tan An Market",
+  "category_vi": "Chợ truyền thống – đặc sản & đồ khô",
+  "category_en": "Traditional Market – Specialties & Dried Goods",
+  "address_vi": "Đường Hai Bà Trưng, gần Bến Ninh Kiều, quận Ninh Kiều",
+  "address_en": "Hai Ba Trung Street, near Ninh Kieu Wharf, Ninh Kieu District",
+  "opening_hours": "05:00 – 18:30",
+  "price_range_vi": "Trung bình",
+  "price_range_en": "Medium",
+  "description_vi": "Một trong những chợ lâu đời nhất Cần Thơ, nổi tiếng bán đặc sản miền Tây: bánh tét, khô cá, mắm, trái cây. Thu hút nhiều khách du lịch.",
+  "description_en": "One of Can Tho’s oldest markets, well-known for Mekong Delta specialties: sticky rice cakes, dried fish, fermented fish, and fruits. Popular among tourists.",
+  "best_time_vi": "Buổi sáng và chiều muộn",
+  "best_time_en": "Morning or late afternoon"
+},
+{
+  "id": "market_an_binh",
+  "type": "market",
+  "name_vi": "Chợ An Bình",
+  "name_en": "An Binh Market",
+  "category_vi": "Chợ địa phương – thực phẩm & hải sản",
+  "category_en": "Local Market – Fresh Food & Seafood",
+  "address_vi": "Đường Trần Vĩnh Kiết, quận Ninh Kiều, Cần Thơ",
+  "address_en": "Tran Vinh Kiet Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "04:30 – 18:00",
+  "price_range_vi": "Rẻ",
+  "price_range_en": "Low",
+  "description_vi": "Chợ dân sinh lớn của khu An Bình, chuyên bán cá đồng, hải sản, rau vườn và nhiều món ăn sáng đặc trưng miền Tây.",
+  "description_en": "A busy local market offering freshwater fish, seafood, garden vegetables, and various breakfast dishes typical of the Mekong Delta.",
+  "best_time_vi": "06:00 – 09:00 sáng",
+  "best_time_en": "6 AM – 9 AM"
+},
+{
+  "id": "market_an_lac_cho_sat",
+  "type": "market",
+  "name_vi": "Chợ An Lạc (Chợ Sắt)",
+  "name_en": "An Lac Market (Iron Market)",
+  "category_vi": "Chợ đặc thù – đồ sắt, công cụ, gia dụng",
+  "category_en": "Specialized Market – Metal Goods & Tools",
+  "address_vi": "Đường Ngô Quyền, quận Ninh Kiều, Cần Thơ",
+  "address_en": "Ngo Quyen Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "07:00 – 17:30",
+  "price_range_vi": "Trung bình",
+  "price_range_en": "Medium",
+  "description_vi": "Chợ buôn bán đồ sắt, dụng cụ cơ khí, đồ gia dụng và phụ kiện xây dựng. Là nơi quen thuộc của thợ sửa chữa và tiểu thương.",
+  "description_en": "A specialized market for metal tools, mechanical equipment, household items, and construction supplies. Popular among technicians and small merchants.",
+  "best_time_vi": "Giờ hành chính",
+  "best_time_en": "Business hours"
+},
+{
+  "id": "market_cai_khe",
+  "type": "market",
+  "name_vi": "Chợ Cái Khế",
+  "name_en": "Cai Khe Market",
+  "category_vi": "Chợ trung tâm – thực phẩm và quần áo",
+  "category_en": "Central Market – Food & Clothing",
+  "address_vi": "Đường Trần Văn Khéo, quận Ninh Kiều, Cần Thơ",
+  "address_en": "Tran Van Kheo Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "05:00 – 19:00",
+  "price_range_vi": "Rẻ – trung bình",
+  "price_range_en": "Low – Medium",
+  "description_vi": "Chợ nằm gần khu khách sạn và khu vui chơi Cái Khế, bán nhiều mặt hàng đa dạng: thịt cá, rau củ, quần áo và đồ gia dụng.",
+  "description_en": "Located near hotels and the entertainment zone of Cai Khe, this market offers a wide range of goods including fresh produce, clothing, and household items.",
+  "best_time_vi": "Sáng sớm",
+  "best_time_en": "Early morning"
+},
+{
+  "id": "market_an_lac_food",
+  "type": "market",
+  "name_vi": "Chợ An Lạc (Khu thực phẩm)",
+  "name_en": "An Lac Market (Food Area)",
+  "category_vi": "Chợ địa phương – thực phẩm tươi sống",
+  "category_en": "Local Market – Fresh Foods",
+  "address_vi": "Gần Ngô Quyền – Lê Lợi, quận Ninh Kiều",
+  "address_en": "Near Ngo Quyen – Le Loi, Ninh Kieu District",
+  "opening_hours": "04:30 – 18:00",
+  "price_range_vi": "Rẻ",
+  "price_range_en": "Low",
+  "description_vi": "Khu chợ thực phẩm của An Lạc, bán thịt – cá – rau – trái cây và nhiều món ăn sáng bình dân.",
+  "description_en": "The fresh-food section of An Lac, selling meat, fish, vegetables, fruits, and various affordable breakfast dishes.",
+  "best_time_vi": "05:00 – 08:00 sáng",
+  "best_time_en": "5 AM – 8 AM"
+},
+{
+  "id": "market_binh_thuy",
+  "type": "market",
+  "name_vi": "Chợ Bình Thủy",
+  "name_en": "Binh Thuy Market",
+
+  "category_vi": "Chợ truyền thống – Ẩm thực & mua sắm địa phương",
+  "category_en": "Traditional Market – Local Food & Shopping",
+
+  "address_vi": "Đường Lê Hồng Phong, Phường Bình Thủy, Quận Bình Thủy, Cần Thơ",
+  "address_en": "Le Hong Phong Street, Binh Thuy Ward, Binh Thuy District, Can Tho",
+
+  "opening_hours_vi": "05:00 – 18:00",
+  "opening_hours_en": "5:00 AM – 6:00 PM",
+
+  "description_vi": "Chợ Bình Thủy là một trong những khu chợ lâu đời và sầm uất của quận Bình Thủy. Chợ nổi tiếng với các loại thực phẩm tươi sống, trái cây miệt vườn, hải sản, cùng nhiều món ăn sáng đặc trưng miền Tây. Đây cũng là nơi người dân địa phương mua sắm hằng ngày, mang đậm không khí sinh hoạt truyền thống.",
+  "description_en": "Binh Thuy Market is one of the oldest and busiest traditional markets in Binh Thuy District. It is well-known for fresh produce, local fruits, seafood, and a variety of authentic Mekong Delta breakfast dishes. The market reflects everyday local life and traditional southern culture.",
+
+  "famous_items_vi": [
+    "Cá đồng, tôm – cua tươi",
+    "Trái cây miệt vườn (dâu Hạ Châu, măng cụt, nhãn Ido)",
+    "Bánh dân gian (bánh tét, bánh da lợn, bánh chuối hấp)",
+    "Các món ăn sáng như bún cá, hủ tiếu, bánh mì",
+    "Gia vị và rau xanh địa phương"
+  ],
+  "famous_items_en": [
+    "Fresh river fish, shrimp, and crabs",
+    "Local fruits (Ha Chau plum, mangosteen, Ido longan)",
+    "Traditional cakes (Tet sticky cake, pandan layer cake, steamed banana cake)",
+    "Breakfast dishes like fish noodle soup, hu tieu, banh mi",
+    "Local herbs and spices"
+  ],
+
+  "price_range_vi": "10.000 – 200.000 đ tùy mặt hàng",
+  "price_range_en": "10,000 – 200,000 VND depending on item",
+
+  "suitable_for_vi": [
+    "Du khách muốn trải nghiệm chợ truyền thống",
+    "Người thích ẩm thực miền Tây, món dân dã",
+    "Người mua trái cây và đặc sản về làm quà"
+  ],
+  "suitable_for_en": [
+    "Visitors wanting to explore local markets",
+    "Food lovers seeking authentic Mekong Delta dishes",
+    "Travelers buying fruits or local specialties as gifts"
+  ],
+
+  "travel_tips_vi": [
+    "Đi chợ buổi sáng để có hải sản và trái cây tươi nhất.",
+    "Mang theo tiền mặt vì nhiều tiểu thương không nhận chuyển khoản.",
+    "Có thể kết hợp tham quan Nhà cổ Bình Thủy cách chợ khoảng 5 phút.",
+    "Buổi trưa chợ giảm hoạt động, nên đi trước 10h."
+  ],
+  "travel_tips_en": [
+    "Visit in the morning for the freshest seafood and fruits.",
+    "Bring cash as most vendors do not accept bank transfers.",
+    "Combine with visiting Binh Thuy Ancient House (only 5 minutes away).",
+    "Market activity slows down around noon, so visit before 10 AM."
+  ],
+
+  "nearby_places": [
+    "Nhà cổ Bình Thủy",
+    "Chùa Long Quang",
+    "Cồn Sơn (đi taxi khoảng 5–7 phút)"
+  ]
+},
+{
+  "id": "market_an_khanh",
+  "type": "market",
+  "name_vi": "Chợ An Khánh",
+  "name_en": "An Khanh Market",
+
+  "category_vi": "Chợ truyền thống – Ẩm thực & nhu yếu phẩm",
+  "category_en": "Traditional Market – Local Food & Daily Essentials",
+
+  "address_vi": "Đường 3 Tháng 2, Phường An Khánh, Quận Ninh Kiều, Cần Thơ",
+  "address_en": "3/2 Street, An Khanh Ward, Ninh Kieu District, Can Tho",
+
+  "opening_hours_vi": "05:00 – 18:00",
+  "opening_hours_en": "5:00 AM – 6:00 PM",
+
+  "description_vi": "Chợ An Khánh là khu chợ truyền thống lớn của quận Ninh Kiều, nổi tiếng với các mặt hàng giá bình dân và khu ăn uống đa dạng. Chợ chủ yếu phục vụ người dân địa phương, mang đậm không khí sinh hoạt đời thường với nhiều quầy thực phẩm tươi sống, rau củ, trái cây và món ăn sáng miền Tây.",
+  "description_en": "An Khanh Market is a major traditional market in Ninh Kieu District, known for its affordable goods and diverse food stalls. The market mainly serves local residents and offers a vibrant atmosphere with fresh produce, fruits, vegetables, and classic Mekong Delta breakfast dishes.",
+
+  "famous_items_vi": [
+    "Hải sản và cá đồng tươi sống",
+    "Trái cây miệt vườn theo mùa",
+    "Bánh dân gian (bánh tét, bánh cống, bánh chuối)",
+    "Món ăn sáng như bún mắm, hủ tiếu, bánh canh",
+    "Quần áo – giày dép giá rẻ"
+  ],
+  "famous_items_en": [
+    "Fresh seafood and river fish",
+    "Seasonal tropical fruits",
+    "Traditional cakes (sticky rice cake, banh cong, banana cake)",
+    "Breakfast dishes like bun mam, hu tieu, banh canh",
+    "Budget clothing and footwear"
+  ],
+
+  "price_range_vi": "5.000 – 150.000 đ tùy mặt hàng",
+  "price_range_en": "5,000 – 150,000 VND depending on item",
+
+  "suitable_for_vi": [
+    "Người thích khám phá chợ địa phương",
+    "Du khách muốn thử đồ ăn sáng miền Tây",
+    "Người mua thực phẩm và trái cây tươi"
+  ],
+  "suitable_for_en": [
+    "Visitors exploring local markets",
+    "Tourists wanting to try Mekong Delta breakfasts",
+    "People buying fresh produce and fruits"
+  ],
+
+  "travel_tips_vi": [
+    "Nên đi từ 6h–9h sáng để có thực phẩm và đồ ăn tươi.",
+    "Giá bình dân nhưng có thể trả giá nhẹ khi mua nhiều.",
+    "Chợ khá đông vào giờ cao điểm buổi sáng.",
+    "Gần Đại học Cần Thơ nên khu vực quanh chợ rất sôi động."
+  ],
+  "travel_tips_en": [
+    "Visit between 6–9 AM for the freshest items.",
+    "Prices are affordable, but bargaining slightly is acceptable.",
+    "The market is crowded during morning peak hours.",
+    "Located near Can Tho University, making the surrounding area lively."
+  ],
+
+  "nearby_places": [
+    "Đại học Cần Thơ",
+    "Hẻm 132 – khu đồ nướng sinh viên",
+    "Hồ Bún Xáng"
+  ]
+},
+{
+  "id": "market_tran_viet_chau",
+  "type": "market",
+  "name_vi": "Chợ Trần Việt Châu",
+  "name_en": "Tran Viet Chau Market",
+
+  "category_vi": "Chợ truyền thống – Ẩm thực & đặc sản địa phương",
+  "category_en": "Traditional Market – Local Food & Specialties",
+
+  "address_vi": "Đường Trần Việt Châu, Phường An Hòa, Quận Ninh Kiều, Cần Thơ",
+  "address_en": "Tran Viet Chau Street, An Hoa Ward, Ninh Kieu District, Can Tho",
+
+  "opening_hours_vi": "05:00 – 18:00",
+  "opening_hours_en": "5:00 AM – 6:00 PM",
+
+  "description_vi": "Chợ Trần Việt Châu là khu chợ truyền thống lâu đời, nổi tiếng với thực phẩm tươi sống, trái cây miệt vườn và các món ăn sáng đậm chất miền Tây. Chợ có không gian khá rộng và nhộn nhịp, đặc biệt vào buổi sáng và gần trưa. Đây là nơi người dân địa phương mua bán hằng ngày, mang đậm nét văn hóa sinh hoạt của khu vực An Hòa – Ninh Kiều.",
+  "description_en": "Tran Viet Chau Market is a long-standing traditional market known for fresh produce, local fruits, and authentic Mekong Delta breakfast dishes. The market is spacious and lively, especially in the morning and around noon, offering a genuine glimpse into the daily life of An Hoa – Ninh Kieu residents.",
+
+  "famous_items_vi": [
+    "Cá đồng, tôm, cua tươi",
+    "Trái cây miệt vườn (măng cụt, xoài, nhãn)",
+    "Bánh dân gian như bánh tét, bánh da lợn, bánh chuối",
+    "Món ăn sáng: hủ tiếu, bún cá, bánh mì thịt",
+    "Gia vị – rau củ địa phương"
+  ],
+  "famous_items_en": [
+    "Fresh river fish, shrimp, and crabs",
+    "Local tropical fruits (mangosteen, mango, longan)",
+    "Traditional cakes like sticky rice cake, pandan cake, banana cake",
+    "Breakfast dishes: hu tieu, fish noodle soup, banh mi",
+    "Herbs, spices, and local vegetables"
+  ],
+
+  "price_range_vi": "5.000 – 180.000 đ tùy mặt hàng",
+  "price_range_en": "5,000 – 180,000 VND depending on item",
+
+  "suitable_for_vi": [
+    "Du khách thích văn hóa chợ địa phương",
+    "Người muốn thử ẩm thực sáng miền Tây",
+    "Người mua trái cây và bánh dân gian"
+  ],
+  "suitable_for_en": [
+    "Visitors exploring local market culture",
+    "Travelers looking for Mekong-style breakfast",
+    "People buying fruits and traditional sweets"
+  ],
+
+  "travel_tips_vi": [
+    "Nên đi trước 10h sáng để có thực phẩm tươi nhất.",
+    "Một số quầy bánh dân gian thường hết sớm.",
+    "Mang tiền mặt vì ít tiểu thương nhận chuyển khoản.",
+    "Khu vực gần chợ dễ kẹt nhẹ vào buổi sáng."
+  ],
+  "travel_tips_en": [
+    "Visit before 10 AM for the freshest items.",
+    "Some traditional cake stalls sell out early.",
+    "Bring cash as most vendors do not accept bank transfers.",
+    "The surrounding streets may be mildly congested in the morning."
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều (khoảng 5 phút đi xe)",
+    "Chợ An Hòa",
+    "Công viên Lưu Hữu Phước",
+    "Đường 30 Tháng 4 – khu ẩm thực và mua sắm"
+  ]
+}
+
+]

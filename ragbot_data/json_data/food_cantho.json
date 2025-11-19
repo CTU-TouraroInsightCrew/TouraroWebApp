@@ -1,0 +1,732 @@
+[
+  {
+  "id": "food_hu_tieu_01",
+  "type": "food",
+
+  "name_vi": "Hủ Tiếu Cần Thơ",
+  "name_en": "Can Tho Rice Noodle Soup",
+
+  "category_vi": "Món nước",
+  "category_en": "Noodle Soup",
+
+  "best_places": ["Hủ Tiếu Mực Nhã", "Các chợ truyền thống"],
+  "price_range": "35.000 – 60.000đ",
+
+  "description_vi": "Nước dùng trong, ngọt thanh từ xương, ăn kèm tôm, thịt, trứng cút và sợi hủ tiếu mềm. Đây là món ăn sáng quen thuộc của người dân Cần Thơ.",
+  "description_en": "A clear and naturally sweet broth made from pork bones, served with shrimp, pork slices, quail eggs, and soft rice noodles. A signature breakfast dish of Can Tho locals."
+},
+  {
+  "id": "food_bun_mam_02",
+  "type": "food",
+
+  "name_vi": "Bún Mắm",
+  "name_en": "Fermented Fish Vermicelli Soup",
+
+  "category_vi": "Đặc sản miền Tây",
+  "category_en": "Mekong Signature Dish",
+
+  "best_places": ["Bún Mắm 144 Đề Thám"],
+  "price_range": "45.000 – 60.000đ",
+
+  "description_vi": "Món bún đậm đà nấu từ mắm cá linh hoặc cá sặc, ăn kèm heo quay, tôm, mực và rau sống. Hương vị đặc trưng không lẫn vào đâu của miền Tây.",
+  "description_en": "A rich vermicelli soup made with fermented linh or sặc fish, served with roasted pork, shrimp, squid, and fresh herbs. A bold and iconic flavor of the Mekong Delta."
+},
+  {
+  "id": "food_bun_ca_loc_03",
+  "type": "food",
+
+  "name_vi": "Bún Cá Lóc",
+  "name_en": "Snakehead Fish Vermicelli Soup",
+
+  "category_vi": "Món nước",
+  "category_en": "Noodle Soup",
+
+  "best_places": ["Bún Cá Thanh Trúc"],
+  "price_range": "30.000 – 45.000đ",
+
+  "description_vi": "Cá lóc hấp hoặc chiên được ăn kèm rau đắng, bắp chuối và nước dùng thanh ngọt. Món ăn nhẹ nhàng, dễ ăn của người miền Tây.",
+  "description_en": "Steamed or fried snakehead fish served with bitter herbs, banana blossom, and a naturally sweet broth. A light and refreshing Mekong Delta dish."
+},
+  {
+  "id": "food_banh_canh_04",
+  "type": "food",
+
+  "name_vi": "Bánh Canh Gạo",
+  "name_en": "Vietnamese Thick Rice Noodle Soup",
+
+  "category_vi": "Món nước dân dã",
+  "category_en": "Rustic Noodle Soup",
+
+  "best_places": ["Bánh Canh Cua Lý Tự Trọng"],
+  "price_range": "30.000 – 55.000đ",
+
+  "description_vi": "Sợi bánh canh mềm làm từ bột gạo, nước dùng ngọt thanh, ăn kèm tôm, cua hoặc chả. Một món dân dã được yêu thích trong bữa sáng.",
+  "description_en": "Soft thick noodles made from rice flour served in a naturally sweet broth, topped with shrimp, crab, or Vietnamese pork cake. A beloved rustic breakfast dish."
+},
+  {
+  "id": "food_lau_mam_05",
+  "type": "food",
+
+  "name_vi": "Lẩu Mắm",
+  "name_en": "Fermented Fish Hotpot",
+
+  "category_vi": "Lẩu đặc sản",
+  "category_en": "Signature Hotpot",
+
+  "best_places": ["Lẩu Mắm Dạ Lý"],
+  "price_range": "150.000 – 300.000đ",
+
+  "description_vi": "Lẩu được nấu từ mắm cá linh hoặc cá sặc, kết hợp hải sản, thịt heo và bộ rau đồng phong phú. Đây là món nổi tiếng nhất trong ẩm thực miền Tây.",
+  "description_en": "A savoury hotpot made from fermented linh or sặc fish, cooked with assorted seafood, pork, and a large variety of Mekong vegetables. One of the most iconic dishes of the Mekong Delta."
+},
+  {
+  "id": "food_lau_ca_keo_06",
+  "type": "food",
+
+  "name_vi": "Lẩu Cá Kèo Lá Giang",
+  "name_en": "Cá Kèo Hotpot with Giang Leaves",
+
+  "category_vi": "Lẩu đặc sản",
+  "category_en": "Signature Hotpot",
+
+  "best_places": ["Khu ẩm thực hồ Bún Xáng"],
+  "price_range": "150.000 – 280.000đ",
+
+  "description_vi": "Cá kèo tươi sống nấu cùng lá giang tạo vị chua thanh đặc trưng, ăn kèm bún và nhiều loại rau đồng. Đây là món lẩu được yêu thích tại miền Tây.",
+  "description_en": "Fresh cá kèo (mudfish) cooked with giang leaves, creating a uniquely sour and refreshing broth. Served with rice noodles and Mekong-style vegetables. A beloved hotpot of the Mekong Delta."
+},
+  {
+  "id": "food_banh_xeo_07",
+  "type": "food",
+
+  "name_vi": "Bánh Xèo Miền Tây",
+  "name_en": "Mekong Crispy Vietnamese Pancake",
+
+  "category_vi": "Bánh dân dã",
+  "category_en": "Rustic Vietnamese Pancake",
+
+  "best_places": ["Bánh Xèo 7 Tới"],
+  "price_range": "40.000 – 70.000đ",
+
+  "description_vi": "Bánh xèo vàng giòn với nhân tôm, thịt và giá. Bột bánh thường pha thêm chút nước cốt dừa tạo độ thơm béo đặc trưng của miền Tây.",
+  "description_en": "A crispy yellow pancake stuffed with shrimp, pork, and bean sprouts. The batter often includes coconut milk for a rich, fragrant Mekong flavor."
+}
+,
+  {
+  "id": "food_banh_cong_08",
+  "type": "food",
+
+  "name_vi": "Bánh Cống",
+  "name_en": "Vietnamese Shrimp & Mung Bean Fritters",
+
+  "category_vi": "Bánh dân gian",
+  "category_en": "Traditional Vietnamese Snack",
+
+  "best_places": ["Bánh Cống Cô Út"],
+  "price_range": "15.000 – 25.000đ",
+
+  "description_vi": "Bánh cống giòn rụm với nhân tôm, thịt và đậu xanh, ăn kèm rau sống và nước mắm chua ngọt. Là món ăn vặt nổi tiếng của miền Tây.",
+  "description_en": "Crispy fried fritters filled with shrimp, pork, and mung beans, served with fresh herbs and sweet–sour fish sauce. A well-known Mekong Delta street snack."
+},
+  {
+  "id": "food_banh_pia_09",
+  "type": "food",
+
+  "name_vi": "Bánh Pía",
+  "name_en": "Pia Cake",
+
+  "category_vi": "Đặc sản Sóc Trăng – phổ biến miền Tây",
+  "category_en": "Soc Trang Specialty – Popular in Mekong Delta",
+
+  "best_places": ["Các cửa hàng đặc sản miền Tây", "Cửa hàng bánh Tân Huê Viên"],
+  "price_range": "50.000 – 120.000đ/hộp",
+
+  "description_vi": "Bánh pía nhân đậu xanh sầu riêng hoặc trứng muối. Vỏ mềm, vị ngọt béo đặc trưng, là đặc sản nổi tiếng của Sóc Trăng nhưng rất phổ biến ở Cần Thơ.",
+  "description_en": "Pia cake filled with mung bean paste mixed with durian or salted egg yolk. Soft, mildly sweet, and rich—originally from Soc Trang but widely loved throughout the Mekong Delta."
+},
+  {
+  "id": "food_ca_loc_nuong_trui_10",
+  "type": "food",
+
+  "name_vi": "Cá Lóc Nướng Trui",
+  "name_en": "Charcoal-Roasted Snakehead Fish",
+
+  "category_vi": "Món nướng dân dã",
+  "category_en": "Rustic Grilled Dish",
+
+  "best_places": ["Quán đồng quê Phong Điền", "Khu ẩm thực hồ Bún Xáng"],
+  "price_range": "120.000 – 180.000đ",
+
+  "description_vi": "Cá lóc được nướng bằng rơm tạo hương thơm đặc trưng, thịt ngọt và chắc. Thường ăn kèm bánh tráng, rau sống và nước mắm chua ngọt.",
+  "description_en": "Snakehead fish roasted over burning straw, giving it a distinctive smoky aroma and firm, sweet meat. Served with rice paper, fresh herbs, and sweet–sour dipping sauce."
+},
+  {
+  "id": "food_ga_quay_lu_11",
+  "type": "food",
+
+  "name_vi": "Gà Quay Lu",
+  "name_en": "Clay Pot Roasted Chicken",
+
+  "category_vi": "Món chính đặc sản",
+  "category_en": "Signature Main Dish",
+
+  "best_places": ["Gà Quay Bé Năm"],
+  "price_range": "120.000 – 160.000đ/nửa con",
+
+  "description_vi": "Gà được quay trong lu đất truyền thống, thịt mềm, da vàng giòn và mang hương thơm đặc trưng. Là món đặc sản rất được ưa chuộng của miền Tây.",
+  "description_en": "Chicken roasted in a traditional clay pot, resulting in tender meat, crispy golden skin, and a distinctive aroma. A widely loved specialty of the Mekong Delta."
+},
+  {
+  "id": "food_kho_quet_12",
+  "type": "food",
+
+  "name_vi": "Kho Quẹt",
+  "name_en": "Vietnamese Caramelized Dip (Kho Quẹt)",
+
+  "category_vi": "Món chấm dân dã",
+  "category_en": "Rustic Dipping Dish",
+
+  "best_places": ["Các quán cơm miền Tây", "Khu ẩm thực hồ Bún Xáng", "Hẻm 51, Đường 3 tháng 2"],
+  "price_range": "20.000 – 40.000đ/phần",
+
+  "description_vi": "Kho quẹt mặn ngọt hài hòa từ nước mắm, đường và tóp mỡ, ăn kèm rau luộc hoặc cơm trắng rất đưa cơm. Món ăn đậm chất miền Tây.",
+  "description_en": "A balanced sweet–savory dip made from fish sauce, caramelized sugar, and crispy pork cracklings. Commonly enjoyed with boiled vegetables or white rice — a classic taste of the Mekong Delta."
+},
+  {
+  "id": "food_ca_tai_tuong_chien_xu_13",
+  "type": "food",
+
+  "name_vi": "Cá Tai Tượng Chiên Xù",
+  "name_en": "Crispy Deep-Fried Gourami Fish",
+
+  "category_vi": "Món đặc sản miền sông nước",
+  "category_en": "River Specialty Dish",
+
+  "best_places": ["Nhà hàng miệt vườn Phong Điền"],
+  "price_range": "180.000 – 250.000đ/con",
+
+  "description_vi": "Cá tai tượng được chiên nguyên con đến khi da vàng giòn rụm, trong khi thịt bên trong mềm, ngọt tự nhiên. Thường ăn kèm bánh tráng và rau sống.",
+  "description_en": "Whole gourami fish deep-fried until its skin becomes perfectly crispy while the inside remains tender and naturally sweet. Often served with rice paper and fresh herbs."
+},
+  {
+  "id": "food_lau_chua_ca_bong_14",
+  "type": "food",
+
+  "name_vi": "Lẩu Chua Cá Bông Lau",
+  "name_en": "Sour Hotpot with Pangasius Krempfi",
+
+  "category_vi": "Lẩu đặc sản miền Tây",
+  "category_en": "Mekong Signature Hotpot",
+
+  "best_places": ["Các quán lẩu Phong Điền", "Khu ẩm thực hồ Bún Xáng"],
+  "price_range": "150.000 – 250.000đ",
+
+  "description_vi": "Cá bông lau mềm béo kết hợp với nước lẩu có vị chua nhẹ từ me và cà chua, ăn kèm các loại rau đồng tươi xanh. Đây là món lẩu đặc trưng vào mùa nước nổi.",
+  "description_en": "Creamy and tender pangasius krempfi cooked in a lightly sour broth made from tamarind and tomatoes, served with fresh Mekong vegetables. A seasonal hotpot popular during the floating-water season."
+},
+  {
+  "id": "food_bong_dien_dien_xao_15",
+  "type": "food",
+
+  "name_vi": "Bông Điên Điển Xào Tỏi",
+  "name_en": "Stir-Fried Điên Điển Flowers with Garlic",
+
+  "category_vi": "Món rau đặc trưng mùa nước nổi",
+  "category_en": "Seasonal Vegetable Dish",
+
+  "best_places": ["Quán đồng quê Cần Thơ"],
+  "price_range": "40.000 – 60.000đ",
+
+  "description_vi": "Bông điên điển giòn nhẹ, xào cùng tỏi phi thơm. Đây là món rau đặc trưng không thể thiếu trong mùa nước nổi miền Tây.",
+  "description_en": "Crisp điên điển flowers stir-fried with fragrant garlic. A seasonal vegetable dish that represents the floating-water season in the Mekong Delta."
+},
+  {
+    "id": "food_banh_cong_01",
+    "type": "food",
+    "name_vi": "Bánh Cống",
+    "name_en": "Vietnamese Shrimp & Mung Bean Fritters",
+    "category_vi": "Bánh dân gian",
+    "category_en": "Traditional Folk Cake",
+    "best_places": ["Bánh Cống Cô Út – Cần Thơ"],
+    "price_range": "15.000 – 25.000đ",
+    "description_vi": "Bánh chiên giòn với nhân tôm, thịt và đậu xanh. Ăn kèm rau sống và nước mắm chua ngọt.",
+    "description_en": "Crispy deep-fried fritters filled with shrimp, pork, and mung beans, served with fresh herbs and sweet–sour fish sauce."
+  },
+  {
+    "id": "food_banh_xeo_02",
+    "type": "food",
+    "name_vi": "Bánh Xèo Miền Tây",
+    "name_en": "Mekong Crispy Vietnamese Pancake",
+    "category_vi": "Bánh dân dã",
+    "category_en": "Rustic Vietnamese Pancake",
+    "best_places": ["Bánh Xèo 7 Tới – Cần Thơ"],
+    "price_range": "40.000 – 70.000đ",
+    "description_vi": "Bánh xèo vàng giòn, nhân tôm thịt, giá và đôi khi có nước cốt dừa tạo độ thơm béo.",
+    "description_en": "A crispy yellow pancake stuffed with shrimp, pork, and bean sprouts. Coconut milk is sometimes added to enhance richness."
+  },
+  {
+    "id": "food_banh_khot_03",
+    "type": "food",
+    "name_vi": "Bánh Khọt",
+    "name_en": "Mini Crispy Coconut Pancakes",
+    "category_vi": "Bánh dân gian",
+    "category_en": "Traditional Folk Cake",
+    "best_places": ["Các quán vỉa hè khu Ninh Kiều"],
+    "price_range": "25.000 – 40.000đ",
+    "description_vi": "Bánh nhỏ giòn rụm, nhân tôm, ăn kèm rau sống và nước mắm chua ngọt.",
+    "description_en": "Small crispy pancakes topped with shrimp, usually served with herbs and sweet–sour fish sauce."
+  },
+  {
+    "id": "food_banh_bo_04",
+    "type": "food",
+    "name_vi": "Bánh Bò Nướng",
+    "name_en": "Vietnamese Honeycomb Cake",
+    "category_vi": "Bánh truyền thống",
+    "category_en": "Traditional Vietnamese Cake",
+    "best_places": ["Chợ Tân An – Cần Thơ"],
+    "price_range": "20.000 – 30.000đ",
+    "description_vi": "Bánh xốp mềm, rễ tre đẹp, vị ngọt nhẹ và thơm mùi nước cốt dừa.",
+    "description_en": "A soft, spongy cake with a honeycomb-like texture, lightly sweet and fragrant with coconut milk."
+  },
+  {
+    "id": "food_banh_bot_loc_05",
+    "type": "food",
+    "name_vi": "Bánh Bột Lọc",
+    "name_en": "Tapioca Shrimp & Pork Dumplings",
+    "category_vi": "Bánh truyền thống",
+    "category_en": "Traditional Vietnamese Dumpling",
+    "best_places": ["Chợ Cần Thơ"],
+    "price_range": "20.000 – 30.000đ",
+    "description_vi": "Nhân tôm – thịt, vỏ bột lọc trong dai, ăn với nước mắm pha.",
+    "description_en": "Chewy translucent tapioca dumplings filled with shrimp and pork, served with seasoned fish sauce."
+  },
+  {
+    "id": "food_banh_xu_xe_06",
+    "type": "food",
+    "name_vi": "Bánh Xu Xê (Phu Thê)",
+    "name_en": "Vietnamese Husband & Wife Cake",
+    "category_vi": "Bánh ngọt",
+    "category_en": "Traditional Sweet Cake",
+    "best_places": ["Chợ Tân An", "Khu ẩm thực đường Đề Thám"],
+    "price_range": "5.000 – 7.000đ/cái",
+    "description_vi": "Bánh mềm, nhân đậu xanh, bọc lá chuối, vị ngọt nhẹ – thường dùng trong lễ cưới hỏi.",
+    "description_en": "A soft steamed cake filled with mung bean paste, wrapped in banana leaves. Often used in traditional wedding ceremonies."
+  },
+  {
+    "id": "food_banh_tet_la_cam_07",
+    "type": "food",
+    "name_vi": "Bánh Tét Lá Cẩm",
+    "name_en": "Purple Sticky Rice Tet Cake",
+    "category_vi": "Bánh Tết truyền thống",
+    "category_en": "Traditional Tet Cake",
+    "best_places": ["Chợ Tân An"],
+    "price_range": "80.000 – 160.000đ/đòn",
+    "description_vi": "Nếp trộn lá cẩm tạo màu tím đẹp, nhân đậu xanh và thịt mặn. Đặc sản nổi tiếng của Cần Thơ.",
+    "description_en": "Sticky rice mixed with magenta plant leaves to create a natural purple color, filled with mung bean and savory pork. A famous specialty of Can Tho."
+  },
+  {
+    "id": "food_banh_tra_lan_08",
+    "type": "food",
+    "name_vi": "Bánh Da Lợn",
+    "name_en": "Steamed Layer Cake",
+    "category_vi": "Bánh ngọt nhiều lớp",
+    "category_en": "Layered Sweet Cake",
+    "best_places": ["Chợ Ninh Kiều"],
+    "price_range": "10.000 – 20.000đ/miếng",
+    "description_vi": "Bánh nhiều lớp mềm dẻo, làm từ bột năng, đậu xanh và lá dứa.",
+    "description_en": "A soft, chewy multi-layered steamed cake made from tapioca starch, mung bean, and pandan leaves."
+  },
+  {
+    "id": "food_banh_tieu_09",
+    "type": "food",
+    "name_vi": "Bánh Tiêu",
+    "name_en": "Vietnamese Hollow Doughnut",
+    "category_vi": "Bánh chiên",
+    "category_en": "Fried Pastry",
+    "best_places": ["Quán vỉa hè dọc các tuyến đường lớn như 3/2, 30 tháng 4, gần bến Ninh Kiều"],
+    "price_range": "5.000 – 7.000đ/cái",
+    "description_vi": "Bánh chiên phồng rỗng ruột, thơm mè, ăn nóng rất ngon.",
+    "description_en": "A hollow fried doughnut sprinkled with sesame seeds, best enjoyed hot and crispy."
+  },
+  {
+    "id": "food_banh_chuoi_nuong_10",
+    "type": "food",
+    "name_vi": "Bánh Chuối Nướng",
+    "name_en": "Vietnamese Baked Banana Cake",
+    "category_vi": "Bánh ngọt dân gian",
+    "category_en": "Traditional Sweet Cake",
+    "best_places": ["Quán vỉa hè dọc các tuyến đường lớn như 3/2, 30 tháng 4, gần bến Ninh Kiều"],
+    "price_range": "15.000 – 25.000đ",
+    "description_vi": "Chuối chín trộn nước cốt dừa, nướng tạo lớp vỏ thơm và phần ruột mềm béo.",
+    "description_en": "Ripe bananas mixed with coconut milk, baked until the crust becomes fragrant and the inside is soft and rich."
+  },
+  {
+    "id": "food_banh_it_la_gai_11",
+    "type": "food",
+    "name_vi": "Bánh Ít Lá Gai",
+    "name_en": "Vietnamese Black Gai Leaf Cake",
+    "category_vi": "Bánh truyền thống",
+    "category_en": "Traditional Cake",
+    "best_places": ["Chợ nổi Cái Răng, Chợ Xuân Khánh"],
+    "price_range": "6.000 – 10.000đ/cái",
+    "description_vi": "Bánh có lớp vỏ lá gai màu đen mềm dẻo, nhân dừa hoặc đậu xanh thơm ngọt. Là món bánh truyền thống quen thuộc ở miền Tây.",
+    "description_en": "A chewy black cake made from gai leaf flour, filled with sweet coconut or mung bean paste. A familiar traditional pastry of the Mekong Delta."
+  },
+  {
+    "id": "food_banh_phu_the_12",
+    "type": "food",
+    "name_vi": "Bánh Phù Thê",
+    "name_en": "Husband and Wife Cake",
+    "category_vi": "Bánh lễ hội",
+    "category_en": "Festival Cake",
+    "best_places": ["Các chợ truyền thống"],
+    "price_range": "5.000 – 8.000đ/cái",
+    "description_vi": "Bánh nhỏ xinh với màu xanh vàng đẹp mắt, nhân dừa – đậu xanh, tượng trưng cho sự gắn kết và sum vầy.",
+    "description_en": "A small, colorful cake with coconut–mung bean filling, symbolizing unity and harmony. Commonly found at traditional markets and festivals."
+  },
+  {
+    "id": "food_banh_cam_13",
+    "type": "food",
+    "name_vi": "Bánh Cam",
+    "name_en": "Vietnamese Sesame Ball",
+    "category_vi": "Bánh chiên",
+    "category_en": "Fried Pastry",
+    "best_places": ["Chợ An Bình"],
+    "price_range": "5.000 – 8.000đ/cái",
+    "description_vi": "Bánh tròn chiên giòn, phủ mè bên ngoài, nhân đậu xanh ngọt bùi bên trong. Thơm ngon khi ăn nóng.",
+    "description_en": "A round deep-fried pastry coated with sesame seeds and filled with sweet mung bean paste. Best enjoyed hot and crispy."
+  },
+  {
+    "id": "food_banh_u_14",
+    "type": "food",
+    "name_vi": "Bánh Ú",
+    "name_en": "Vietnamese Pyramid Sticky Rice Cake",
+    "category_vi": "Bánh truyền thống",
+    "category_en": "Traditional Sticky Rice Cake",
+    "best_places": ["Các chợ truyền thống"],
+    "price_range": "6.000 – 10.000đ/cái",
+    "description_vi": "Bánh gói bằng lá, nhân đậu xanh hoặc chuối, nếp dẻo thơm. Là món bánh bình dị nhưng rất được yêu thích.",
+    "description_en": "A leaf-wrapped pyramid-shaped sticky rice cake filled with mung bean or banana. Soft, fragrant, and a beloved rustic treat."
+  },
+  {
+    "id": "food_banh_lot_15",
+    "type": "food",
+    "name_vi": "Bánh Lọt Nước Cốt Dừa",
+    "name_en": "Pandan Cendol with Coconut Milk",
+    "category_vi": "Chè – bánh dân gian",
+    "category_en": "Traditional Sweet Dessert",
+    "best_places": ["Quán chè gầns bến Ninh Kiều"],
+    "price_range": "10.000 – 20.000đ",
+    "description_vi": "Bánh lọt xanh mềm ăn cùng nước cốt dừa béo và đường thốt nốt tạo vị ngọt thanh đặc trưng.",
+    "description_en": "Soft pandan cendol served with rich coconut milk and palm sugar syrup, creating a naturally sweet and refreshing flavor."
+  },
+  {
+  "id": "food_chuoi_nep_nuong",
+  "type": "food",
+  "name_vi": "Chuối Nếp Nướng",
+  "name_en": "Grilled Sticky Rice Banana",
+  "category_vi": "Món ngọt dân gian",
+  "category_en": "Vietnamese Traditional Sweet",
+
+  "best_places_vi": ["Khu ẩm thực Đề Thám", "Chợ Tân An", "Chợ An Bình"],
+  "best_places_en": ["De Tham Food Street", "Tan An Market", "An Binh Market"],
+
+  "price_range_vi": "10.000 – 20.000 đ/phần",
+  "price_range_en": "10,000 – 20,000 VND/portion",
+
+  "description_vi": "Chuối bọc nếp nướng đến khi lớp nếp vàng giòn, ăn kèm nước cốt dừa béo ngậy. Đây là món ngọt dân dã đặc trưng của miền Tây.",
+  "description_en": "Banana wrapped in sticky rice and grilled until crispy, served with rich coconut milk. A rustic and beloved Mekong Delta dessert."
+},
+{
+  "id": "food_banh_da_lon",
+  "type": "food",
+  "name_vi": "Bánh Da Lợn",
+  "name_en": "Layered Pandan Cake",
+  "category_vi": "Bánh ngọt nhiều lớp",
+  "category_en": "Layered Traditional Cake",
+
+  "best_places_vi": ["Khu ẩm thực Đề Thám", "Chợ Ninh Kiều", "Chợ Xuân Khánh"],
+  "best_places_en": ["De Tham Food Street", "Ninh Kieu Market", "Xuan Khanh Market"],
+
+  "price_range_vi": "10.000 – 20.000 đ/miếng",
+  "price_range_en": "10,000 – 20,000 VND/piece",
+
+  "description_vi": "Bánh nhiều lớp xanh – vàng mềm dẻo, thơm mùi lá dứa và đậu xanh. Món bánh truyền thống rất phổ biến trong các chợ Cần Thơ.",
+  "description_en": "Soft, chewy layered cake with pandan and mung bean flavors. A traditional sweet widely sold in Can Tho’s street food and markets."
+},
+{
+  "id": "food_banh_chuoi_hap",
+  "type": "food",
+  "name_vi": "Bánh Chuối Hấp",
+  "name_en": "Steamed Banana Cake",
+  "category_vi": "Bánh ngọt dân gian",
+  "category_en": "Traditional Steamed Dessert",
+
+  "best_places_vi": ["Khu ẩm thực Đề Thám", "Chợ Tân An", "Chợ An Lạc"],
+  "best_places_en": ["De Tham Food Street", "Tan An Market", "An Lac Market"],
+
+  "price_range_vi": "10.000 – 15.000 đ/miếng",
+  "price_range_en": "10,000 – 15,000 VND/piece",
+
+  "description_vi": "Chuối chín trộn bột và hấp chín, bên trên rưới nước cốt dừa. Hương vị ngọt thanh, mềm dẻo, rất được ưa chuộng.",
+  "description_en": "Ripe bananas mixed with flour and steamed, then topped with coconut milk. Soft, sweet, and one of the most beloved local desserts."
+},
+{
+  "id": "food_banh_chuoi_nuong_ct",
+  "type": "food",
+  "name_vi": "Bánh Chuối Nướng",
+  "name_en": "Vietnamese Baked Banana Cake",
+  "category_vi": "Bánh ngọt dân gian",
+  "category_en": "Traditional Baked Dessert",
+
+  "best_places_vi": ["Khu ẩm thực Đề Thám", "Chợ An Bình", "Chợ Cái Khế"],
+  "best_places_en": ["De Tham Food Street", "An Binh Market", "Cai Khe Market"],
+
+  "price_range_vi": "15.000 – 25.000 đ/miếng",
+  "price_range_en": "15,000 – 25,000 VND/piece",
+
+  "description_vi": "Bánh chuối nướng có lớp vỏ vàng thơm, bên trong mềm béo nhờ chuối và nước cốt dừa. Là món ăn vặt quen thuộc ở các chợ Cần Thơ.",
+  "description_en": "A baked banana dessert with a fragrant golden crust and creamy center made from bananas and coconut milk. A popular snack in Can Tho markets."
+},
+
+  {
+    "id": "fruit_dua_sap_01",
+    "type": "fruit",
+    "name_vi": "Dừa Sáp",
+    "name_en": "Wax Coconut",
+    "category_vi": "Đặc sản hiếm",
+    "category_en": "Rare Specialty",
+    "best_places": ["Các quán giải khát Ninh Kiều", "Chợ Cần Thơ"],
+    "price_range": "120.000 – 200.000đ/trái",
+    "description_vi": "Dừa có phần cơm dày, dẻo và béo. Thường được dùng làm sinh tố hoặc ăn trực tiếp. Là đặc sản nổi tiếng nhưng khá hiếm của miền Tây.",
+    "description_en": "A rare coconut variety with thick, sticky and creamy flesh. Commonly used for smoothies or eaten fresh. A famous but scarce Mekong specialty."
+  },
+  {
+    "id": "fruit_dau_ha_chau_02",
+    "type": "fruit",
+    "name_vi": "Dâu Hạ Châu",
+    "name_en": "Ha Chau Rambai Fruit",
+    "category_vi": "Đặc sản Phong Điền",
+    "category_en": "Phong Dien Specialty",
+    "best_places": ["Vườn trái cây Phong Điền – Cần Thơ", "Các chợ truyền thống"],
+    "price_range": "40.000 – 60.000đ/kg",
+    "description_vi": "Dâu có lớp vỏ mỏng, ruột trong, vị ngọt thanh mát. Đây là đặc sản nổi tiếng của huyện Phong Điền.",
+    "description_en": "A tropical fruit with thin skin and translucent pulp. Lightly sweet and refreshing, known as a signature specialty of Phong Dien District."
+  },
+  {
+    "id": "fruit_mang_cut_03",
+    "type": "fruit",
+    "name_vi": "Măng Cụt",
+    "name_en": "Mangosteen",
+    "category_vi": "Trái cây mùa hè",
+    "category_en": "Summer Fruit",
+    "best_places": ["Các chợ truyền thống"],
+    "price_range": "60.000 – 100.000đ/kg",
+    "description_vi": "Măng cụt có vị chua nhẹ – ngọt thanh, tép trắng mềm. Được mệnh danh là “nữ hoàng trái cây miền nhiệt đới”.",
+    "description_en": "Soft white segments with a balanced sweet–tangy flavor. Widely known as the “queen of tropical fruits”."
+  },
+  {
+    "id": "fruit_chom_chom_04",
+    "type": "fruit",
+    "name_vi": "Chôm Chôm Nhãn",
+    "name_en": "Longan Rambutan",
+    "category_vi": "Trái cây mùa mưa",
+    "category_en": "Rainy Season Fruit",
+    "best_places": ["Các vườn trái cây Phong Điền", "Các chợ truyền thống"],
+    "price_range": "30.000 – 50.000đ/kg",
+    "description_vi": "Chôm chôm vỏ đỏ, thịt giòn, ráo nước và ngọt dịu. Được yêu thích vào mùa hè.",
+    "description_en": "A red-skinned rambutan variety with firm, juicy flesh and pleasant sweetness. Very popular during summer."
+  },
+  {
+    "id": "fruit_xoai_cat_05",
+    "type": "fruit",
+    "name_vi": "Xoài Cát Hòa Lộc",
+    "name_en": "Cat Hoa Loc Mango",
+    "category_vi": "Đặc sản cao cấp",
+    "category_en": "Premium Specialty",
+    "best_places": ["Các chợ truyền thống"],
+    "price_range": "80.000 – 150.000đ/kg",
+    "description_vi": "Xoài có thịt vàng óng, thơm dịu và vị ngọt đậm đặc trưng. Đây là giống xoài nổi tiếng nhất Việt Nam.",
+    "description_en": "Golden-yellow flesh with a mild aroma and rich sweetness. One of the most famous mango varieties in Vietnam."
+  },
+  {
+    "id": "fruit_sau_rieng_ri6_06",
+    "type": "fruit",
+    "name_vi": "Sầu Riêng Ri6",
+    "name_en": "Ri6 Durian",
+    "category_vi": "Trái cây miền Tây",
+    "category_en": "Mekong Tropical Fruit",
+    "best_places": ["Vườn trái cây Phong Điền"],
+    "price_range": "80.000 – 140.000đ/kg",
+    "description_vi": "Cơm vàng đậm, hạt lép, vị béo và thơm. Là giống sầu riêng nổi tiếng và được ưa chuộng tại miền Tây.",
+    "description_en": "Bright yellow creamy flesh with small seeds, rich flavor and strong aroma. A well-loved durian variety in the Mekong Delta."
+  },
+  {
+    "id": "fruit_cam_xoan_07",
+    "type": "fruit",
+    "name_vi": "Cam Xoàn",
+    "name_en": "Xoan Orange",
+    "category_vi": "Trái cây đặc sản",
+    "category_en": "Local Specialty Fruit",
+    "best_places": ["Chợ nổi Cái Răng", "Vườn trái cây Phong Điền"],
+    "price_range": "30.000 – 50.000đ/kg",
+    "description_vi": "Cam vỏ mỏng, nhiều nước, vị chua nhẹ dễ uống. Ngon nhất khi vừa chín tới.",
+    "description_en": "A thin-skinned, juicy orange with mildly sour and refreshing taste. Best enjoyed when just ripe."
+  },
+  {
+    "id": "fruit_buoi_nam_roi_08",
+    "type": "fruit",
+    "name_vi": "Bưởi Năm Roi",
+    "name_en": "Nam Roi Pomelo",
+    "category_vi": "Đặc sản Vĩnh Long – phổ biến ở Cần Thơ",
+    "category_en": "Vinh Long Specialty – Popular in Can Tho",
+    "best_places": ["Các chợ truyền thống Cần Thơ"],
+    "price_range": "40.000 – 70.000đ/kg",
+    "description_vi": "Tép bưởi giòn, mọng nước, không hạt và vị chua nhẹ dễ ăn. Thường được du khách mua làm quà.",
+    "description_en": "Crisp, juicy, seedless segments with a mildly tangy flavor. A popular take-home gift among visitors."
+  },
+  {
+    "id": "fruit_nhan_ido_09",
+    "type": "fruit",
+    "name_vi": "Nhãn Ido",
+    "name_en": "Ido Longan",
+    "category_vi": "Trái cây miệt vườn",
+    "category_en": "Orchard Fruit",
+    "best_places": ["Vườn trái cây Phong Điền"],
+    "price_range": "30.000 – 45.000đ/kg",
+    "description_vi": "Nhãn cùi dày, hạt nhỏ, ngọt và thơm nhẹ. Rất được ưa chuộng vào mùa thu hoạch.",
+    "description_en": "Thick pulp, small seeds, sweet taste and a mild aroma. A very popular orchard fruit during harvest season."
+  },
+  {
+    "id": "fruit_thot_not_10",
+    "type": "fruit",
+    "name_vi": "Thốt Nốt",
+    "name_en": "Palmyra Palm Fruit",
+    "category_vi": "Đặc sản miền Tây Nam Bộ",
+    "category_en": "Southern Mekong Specialty",
+    "best_places": ["Các quầy nước thốt nốt khu chợ nổi"],
+    "price_range": "10.000 – 20.000đ/chén",
+    "description_vi": "Trái thốt nốt có cơm trắng mềm, vị ngọt thanh. Nước thốt nốt thường được dùng nấu chè hoặc uống giải khát.",
+    "description_en": "Soft white flesh with a naturally sweet flavor. The juice is commonly used in desserts or served as a refreshing drink."
+  },
+  {
+    "id": "cairang_hu_tieu_01",
+    "type": "food",
+    "name_vi": "Hủ Tiếu Ghe",
+    "name_en": "Boat Rice Noodle Soup",
+    "category_vi": "Đặc sản chợ nổi",
+    "category_en": "Floating Market Specialty",
+    "best_places": ["Các ghe bán đồ ăn trên chợ nổi Cái Răng"],
+    "price_range": "20.000 – 30.000đ/tô",
+    "description_vi": "Tô hủ tiếu nóng hổi được nấu trực tiếp trên ghe, nước dùng ngọt thanh với tôm – thịt đầy đủ, mang đến trải nghiệm ẩm thực độc đáo giữa sông.",
+    "description_en": "A hot bowl of noodle soup cooked directly on the boat, featuring a naturally sweet broth with shrimp and pork—an iconic floating market experience."
+  },
+  {
+    "id": "cairang_hu_tieu_pizza_02",
+    "type": "food",
+    "name_vi": "Hủ Tiếu Pizza",
+    "name_en": "Crispy Hủ Tiếu Pizza",
+    "category_vi": "Món biến tấu độc đáo",
+    "category_en": "Creative Fusion Dish",
+    "best_places": ["Các ghe bán đồ ăn trên chợ nổi Cái Răng"],
+    "price_range": "15.000 – 25.000đ/cái",
+    "description_vi": "Hủ tiếu được chiên giòn như chiếc pizza mini, bên trên phủ tôm khô, hành lá và trứng. Món ăn lạ mắt và nổi tiếng tại Cái Răng.",
+    "description_en": "Rice noodles fried into a crispy pizza-style base, topped with dried shrimp, scallions, and egg. A unique and iconic dish of Cai Rang."
+  },
+  {
+    "id": "cairang_banh_trang_nuong_03",
+    "type": "food",
+    "name_vi": "Bánh Tráng Nướng Chợ Nổi",
+    "name_en": "Floating Market Grilled Rice Paper",
+    "category_vi": "Đồ nướng",
+    "category_en": "Grilled Snack",
+    "best_places": ["Các ghe bán đồ ăn vặt"],
+    "price_range": "10.000 – 20.000đ/cái",
+    "description_vi": "Bánh tráng nướng giòn với trứng, hành và tôm khô. Là món ăn vặt được nhiều du khách yêu thích khi khám phá chợ nổi buổi sáng.",
+    "description_en": "Crispy grilled rice paper topped with egg, spring onions, and dried shrimp. A favorite snack among visitors exploring the floating market."
+  },
+  {
+    "id": "cairang_ca_phe_kho_04",
+    "type": "drink",
+    "name_vi": "Cà Phê Kho",
+    "name_en": "Clay-Pot Coffee",
+    "category_vi": "Đồ uống truyền thống",
+    "category_en": "Traditional Beverage",
+    "best_places": ["Ghe cà phê Cái Răng"],
+    "price_range": "10.000 – 15.000đ/ly",
+    "description_vi": "Cà phê pha bằng siêu đất giữ nhiệt tốt, tạo hương thơm đặc trưng. Uống cà phê trên ghe mang đến cảm giác rất riêng của chợ nổi.",
+    "description_en": "Coffee brewed in a clay pot that helps retain heat and enhances the aroma. Enjoying it on a boat is a signature floating market experience."
+  },
+  {
+    "id": "cairang_banh_chuoi_nuong_05",
+    "type": "food",
+    "name_vi": "Chuối Nướng Nước Cốt Dừa",
+    "name_en": "Grilled Banana with Coconut Milk",
+    "category_vi": "Món ngọt dân dã",
+    "category_en": "Rustic Dessert",
+    "best_places": ["Ghe bán món ngọt khu giữa chợ"],
+    "price_range": "10.000 – 15.000đ/phần",
+    "description_vi": "Chuối nướng thơm lừng, ăn kèm nước cốt dừa béo ngậy. Món ngọt dễ ăn, hấp dẫn khi thưởng thức giữa không gian sông nước.",
+    "description_en": "Fragrant grilled bananas served with rich coconut milk—a simple yet delicious treat enjoyed amid the river scenery."
+  },
+  {
+    "id": "cairang_banh_tieu_06",
+    "type": "food",
+    "name_vi": "Bánh Tiêu Nóng",
+    "name_en": "Hot Hollow Sesame Bread",
+    "category_vi": "Bánh chiên",
+    "category_en": "Fried Pastry",
+    "best_places": ["Các ghe bán đồ ăn vặt"],
+    "price_range": "5.000 – 7.000đ/cái",
+    "description_vi": "Bánh tiêu phồng giòn, thơm mùi mè, được chiên trực tiếp trên ghe tạo hương vị dân dã khó quên.",
+    "description_en": "A hollow, crispy fried bun coated with sesame seeds, freshly cooked on the boat—simple, fragrant, and nostalgic."
+  },
+  {
+    "id": "cairang_my_goi_07",
+    "type": "food",
+    "name_vi": "Mì Gõ Ghe",
+    "name_en": "Boat-Style Hot Noodle Soup",
+    "category_vi": "Món nóng ăn sáng",
+    "category_en": "Hot Breakfast Dish",
+    "best_places": ["Ghe bán mì gõ chợ nổi"],
+    "price_range": "20.000 – 25.000đ/tô",
+    "description_vi": "Mì gõ được nấu thủ công trên ghe, nước dùng nóng hổi, topping đầy đủ. Mỗi tô mì là một lát cắt chân thực của đời sống sông nước.",
+    "description_en": "A handcrafted noodle soup made on the boat, served hot with pork and herbs. A true slice of river life in every bowl."
+  },
+  {
+    "id": "cairang_trai_cay_ghe_08",
+    "type": "food",
+    "name_vi": "Trái Cây Ghe",
+    "name_en": "Boat Fresh Fruit Mix",
+    "category_vi": "Trái cây tươi",
+    "category_en": "Fresh Fruit",
+    "best_places": ["Ghe trái cây đầu chợ"],
+    "price_range": "10.000 – 30.000đ/phần",
+    "description_vi": "Du khách có thể thưởng thức trái cây tươi ngay trên ghe: dứa, ổi, xoài, măng cụt… tất cả đều rất tươi và ngon.",
+    "description_en": "A fresh selection of fruits served directly on the boat—pineapple, guava, mango, mangosteen, and more, all incredibly fresh."
+  },
+  {
+    "id": "cairang_bun_rieu_09",
+    "type": "food",
+    "name_vi": "Bún Riêu Ghe",
+    "name_en": "Boat Crab Noodle Soup",
+    "category_vi": "Món nước đặc trưng",
+    "category_en": "Signature Noodle Soup",
+    "best_places": ["Ghe bán bún riêu"],
+    "price_range": "20.000 – 30.000đ/tô",
+    "description_vi": "Bún riêu nấu trực tiếp trên ghe với vị chua thanh từ cà chua và riêu cua, rất thích hợp để ăn sáng.",
+    "description_en": "A light, tangy crab noodle soup cooked on the boat, flavored with tomatoes and fresh crab paste. Perfect for a morning meal."
+  },
+  {
+    "id": "cairang_nuoc_mia_10",
+    "type": "drink",
+    "name_vi": "Nước Mía Ghe",
+    "name_en": "Boat Sugarcane Juice",
+    "category_vi": "Đồ uống giải khát",
+    "category_en": "Refreshing Beverage",
+    "best_places": ["Ghe nước mía trên chợ nổi"],
+    "price_range": "8.000 – 12.000đ/ly",
+    "description_vi": "Nước mía được ép bằng máy quay tay ngay trên ghe, vị ngọt mát, là thức uống tuyệt vời khi tham quan dưới trời nắng.",
+    "description_en": "Freshly pressed sugarcane juice made using a hand-cranked machine on the boat—cool, sweet, and refreshing during your river tour."
+  }
+]

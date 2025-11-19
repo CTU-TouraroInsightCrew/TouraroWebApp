@@ -1,0 +1,213 @@
+{
+  "id": "flooding_cantho_full",
+  "type": "flooding",
+  "category_vi": "Ngập lụt & triều cường tại Cần Thơ",
+  "category_en": "Flooding & High Tides in Can Tho",
+
+  "overview_vi": "Cần Thơ thường xảy ra ngập cục bộ vào mùa mưa và các đợt triều cường, đặc biệt từ tháng 9 đến tháng 12. Nhiều tuyến đường trung tâm có thể ngập từ 20–60 cm, thậm chí sâu đến 1 m tại các vùng trũng như quận Bình Thủy và khu Cồn Sơn.",
+  "overview_en": "Can Tho experiences localized flooding during the rainy season and high tides, especially from September to December. Many central streets may flood 20–60 cm deep, and some low-lying areas such as Binh Thuy District and Son Islet may reach up to 1 meter.",
+
+  "typical_tide_hours_vi": {
+    "morning_high_tide": "05:00 – 07:00 sáng",
+    "afternoon_high_tide": "16:30 – 18:30 chiều",
+    "ebb_tide": "09:00 – 11:00 và 21:00 – 23:00",
+    "note": "Thời gian có thể dao động ±30 phút tùy vị trí ven sông."
+  },
+  "typical_tide_hours_en": {
+    "morning_high_tide": "05:00 – 07:00 AM",
+    "afternoon_high_tide": "04:30 – 06:30 PM",
+    "ebb_tide": "09:00 – 11:00 AM and 09:00 – 11:00 PM",
+    "note": "Timing may vary ±30 minutes depending on river location."
+  },
+  "flooded_roads_vi": [
+    "Đường Cách Mạng Tháng 8 - ngập nghiêm trọng, kéo dài sau mưa lớn",
+    "Đường Mậu Thân - khu vực gần ngã tư Nguyễn Văn Cừ ngập nặng",
+    "Đường 30 Tháng 4 - ngập cục bộ vào buổi chiều triều lên",
+    "Đường Trần Việt Châu - thường ngập 30-50 cm",
+    "Đại lộ Hòa Bình - ngập nhẹ nhưng kéo dài",
+    "Đường Ngô Văn Sở - dễ ngập khi triều cao",
+    "Đường Võ Văn Kiệt - cục bộ tại khu cầu Rạch Ngỗng",
+    "Đường Nam Kỳ Khởi Nghĩa - ngập vừa, kéo dài 1-2 giờ sau mưa",
+    "Đường Trần Quốc Toản - gần Bến Ninh Kiều, ngập tháng 9-11",
+    "Đường Ngô Quyền - ngập sâu khi triều đỉnh",
+    "Đường Bùi Hữu Nghĩa - ngập dài ngày",
+    "Quận Bình Thủy - ngập toàn vùng, đặc biệt khu Cồn Sơn"
+  ],
+  "flooded_roads_en": [
+    "Cach Mang Thang 8 Street - severe flooding, long-lasting",
+    "Mau Than Street - heavy flooding near Nguyen Van Cu intersection",
+    "30 Thang 4 Street - partial flooding during afternoon high tides",
+    "Tran Viet Chau Street - often 30-50 cm deep",
+    "Hoa Binh Boulevard - light but prolonged flooding",
+    "Ngo Van So Street - floods during high tide",
+    "Vo van Kiet Street - localized flooding at Rach Ngong Bridge",
+    "Nam Ky Khoi Nghia Street - moderate, lasts 1-2 hours after rain",
+    "Tran Quoc Toan Street - near Ninh Kieu, floods from Sept-Nov",
+    "Ngo Quyen Street - deep flooding during peak tides",
+    "Bui Huu Nghia Street - long-lasting flooding",
+    "Binh Thuy District - widespread deep flooding"
+  ],
+
+  "flood_levels": [
+    {
+      "road_vi": "Đường Cách Mạng Tháng 8",
+      "road_en": "Cach Mang Thang 8 Street",
+      "depth_vi": "30–60 cm",
+      "depth_en": "30–60 cm",
+      "severity_vi": "Ngập nghiêm trọng, kéo dài lâu, nước rút chậm hơn những đoạn khác",
+      "severity_en": "Severe and prolonged flooding, "
+    },
+    {
+      "road_vi": "Đường Mậu Thân (gần Nguyễn Văn Cừ)",
+      "road_en": "Mau Than Street (near Nguyen Van Cu)",
+      "depth_vi": "25–45 cm",
+      "depth_en": "25–45 cm",
+      "severity_vi": "Ngập nặng cục bộ gây kẹt xe nghiêm trọng",
+      "severity_en": "Severe localized flooding"
+    },
+    {
+      "road_vi": "Đường 30 Tháng 4",
+      "road_en": "30 Thang 4 Street",
+      "depth_vi": "15–30 cm",
+      "depth_en": "15–30 cm",
+      "severity_vi": "Ngập nhẹ–trung bình, chủ yếu ngập ở các ngã tư với Nguyễn Văn Linh, Mậu Thân",
+      "severity_en": "Light–moderate flooding"
+    },
+    {
+      "road_vi": "Đường Trần Việt Châu",
+      "road_en": "Tran Viet Chau Street",
+      "depth_vi": "30–50 cm",
+      "depth_en": "30–50 cm",
+      "severity_vi": "Ngập trung bình toàn tuyến đường",
+      "severity_en": "Moderate–heavy flooding whole street"
+    },
+    {
+      "road_vi": "Đại lộ Hòa Bình",
+      "road_en": "Hoa Binh Boulevard",
+      "depth_vi": "10–25 cm",
+      "depth_en": "10–25 cm",
+      "severity_vi": "Ngập nhẹ, kéo dài, chủ yếu ở các giao lộ với Ngô Văn Sở, Nam Kì Khởi Nghĩa",
+      "severity_en": "Light but prolonged flooding"
+    },
+    {
+      "road_vi": "Đường Ngô Văn Sở",
+      "road_en": "Ngo Van So Street",
+      "depth_vi": "20–35 cm",
+      "depth_en": "20–35 cm",
+      "severity_vi": "Ngập trung bình cả tuyến đường, cân nhắc đi các tuyến đường khác",
+      "severity_en": "Moderate flooding"
+    },
+    {
+      "road_vi": "Đường Võ Văn Kiệt (cầu Rạch Ngỗng)",
+      "road_en": "Vo Van Kiet Street (Rach Ngong Bridge)",
+      "depth_vi": "20–40 cm",
+      "depth_en": "20–40 cm",
+      "severity_vi": "Ngập cục bộ gần ngã tư giao với Nguyễn Văn Cừ",
+      "severity_en": "Localized flooding"
+    },
+    {
+      "road_vi": "Đường Nam Kỳ Khởi Nghĩa",
+      "road_en": "Nam Ky Khoi Nghia Street",
+      "depth_vi": "20–30 cm",
+      "depth_en": "20–30 cm",
+      "severity_vi": "Ngập vừa, kéo dài",
+      "severity_en": "Moderate flooding, slow to drain"
+    },
+    {
+      "road_vi": "Đường Trần Quốc Toản",
+      "road_en": "Tran Quoc Toan Street",
+      "depth_vi": "15–35 cm",
+      "depth_en": "15–35 cm",
+      "severity_vi": "Ngập nhẹ–trung bình",
+      "severity_en": "Light–moderate flooding"
+    },
+    {
+      "road_vi": "Đường Ngô Quyền",
+      "road_en": "Ngo Quyen Street",
+      "depth_vi": "30–60 cm",
+      "depth_en": "30–60 cm",
+      "severity_vi": "Ngập sâu khi triều đỉnh",
+      "severity_en": "Deep flooding during peak tide"
+    },
+    {
+      "road_vi": "Đường Bùi Hữu Nghĩa",
+      "road_en": "Bui Huu Nghia Street",
+      "depth_vi": "20–50 cm",
+      "depth_en": "20–50 cm",
+      "severity_vi": "Ngập nặng và kéo dài trong nhiều giờ",
+      "severity_en": "Long-lasting flooding"
+    },
+    {
+      "road_vi": "Quận Bình Thủy (Cồn Sơn)",
+      "road_en": "Binh Thuy District (Son Islet)",
+      "depth_vi": "40–100 cm",
+      "depth_en": "40–100 cm",
+      "severity_vi": "Ngập sâu toàn vùng",
+      "severity_en": "Deep widespread flooding"
+    }
+  ],
+
+  "dangerous_spots_vi": [
+    "Chân cầu Quang Trung – dễ ngập sâu 40–70 cm",
+    "Ngã tư Nguyễn Văn Cừ – 3/2 – nước chảy mạnh khi mưa lớn",
+    "Các hẻm ven sông Bình Thủy – ngập nhanh và sâu"
+  ],
+  "dangerous_spots_en": [
+    "Under Quang Trung Bridge – often 40–70 cm deep",
+    "Nguyen Van Cu – 3/2 intersection – strong water flow during heavy rains",
+    "Riverside alleys in Binh Thuy – fast and deep flooding"
+  ],
+
+  "causes_vi": [
+    "Triều cường từ sông Hậu",
+    "Mưa lớn kéo dài",
+    "Hệ thống thoát nước quá tải",
+    "Đô thị hóa làm giảm diện tích thấm nước"
+  ],
+  "causes_en": [
+    "High tides from the Hau River",
+    "Prolonged rainfall",
+    "Overloaded drainage systems",
+    "Urbanization reducing natural absorption"
+  ],
+
+  "movement_tips_vi": [
+    "Tránh đi xe tay ga qua vùng ngập sâu vì dễ chết máy.",
+    "Đi taxi hoặc Grab khi nước lên cao.",
+    "Nếu triều đang đỉnh, nên đợi 1–2 giờ để nước rút.",
+    "Mang áo mưa mỏng trong mùa mưa–triều."
+  ],
+  "movement_tips_en": [
+    "Avoid riding scooters through deep water.",
+    "Use taxi or Grab during peak flooding.",
+    "Wait 1–2 hours after peak tide for water to recede.",
+    "Carry a light raincoat during rainy–tide season."
+  ],
+  "flood_severity_by_month_vi": { 
+    "thang_1": "Ngập thấp, chủ yếu mưa cục bộ. Hầu như không ảnh hưởng du lịch.", 
+    "thang_2": "không ngập. Thời tiết khô ráo.", 
+    "thang_3": "Không ngập, mùa khô, thuận lợi di chuyển.", 
+    "thang_4": "Đầu mùa mưa nhưng rất ít ngập.", 
+    "thang_5": "Mưa bắt đầu nhiều, ngập nhẹ tại một số tuyến thấp như Cách Mạng Tháng Tám, đường Mậu Thân (gần cầu Rạch Ngỗng).", 
+    "thang_6": "Mưa nhiều, dễ xuất hiện ngập cục bộ 10–20 cm do nước rút chậm.", 
+    "thang_7": "Ngập trung bình, đặc biệt khi mưa lớn buổi chiều.", 
+    "thang_8": "Bắt đầu mùa triều cường, ngập vừa tại Cách mạng tháng tám (CMT8) – Mậu Thân.", 
+    "thang_9": "Triều cường mạnh, nhiều tuyến ngập từ 20–40 cm, rút chậm.", 
+    "thang_10": "Đỉnh triều cường, ngập nặng nhất năm (30–60 cm).", 
+    "thang_11": "Triều cao duy trì, ngập nặng tại các đường ven sông.", 
+    "thang_12": "Ngập giảm dần nhưng vẫn có triều cao đầu tháng." },
+  "flood_severity_by_month_en": {
+  "jan": "Very low flooding; mostly isolated rain puddles. Almost no impact on travel.",
+  "feb": "No flooding. Dry and stable weather.",
+  "mar": "No flooding; dry season, excellent for traveling.",
+  "apr": "Start of the rainy season, but flooding is minimal.",
+  "may": "Rain increases; light flooding appears in low areas such as Cach Mang Thang 8 Street and Mau Than Street (near Rach Ngong Bridge).",
+  "jun": "Heavier rainfall; localized flooding (10–20 cm) may occur due to slow drainage.",
+  "jul": "Moderate flooding, especially during heavy afternoon showers.",
+  "aug": "Start of the high-tide season; medium flooding on Cach Mang Thang 8 (CMT8) and Mau Than Street.",
+  "sep": "High tides intensify; many streets flood 20–40 cm and drain slowly.",
+  "oct": "Peak flooding of the yeachar, with water levels reaching 30–60 cm.",
+  "nov": "High tides remain strong; riverside streets experience heavy flooding.",
+  "dec": "Flooding gradually decreases but early-month tides may still be high."
+}
+}
