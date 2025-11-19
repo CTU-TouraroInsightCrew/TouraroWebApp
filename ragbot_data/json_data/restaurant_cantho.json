@@ -1,0 +1,1613 @@
+[{
+  "id": "oc-nhe-can-tho",
+  "name_vi": "Ốc Nhé",
+  "name_en": "Oc Nhe Seafood Restaurant",
+  
+  "category_vi": "Ẩm thực Cần Thơ - Hải sản",
+  "category_en": "Can Tho Cuisine - Seafood",
+  
+  "address_vi": "127 Võ Văn Kiệt, phường An Hòa, quận Ninh Kiều, TP. Cần Thơ, Việt Nam",  
+  "address_en": "127 Vo Van Kiet Street, An Hoa Ward, Ninh Kieu District, Can Tho City, Vietnam",
+  
+  "opening_hours": "11:00 - 23:59 (có nguồn ghi mở tới 02:00)",
+  "ticket_price": "Món ăn dao động khoảng 15.000 - 100.000+ VNĐ/món (có thể tới ~300.000 VNĐ hoặc hơn với hải sản cao cấp) :contentReference[oaicite:2]{index=2}",
+  "visit_duration": "1 - 2 giờ",
+  "best_time_to_visit": "Tối (18:00 - 21:00) để trải nghiệm không gian đông vui, món mới;",
+  
+  "activities_vi": [
+    "Thưởng thức đa dạng món ốc và hải sản tươi sống",
+    "Thử món đặc sắc như sườn cay Himalaya, hải sản tái sống kiểu Thái :contentReference[oaicite:3]{index=3}",
+    "Check-in không gian nhà hàng rộng, hiện đại",
+    "Tụ tập bạn bè hoặc gia đình ăn hải sản miền Tây"
+  ],
+  "activities_en": [
+    "Enjoy a wide variety of fresh shellfish & seafood dishes",
+    "Try signature dishes such as Himalaya spicy ribs, Thai‐style raw seafood",
+    "Take photos in a spacious, modern restaurant setting",
+    "Gather with friends or family for a Mekong Delta seafood feast"
+  ],
+  
+  "suitable_for_vi": [
+    "Nhóm bạn trẻ muốn ăn hải sản & tụ tập",
+    "Gia đình muốn ăn hải sản tươi ở Cần Thơ",
+    "Khách quốc tế tìm món địa phương hải sản miền Tây"
+  ],
+  "suitable_for_en": [
+    "Young groups looking for seafood feast",
+    "Families wanting fresh seafood in Can Tho",
+    "International visitors seeking local seafood experience"
+  ],
+  
+  "description_vi": "Ốc Nhé là một nhà hàng ẩm thực hải sản tại Cần Thơ nổi tiếng với thực đơn đa dạng (hơn 300 món) từ ốc, hải sản tươi sống, combo gia đình, set tiệc. Địa chỉ 127 Võ Văn Kiệt, phường An Hòa, quận Ninh Kiều. Quán thu hút thực khách với món “hải sản tái sống kiểu Thái”, “sườn cay Himalaya” và các món ốc được chế biến kỳ công. Không gian rộng, phục vụ chuyên nghiệp, lý tưởng cho buổi tối thưởng thức hải sản miền Tây. :contentReference[oaicite:4]{index=4}",
+  "description_en": "Oc Nhe is a seafood restaurant in Can Tho known for its large menu (300+ dishes) featuring shellfish, fresh seafood, family combos, and party sets. Located at 127 Vo Van Kiet Street, Ninh Kieu District. Signature dishes include Thai‐style fresh seafood and Himalaya spicy ribs. With a spacious, modern space and professional service, it’s ideal for an evening of Mekong Delta seafood dining. :contentReference[oaicite:5]{index=5}",
+  
+  "travel_tips_vi": [
+    "Nên đặt bàn trước cuối tuần vì thường đông khách",
+    "Kiểm tra món theo mùa - hải sản miền Tây thay đổi theo ngày",
+    "Nếu ăn nhóm lớn, hỏi combo gia đình để tiết kiệm",
+    "Mang theo tiền mặt dự phòng vì một số món lên giá cao"
+  ],
+  "travel_tips_en": [
+    "Book a table ahead on weekends as it gets busy",
+    "Check seasonal seafood as availability changes daily",
+    "Ask for family combo sets for large groups to save cost",
+    "Bring cash just in case some premium dishes cost more"
+  ],
+  
+  "nearby_places": [
+    "Chợ Cái Khế",
+    "Bến Ninh Kiều (cách ~2 km)",
+    "Nhà cổ Bình Thủy (khoảng 10 phút taxi)"
+  ],
+  
+  "recommended_itinerary_vi": "18:30 tới nhà hàng Ốc Nhé để ăn tối → 20:00 đi bộ tới Bến Ninh Kiều ven sông để dạo bộ và chụp ảnh buổi tối.",
+  "recommended_itinerary_en": "6:30 PM dinner at Oc Nhe → 8:00 PM stroll at Ninh Kieu Wharf for night views and photos.",
+  
+  "tags": [
+    "seafood",
+    "shellfish",
+    "restaurant",
+    "Can Tho",
+    "Mekong Delta cuisine",
+    "evening dining"
+  ]
+},
+  {
+  "id": "quan-hoi-do-can-tho",
+  "name_vi": "Quán Hồi Đó",
+  "name_en": "Hoi Do Restaurant",
+  "category_vi": "Ẩm thực Cần Thơ - Cơm gia đình",
+  "category_en": "Can Tho Cuisine - Home-style Dining",
+  "address_vi": "54 Trần Bình Trọng, phường An Thới, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "54 Tran Binh Trong Street, An Thoi Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "07:00 - 22:00 hàng ngày",
+  "ticket_price": "Món ăn dao động từ 15.000 - 299.000 VNĐ",
+  "visit_duration": "1 - 1.5 giờ",
+  "best_time_to_visit": "Buổi trưa (11:30-13:00) hoặc chiều (17:30-19:00) khi muốn không gian đông vui",
+
+  "activities_vi": [
+    "Thưởng thức cơm gia đình kiểu miền Tây: thịt kho, canh chua, cá kho tộ",
+    "Thưởng thức các món chè tráng miệng truyền thống miền Nam",
+    "Chụp ảnh không gian décor vintage - bàn gỗ, chõng tre, chén đũa kiểu xưa",
+    "Dùng bữa cùng gia đình, bạn bè trong không gian ấm cúng"
+  ],
+  "activities_en": [
+    "Enjoy family-style Mekong Delta home cooking: braised meat, sour soup, clay-pot fish",
+    "Taste traditional Southern Vietnamese desserts (che)",
+    "Photo the vintage décor: wood tables, bamboo loungers, antique tableware",
+    "Have a cozy meal with family or friends"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình & nhóm bạn muốn ăn nhẹ nhàng trong thành phố",
+    "Người thích ẩm thực miền Tây, muốn thử món nhà quê",
+    "Khách quốc tế muốn trải nghiệm cơm Việt giản dị",
+    "Cặp đôi tìm không gian ấm cúng, khác biệt"
+  ],
+  "suitable_for_en": [
+    "Families & friend groups looking for casual eats in the city",
+    "Food lovers wanting authentic Mekong Delta home-style dishes",
+    "International visitors seeking Vietnamese everyday cuisine",
+    "Couples seeking cozy, unique dining ambiance"
+  ],
+
+  "description_vi": "Quán Hồi Đó là quán ăn gia đình nổi tiếng tại Cần Thơ, chuyên phục vụ cơm kiểu miền Tây giản dị nhưng đậm đà hương vị. Nằm tại 54 Trần Bình Trọng, quán tái hiện không gian ký ức xưa: bàn gỗ, chõng tre, chén đũa kiểu cổ. Thực đơn có các món thịt kho, canh chua, cá kho tộ, rau luộc… và nổi bật với các món chè tráng miệng miền Tây. Không gian nhẹ nhàng, ấm cúng, rất phù hợp với những ai muốn ăn ngon, gần gũi và thoải mái.",
+  "description_en": "Hoi Do Restaurant is a beloved family-style dining spot in Can Tho, serving authentic Mekong Delta comfort food. Located at 54 Tran Binh Trong Street, the restaurant evokes nostalgic memories with wooden tables, bamboo loungers, vintage tableware. The menu features braised meat, sour soup, clay-pot fish, traditional vegetables and signature desserts (che). The ambiance is cozy and inviting — perfect for a relaxed meal in the city with a local touch.",
+
+  "travel_tips_vi": [
+    "Đến sớm nếu đi trưa vì quán đông",
+    "Hỏi món trong ngày vì có thể thay theo khoang mùa/hải sản",
+    "Nếu đi cùng trẻ nhỏ, chọn bàn trong phòng máy lạnh hoặc quạt",
+    "Mang theo tiền mặt, vì có thể quán không nhận thẻ với món nhỏ"
+  ],
+  "travel_tips_en": [
+    "Arrive early for lunch as the place gets busy",
+    "Ask about daily specials as dishes may vary by season",
+    "For families with kids, ask for air-conditioned room or fan area",
+    "Bring cash as small transactions may not take cards"
+  ],
+
+  "nearby_places": [
+    "Chợ Cái Khế",
+    "Bến Ninh Kiều",
+    "Nhà cổ Bình Thủy",
+    "Chùa Quang Đức"
+  ],
+
+  "recommended_itinerary_vi": "12:00 ăn trưa tại Quán Hồi Đó → 13:00 đi bộ đến Chợ Cái Khế hoặc Bến Ninh Kiều để dạo và chụp ảnh.",
+  "recommended_itinerary_en": "12:00 Lunch at Hoi Do Restaurant → 13:00 Walk to Cai Khe Market or Ninh Kieu Wharf for stroll & photos.",
+
+  "tags": [
+    "home-style food",
+    "Mekong Delta cuisine",
+    "family restaurant",
+    "vintage décor",
+    "Cần Thơ dining"
+  ]
+},
+  {
+  "id": "quan-chi-toi-ben-ninh-kieu",
+  "name_vi": "Quán Chị Tôi - Quán ăn ngon Bến Ninh Kiều",
+  "name_en": "Chi Toi Restaurant - Ninh Kieu Riverside",
+  "category_vi": "Ẩm thực Cần Thơ",
+  "category_en": "Can Tho Cuisine",
+  "address_vi": "27-29 Lê Lợi, phường An Cư, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "27-29 Le Loi Street, An Cu Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "07:00 - 22:00 hàng ngày",
+  "ticket_price": "Món ăn dao động từ 25.000 - 230.000 VNĐ",
+  "visit_duration": "1 - 1.5 giờ",
+  "best_time_to_visit": "Buổi tối (18:00 - 20:30) — mát mẻ và đông vui",
+
+  "activities_vi": [
+    "Thưởng thức các món đặc sản miền Tây",
+    "Trải nghiệm không gian sân vườn miền quê giữa trung tâm thành phố",
+    "Check-in phong cách miệt vườn, mộc mạc",
+    "Tổ chức bữa ăn gia đình hoặc nhóm bạn"
+  ],
+  "activities_en": [
+    "Enjoy signature Mekong Delta dishes",
+    "Experience a garden-style countryside atmosphere",
+    "Take photos with rustic, vintage décor",
+    "Have a family or group dining experience"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình muốn dùng bữa thoải mái",
+    "Nhóm bạn tụ họp, ăn uống",
+    "Du khách muốn thưởng thức món miền Tây đúng chuẩn",
+    "Người thích không gian thoáng mát, kiểu sân vườn"
+  ],
+  "suitable_for_en": [
+    "Families looking for a cozy meal",
+    "Friend groups gathering for casual dining",
+    "Travelers seeking authentic Mekong flavors",
+    "Guests who enjoy open-air garden settings"
+  ],
+
+  "description_vi": "Quán Chị Tôi là một địa điểm ẩm thực nổi tiếng gần Bến Ninh Kiều, mang phong cách sân vườn thoáng mát, gợi nhớ không gian miệt vườn Nam Bộ. Thực đơn đa dạng với các món đặc sản như tàu hủ trứng chiên giòn, ếch xào, khô mực rang tiêu, cơm cháy kho quẹt và nhiều món đậm chất miền Tây khác. Đây là nơi lý tưởng để thưởng thức bữa ăn gia đình ấm cúng giữa trung tâm Cần Thơ nhưng vẫn giữ nét mộc mạc, gần gũi.",
+  
+  "description_en": "Chi Toi Restaurant is a well-known dining spot near Ninh Kieu Wharf, offering an airy garden setting inspired by the Mekong countryside. The menu features popular local specialties such as crispy egg tofu, stir-fried frog, pepper-roasted dried squid, and clay-pot caramelized sauce with crispy rice. With its rustic charm and flavorful dishes, it’s an ideal place for families and travelers to enjoy an authentic Southern Vietnamese meal in the heart of Can Tho.",
+
+  "travel_tips_vi": [
+    "Nên đặt bàn trước vào cuối tuần hoặc buổi tối",
+    "Thử các món kho quẹt, món chiên và món ếch",
+    "Đi nhóm đông dễ gọi nhiều món để chia sẻ",
+    "Mang theo tiền mặt phòng khi cần thiết"
+  ],
+  "travel_tips_en": [
+    "Consider booking a table on weekends or evenings",
+    "Try signature dishes: frog stir-fry, crispy tofu, kho-quet clay pot",
+    "Order shared plates for the best experience",
+    "Bring some cash just in case"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Chợ đêm Cần Thơ",
+    "Cầu đi bộ Ninh Kiều",
+    "Chùa Ông",
+    "Chợ cổ Cần Thơ"
+  ],
+
+  "recommended_itinerary_vi": "18:00 ăn tối tại Quán Chị Tôi → 19:30 dạo Bến Ninh Kiều & cầu đi bộ → 20:30 thưởng thức chè/chè thái gần chợ đêm.",
+  "recommended_itinerary_en": "18:00 Dinner at Chi Toi Restaurant → 19:30 Walk around Ninh Kieu Wharf & pedestrian bridge → 20:30 Enjoy dessert at night market.",
+
+  "tags": [
+    "miền Tây",
+    "ẩm thực dân dã",
+    "sân vườn",
+    "Ninh Kiều",
+    "đồ ăn đặc sản",
+    "Can Tho food"
+  ]
+},
+  {
+  "id": "quan-cu-lan-can-tho",
+  "name_vi": "Quán ăn đêm Cần Thơ Cù Lần",
+  "name_en": "Cu Lan Night Grill Restaurant",
+  "category_vi": "Ẩm thực Cần Thơ",
+  "category_en": "Dining",
+  "address_vi": "88/19A Đề Thám, phường An Cư, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "88/19A De Tham Street, An Cu Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "15:00 - 23:00",
+  "ticket_price": "48.000 - 180.000 VNĐ/món",
+  "visit_duration": "60 - 90 phút",
+  "best_time_to_visit": "18:00 - 21:00 (đông vui, nhiều món tươi)",
+
+  "activities_vi": [
+    "Thưởng thức bò nướng ngói đặc sản",
+    "Ngồi ăn phong cách quán vỉa hè địa phương",
+    "Trải nghiệm ẩm thực đêm Cần Thơ"
+  ],
+  "activities_en": [
+    "Enjoy signature tile-grilled beef",
+    "Local street-food style dining",
+    "Experience Can Tho night food culture"
+  ],
+
+  "suitable_for_vi": [
+    "Nhóm bạn trẻ đi ăn tối - ăn đêm",
+    "Du khách muốn thử món bò nướng ngói",
+    "Người thích quán ăn nhỏ, đậm chất địa phương"
+  ],
+  "suitable_for_en": [
+    "Young travelers and night diners",
+    "Visitors who want to try authentic 'tile-grilled' beef",
+    "Street-food lovers seeking local experience"
+  ],
+
+  "description_vi": "Cù Lần là quán ăn đêm nổi tiếng ở Cần Thơ, chuyên các món bò nướng ngói thơm lừng. Thịt bò tẩm ướp đậm vị, khi nướng trên ngói tạo tiếng xì xèo và mùi thơm hấp dẫn. Bò ăn kèm sốt me chua cay rất cuốn. Không gian quán nhỏ nhưng lúc nào cũng đông khách, đặc biệt là giới trẻ. Đây là địa chỉ nên ghé nếu bạn muốn thưởng thức món bò nướng ngói chuẩn vị miền Tây.",
+  
+  "description_en": "Cu Lan is a popular night dining spot in Can Tho, famous for its flavorful tile-grilled beef. The beef is marinated well and grilled directly on clay tiles, giving a sizzling aroma and rich taste. Served with sweet and sour tamarind sauce, it is a local favorite. The place is small but always crowded, especially with young locals. A must-try for anyone wanting an authentic Mekong night food experience.",
+
+  "travel_tips_vi": [
+    "Nên đi sớm để tránh hết bàn",
+    "Không gian nhỏ — phù hợp nhóm 2-4 người",
+    "Thử món bò nướng ngói và lẩu bò"
+  ],
+  "travel_tips_en": [
+    "Come early to avoid waiting for seats",
+    "Small space — best for 2-4 guests",
+    "Must-try: grilled beef and beef hotpot"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Chợ đêm Cần Thơ",
+    "Cầu đi bộ Ninh Kiều",
+    "Phố đi bộ Cần Thơ"
+  ],
+
+  "recommended_itinerary_vi": "18:00 tham quan bến Ninh Kiều → 19:00 ăn tối tại Cù Lần → 20:30 dạo chợ đêm hoặc uống trà sữa gần đó.",
+  "recommended_itinerary_en": "6:00 PM visit Ninh Kieu Wharf → 7:00 PM dinner at Cu Lan → 8:30 PM walk to night market or grab dessert nearby.",
+
+  "tags": [
+    "ẩm thực đêm",
+    "bò nướng ngói",
+    "ăn vặt",
+    "Cần Thơ",
+    "Ninh Kiều",
+    "street food"
+  ]
+},
+  {
+  "id": "nha-hang-hoa-su-can-tho",
+  "name_vi": "Nhà hàng Hoa Sứ",
+  "name_en": "Hoa Su Restaurant",
+  "category_vi": "Ẩm thực Cần Thơ - Nhà hàng đặc sản miền Tây",
+  "category_en": "Can Tho Cuisine - Specialty Restaurant",
+  "address_vi": "Khu du lịch Cái Khế, đường Lê Lợi, phường Cái Khế, quận Ninh Kiều, TP. Cần Thơ, Việt Nam", 
+  "address_en": "Cai Khe Tourism Area, Le Loi Street, Cai Khe Ward, Ninh Kieu District, Can Tho City, Vietnam", 
+  "opening_hours": "08:00 - 23:00 hàng ngày", 
+  "ticket_price": "Mức giá từ khoảng 150.000 VNĐ/món theo thực đơn đặc sản", 
+  "visit_duration": "1 - 2 giờ", 
+  "best_time_to_visit": "Buổi tối từ 18:00 trở đi — không gian miệt vườn và sông nước tốt hơn", 
+
+  "activities_vi": [
+    "Thưởng thức các món đặc sản miền Tây như cá lóc nướng trui, ốc nướng tiêu, lẩu cua đồng", 
+    "Trải nghiệm không gian sân vườn, miệt vườn ven sông", 
+    "Nghe đờn ca tài tử khi dùng bữa (tùy chương trình)", 
+    "Chụp ảnh tại khuôn viên nhiều cây xanh, hồ nước, chòi lá"
+  ],
+  "activities_en": [
+    "Enjoy Mekong Delta specialty dishes such as grilled snakehead fish, pepper-roasted snails, swamp crab hotpot", 
+    "Experience garden-style riverside dining", 
+    "Listen to traditional Don Ca Tai Tu music during dinner (program pending)", 
+    "Take photos in a lush green, water-front setting with thatched huts"
+  ],
+
+  "suitable_for_vi": [
+    "Cặp đôi muốn không gian lãng mạn bên sông", 
+    "Gia đình hoặc nhóm bạn muốn ăn tối đặc sản miền Tây", 
+    "Du khách quốc tế tìm trải nghiệm ẩm thực & không gian miệt vườn", 
+    "Khách muốn kết hợp ăn tối + đi dạo bến Cái Khế"
+  ],
+  "suitable_for_en": [
+    "Couples seeking a romantic riverside dinner", 
+    "Families or friends wanting Mekong Delta specialty cuisine", 
+    "International travelers looking for local flavor & garden setting", 
+    "Guests planning dinner + stroll at Cai Khe Wharf"
+  ],
+
+  "description_vi": "Nhà hàng Hoa Sứ tọa lạc tại khu du lịch Cái Khế, đường Lê Lợi, quận Ninh Kiều - Cần Thơ. Với không gian rộng rãi, thiết kế theo phong cách miệt vườn sông nước Nam Bộ, nhà hàng mang đến trải nghiệm ẩm thực đặc sản miền Tây trong môi trường thư giãn. Menu nổi bật với ốc nướng tiêu, cá lóc nướng trui, lẩu cua đồng, cùng nhiều món khác được chế biến từ nguyên liệu địa phương. Đặc biệt khi không gian vừa ăn vừa nghe đờn ca tài tử sẽ là trải nghiệm đáng nhớ.", 
+  "description_en": "Hoa Su Restaurant is located in the Cai Khe Tourism Area, Le Loi Street, Ninh Kieu District — Can Tho. With a garden-style, riverside setting inspired by the Mekong Delta countryside, the restaurant offers a specialty cuisine experience. Stand-out menu items include pepper-roasted snails, grilled snakehead fish, swamp crab hotpot, and many more local delights. Dining here — potentially accompanied by traditional Don Ca Tai Tu music — makes for a memorable evening out.", 
+
+  "travel_tips_vi": [
+    "Nên đặt bàn trước vào buổi tối nếu đi cùng gia đình hoặc nhóm lớn", 
+    "Đi sớm để chọn chòi lá gần hồ nước nếu muốn không gian đẹp", 
+    "Thử món đặc sản ốc nướng tiêu, cá lóc nướng trui", 
+    "Mang theo máy ảnh: ánh sáng buổi tối và không gian rất “check-in”"
+  ],
+  "travel_tips_en": [
+    "Book a table ahead for evening dining, especially for families or large groups", 
+    "Arrive early to get a riverside hut next to the water", 
+    "Try the signature pepper-roasted snails and grilled snake-head fish", 
+    "Bring your camera: great photo opportunities in the evening garden setting"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều", 
+    "Chợ đêm Cái Khế", 
+    "Cầu Tình Yêu - Cần Thơ", 
+    "Nhà cổ Bình Thủy"
+  ],
+
+  "recommended_itinerary_vi": "18:00 đi dạo Bến Ninh Kiều → 19:00 dùng bữa tại Hoa Sứ → 20:30 ngồi thư giãn bên hồ và nghe đờn ca tài tử.", 
+  "recommended_itinerary_en": "6:00 PM stroll at Ninh Kieu Wharf → 7:00 PM dinner at Hoa Su Restaurant → 8:30 PM relax by the pond and listen to traditional music.", 
+
+  "tags": [
+    "đặc sản miền Tây", 
+    "ẩm thực sông nước", 
+    "nhà hàng sân vườn", 
+    "Cần Thơ", 
+    "Cái Khế", 
+    "fine dining"
+  ]
+},
+  {
+  "id": "mi-hau-phat-can-tho",
+  "name_vi": "Mì Hậu Phát",
+  "name_en": "Hau Phat Noodle House",
+  "category_vi": "Ẩm thực Cần Thơ - Quán ăn sáng",
+  "category_en": "Can Tho Cuisine - Breakfast Spot",
+  "address_vi": "19 Đường Phạm Ngũ Lão, phường Cái Khế, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "19 Pham Ngu Lao Street, Cai Khe Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "06:30 - 22:00",
+  "ticket_price": "Món ăn từ khoảng 25.000 - 50.000 VNĐ",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Buổi sáng sớm (06:30 - 09:00) để thử món mì hoành thánh nổi tiếng",
+
+  "activities_vi": [
+    "Thưởng thức mì hoành thánh trứng thơm ngon",
+    "Thử hủ tiếu, mì vịt tiềm, bánh canh đặc sản miền Tây",
+    "Ngồi quán ăn sáng địa phương, trải nghiệm bản địa"
+  ],
+  "activities_en": [
+    "Enjoy famous egg wonton noodles",
+    "Try ho tieu, stewed duck noodle soup, swamp crab noodle soup",
+    "Sit at a local breakfast spot and experience local life"
+  ],
+
+  "suitable_for_vi": [
+    "Người thích ăn sáng địa phương",
+    "Du khách muốn khám phá ẩm thực miền Tây",
+    "Gia đình hoặc nhóm nhỏ đi ăn sáng nhanh",
+    "Khách quốc tế muốn thử món ăn địa phương rẻ và ngon"
+  ],
+  "suitable_for_en": [
+    "Breakfast lovers looking for local cuisine",
+    "Travelers discovering Mekong Delta food",
+    "Families or small groups wanting quick morning meal",
+    "International visitors seeking tasty, affordable local dishes"
+  ],
+
+  "description_vi": "Mì Hậu Phát là quán mì lâu năm tại Cần Thơ, nằm ở 19 Phạm Ngũ Lão, quận Ninh Kiều, rất được người dân địa phương và khách tham quan lựa chọn cho bữa sáng. Quán phục vụ nhiều món sáng như hủ tiếu, mì vịt tiềm, bánh canh… nhưng nổi tiếng nhất là mì hoành thánh trứng: sợi mì dai thơm làm từ trứng, nước dùng được ninh xương thanh ngọt, ăn kèm rau tươi. Không gian giản dị, món ngon với giá hợp lý — là lựa chọn tuyệt vời để khởi đầu ngày tại xứ Tây Đô.",
+  "description_en": "Hau Phat Noodle House is a long-established breakfast eatery in Can Tho, located at 19 Pham Ngu Lao Street, Ninh Kieu District. It is popular among locals and visitors for morning meals. The menu includes ho tieu (rice noodle soup), stewed duck noodle soup, swamp crab noodle soup… but its signature dish is the egg wonton noodle: chewy egg noodles, clear sweet broth made from bones, served with fresh vegetables. The setting is simple, the price affordable — a great spot to start the day in the Mekong Delta city.",
+
+  "travel_tips_vi": [
+    "Đi sớm vì quán đông vào giờ cao điểm sáng",
+    "Hỏi món đặc biệt hôm nay (ví dụ món hoành thánh trứng)",
+    "Mang theo tiền mặt hoặc thẻ nhỏ, quán thường dễ thanh toán",
+    "Nếu bạn không ăn sớm, vẫn có thể ghé nhưng món đặc biệt có thể hết"
+  ],
+  "travel_tips_en": [
+    "Arrive early as the place gets busy at breakfast peak",
+    "Ask for today’s special (e.g., egg wonton noodle)",
+    "Bring small cash or card, simple payment system",
+    "If you go later, signature dishes may sell out"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Chợ Cái Khế",
+    "Nhà hàng Hoa Sứ",
+    "Đường ẩm thực An Khánh"
+  ],
+
+  "recommended_itinerary_vi": "08:00 ăn sáng tại Mì Hậu Phát → 09:00 đi bộ tới Chợ Cái Khế hoặc Bến Ninh Kiều để dạo và chụp ảnh.",
+  "recommended_itinerary_en": "8:00 AM breakfast at Hau Phat → 9:00 AM walk to Cai Khe Market or Ninh Kieu Wharf for a stroll & photos.",
+
+  "tags": [
+    "quán mì",
+    "ẩm thực sáng",
+    "miền Tây",
+    "ăn sáng địa phương",
+    "Cần Thơ",
+    "budget food"
+  ]
+},
+  {
+  "id": "quan-vien-lac-can-tho",
+  "name_vi": "Quán Viễn Lạc",
+  "name_en": "Vien Lac Breakfast House",
+  "category_vi": "Ẩm thực Cần Thơ - Quán ăn sáng",
+  "category_en": "Can Tho Cuisine - Breakfast Spot",
+  "address_vi": "209 Phan Đình Phùng, phường An Hòa, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "209 Phan Dinh Phung Street, An Hoa Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "06:30 - 11:00 hàng ngày",
+  "ticket_price": "Món ăn từ khoảng 15.000 - 50.000 VNĐ",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Sáng sớm (06:30 - 08:30) để tránh đông và thử món mới",
+
+  "activities_vi": [
+    "Thưởng thức món ăn sáng phong cách Trung Hoa - Việt: bánh mì ốp la, há cảo, bánh mì xíu mại, hoành thánh",
+    "Trải nghiệm quán ăn địa phương đông khách buổi sáng",
+    "Ngồi trò chuyện, quan sát cuộc sống phố đi bộ sáng sớm"
+  ],
+  "activities_en": [
+    "Enjoy breakfast with Chinese-Vietnamese flavors: egg bread, dumplings, wonton soup",
+    "Experience a busy local morning breakfast house",
+    "Sit, chat and observe early-morning city life"
+  ],
+
+  "suitable_for_vi": [
+    "Du khách muốn ăn sáng địa phương với giá hợp lý",
+    "Người thích thử món ăn gốc Hoa-Việt ở miền Tây",
+    "Gia đình hoặc nhóm nhỏ đi ăn sáng nhanh",
+    "Khách quốc tế muốn trải nghiệm ẩm thực sáng bình dân"
+  ],
+  "suitable_for_en": [
+    "Travelers seeking affordable local breakfast",
+    "Food lovers into Chinese-Vietnamese fusion dishes",
+    "Families or small groups wanting quick morning meal",
+    "International visitors exploring local morning food scene"
+  ],
+
+  "description_vi": "Quán Viễn Lạc là quán ăn sáng bình dân lâu năm tại Cần Thơ, nằm tại 209 Phan Đình Phùng, Ninh Kiều. Quán nổi bật với thực đơn kết hợp món Trung Hoa - Việt như bánh mì ốp la, há cảo, bánh mì xíu mại, hoành thánh… Giá cả hợp lý, mở cửa buổi sáng và luôn đông khách. Không gian giản dị, món ăn thơm ngon, rất thích hợp để bắt đầu ngày mới tại thành phố Tây Đô.",
+  
+  "description_en": "Vien Lac Breakfast House is a long-standing, affordable breakfast spot in Can Tho at 209 Phan Dinh Phung Street. It’s known for its Chinese-Vietnamese style breakfast fare: egg bread, dumplings, wonton soup, etc. It opens early in the morning and is usually bustling with locals. The simple setting and tasty food make it a great way to start your day in the Mekong Delta city.",
+
+  "travel_tips_vi": [
+    "Đi sớm vì đến muộn có thể hết món đặc biệt",
+    "Thử món hoành thánh hoặc bánh mì xíu mại - món đặc trưng của quán",
+    "Mang theo tiền mặt vì có thể đông và quán không chấp nhận nhiều phương thức thanh toán"
+  ],
+  "travel_tips_en": [
+    "Be there early - signature dishes may sell out",
+    "Try the wonton soup or bread with stewed pork balls - special dishes here",
+    "Bring cash, as it gets busy and payment options may be limited"
+  ],
+
+  "nearby_places": [
+    "Phố đi bộ Trần Phú (gần đó)",
+    "Chợ Cái Khế",
+    "Bến Ninh Kiều"
+  ],
+
+  "recommended_itinerary_vi": "07:00 ăn sáng tại Viễn Lạc → 08:00 đi bộ tới Bến Ninh Kiều hoặc Chợ Cái Khế để dạo và chụp ảnh.",
+  "recommended_itinerary_en": "7:00 AM breakfast at Vien Lac → 8:00 AM stroll to Ninh Kieu Wharf or Cai Khe Market for a walk & photos.",
+
+  "tags": [
+    "quán ăn sáng",
+    "trung hoa việt",
+    "bánh mì ốp la",
+    "Cần Thơ",
+    "ẩm thực địa phương",
+    "budget food"
+  ]
+},
+  {
+  "id": "bun-mam-173-can-tho",
+  "name_vi": "Bún mắm 173",
+  "name_en": "Bun Mam 173",
+  "category_vi": "Ẩm thực Cần Thơ - Đặc sản miền Tây",
+  "category_en": "Can Tho Cuisine - Mekong Regional Specialty",
+  "address_vi": "594 đường 30/4, phường Hưng Lợi, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "594 30/4 Street, Hung Loi Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "07:00 - 22:00 hàng ngày",
+  "ticket_price": "37.000 - 47.000 VNĐ/món",
+  "visit_duration": "30 - 45 phút",
+  "best_time_to_visit": "Buổi trưa hoặc chiều tối (11:00 - 20:00)",
+  
+  "activities_vi": [
+    "Thưởng thức món bún mắm đặc sản miền Tây",
+    "Trải nghiệm hương vị mắm đặc trưng miền sông nước",
+    "Ăn kèm rau vườn, hải sản và thịt quay"
+  ],
+  "activities_en": [
+    "Enjoy local Mekong fermented fish noodle soup",
+    "Experience authentic Mekong Delta flavors",
+    "Try noodle soup served with pork belly, seafood and herbs"
+  ],
+
+  "suitable_for_vi": [
+    "Người mê ẩm thực đặc sản miền Tây",
+    "Du khách muốn thưởng thức món truyền thống địa phương",
+    "Gia đình & nhóm bạn đi du lịch",
+    "Khách quốc tế muốn trải nghiệm món ăn độc đáo"
+  ],
+  "suitable_for_en": [
+    "Travelers who love signature regional dishes",
+    "Food lovers exploring authentic Mekong cuisine",
+    "Families and small travel groups",
+    "International visitors seeking cultural food experience"
+  ],
+
+  "description_vi": "Bún mắm 173 là địa chỉ quen thuộc khi nhắc đến đặc sản Cần Thơ. Món bún mắm tại đây có hương vị đậm đà, nước dùng thơm nồng mùi mắm đặc trưng nhưng vẫn thanh ngọt và dễ ăn. Một tô đầy đủ gồm bún, cá, mực, tôm, heo quay, kèm nhiều rau vườn. Điểm đặc biệt là có thêm hột vịt lộn giúp món ăn thêm độc đáo và lạ miệng. Không gian bình dân, đông khách cả ngày và giá rất hợp lý — phù hợp cho ai muốn trải nghiệm ẩm thực miền Tây đúng chuẩn.",
+  
+  "description_en": "Bun Mam 173 is a popular local spot to enjoy Can Tho's signature fermented fish noodle soup. The broth is rich and fragrant with fermented fish yet surprisingly balanced and easy to enjoy. A full bowl includes noodles, roasted pork, shrimp, squid and fresh garden herbs. A unique twist here is adding balut (duck embryo), making the dish flavorful and unforgettable. Affordable, busy, and full of local vibes — perfect for travelers seeking an authentic Mekong eating experience.",
+
+  "travel_tips_vi": [
+    "Nếu chưa quen mùi mắm, hãy thử suất nhỏ hoặc ăn kèm nhiều rau",
+    "Thêm ớt và chanh để món ăn đậm đà hơn",
+    "Đi sớm tránh giờ cao điểm 18:00 - 20:00"
+  ],
+  "travel_tips_en": [
+    "If you're new to fermented fish flavor, start with a small portion",
+    "Add lime and chili for the best balance",
+    "Avoid peak hours (6:00 PM - 8:00 PM)"
+  ],
+
+  "nearby_places": [
+    "Siêu thị Lotte Mart Cần Thơ",
+    "Công viên khu dân cư 30/4",
+    "Chợ An Hòa"
+  ],
+
+  "recommended_itinerary_vi": "11:30 thưởng thức bún mắm 173 → đi cà phê tại gần Lotte Mart → dạo vòng đường 30/4 hoặc Ninh Kiều buổi tối.",
+  "recommended_itinerary_en": "11:30 lunch at Bun Mam 173 → coffee near Lotte Mart → evening stroll around 30/4 Street or Ninh Kieu Wharf.",
+
+  "tags": [
+    "bún mắm",
+    "đặc sản miền tây",
+    "ẩm thực cần thơ",
+    "bún mắm cần thơ",
+    "món truyền thống",
+    "địa điểm ăn uống"
+  ]
+},
+  {
+  "id": "sui-cao-a-chay-can-tho",
+  "name_vi": "Sủi Cảo A Chảy",
+  "name_en": "A Chay Dumpling Shop",
+  "category_vi": "Ẩm thực Cần Thơ",
+  "category_en": "Cuisine",
+  "address_vi": "38 Nguyễn An Ninh, phường Tân An, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "38 Nguyen An Ninh Street, Tan An Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "08:00 - 22:00 hàng ngày",
+  "ticket_price": "25.000 - 80.000 VNĐ/món",
+  "visit_duration": "30 - 45 phút",
+  "best_time_to_visit": "Buổi tối (18:00 - 21:00) khi khu vực Bến Ninh Kiều đông vui",
+  
+  "activities_vi": [
+    "Thưởng thức sủi cảo handmade",
+    "Ăn mì hoành thánh kiểu Hoa",
+    "Trải nghiệm ẩm thực địa phương giá bình dân"
+  ],
+  "activities_en": [
+    "Try handmade dumplings",
+    "Enjoy Cantonese-style wonton noodles",
+    "Experience local street food vibes"
+  ],
+
+  "suitable_for_vi": [
+    "Người thích ẩm thực Trung Hoa - Việt kiểu đường phố",
+    "Sinh viên, gia đình, nhóm bạn",
+    "Du khách muốn ăn nhẹ khi dạo Bến Ninh Kiều"
+  ],
+  "suitable_for_en": [
+    "Fans of Chinese-Vietnamese street food",
+    "Students, families, casual diners",
+    "Travelers strolling around Ninh Kieu Wharf"
+  ],
+
+  "description_vi": "Sủi Cảo A Chảy là quán ăn lâu năm nổi tiếng ở khu vực Bến Ninh Kiều, phục vụ các món Hoa - Việt như sủi cảo, hoành thánh, súp cua. Sủi cảo được làm thủ công với lớp vỏ mềm, nhân thịt đậm đà, nước dùng ngọt thanh và thơm mùi hành phi. Không gian quán bình dân, luôn đông khách địa phương, đặc biệt vào buổi tối. Đây là địa chỉ quen thuộc của người dân Cần Thơ và du khách khi muốn thưởng thức món ăn nhanh, ngon và giá dễ chịu ngay trung tâm thành phố.",
+  
+  "description_en": "A Chay Dumpling Shop is a long-established eatery near Ninh Kieu Wharf, serving Chinese-Vietnamese dishes such as handmade dumplings, wonton noodles and crab soup. The dumplings are soft and flavorful, with rich pork filling and clear sweet broth. A casual and busy spot, especially at night, it’s a popular stop for both locals and visitors seeking affordable and tasty street-style food in the heart of Can Tho.",
+  
+  "travel_tips_vi": [
+    "Quán đông vào buổi tối — nên đến sớm để tránh đợi lâu",
+    "Nên thử combo sủi cảo + hoành thánh",
+    "Có thể mang theo tiền mặt vì đôi khi không nhận ví điện tử"
+  ],
+  "travel_tips_en": [
+    "Arrive early in the evening to avoid waiting",
+    "Try dumplings + wonton combo",
+    "Cash recommended — e-payment may not always be available"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Chợ đêm Ninh Kiều",
+    "Cầu đi bộ Cần Thơ",
+    "Công viên Bến Ninh Kiều"
+  ],
+
+  "recommended_itinerary_vi": "18:00 dạo Bến Ninh Kiều → ăn sủi cảo A Chảy → đi chợ đêm & uống cà phê ven sông.",
+  "recommended_itinerary_en": "6:00 PM stroll at Ninh Kieu Wharf → dinner at A Chay → explore night market & riverside coffee.",
+
+  "tags": [
+    "sủi cảo",
+    "hoành thánh",
+    "ẩm thực trung hoa",
+    "ăn đêm cần thơ",
+    "street food",
+    "ninh kiều"
+  ]
+},
+  {
+  "id": "bun-bo-hue-huynh-chau-can-tho",
+  "name_vi": "Bún bò Huế Huỳnh Châu",
+  "name_en": "Huynh Chau Hue Beef Noodle",
+  "category_vi": "Ẩm thực Cần Thơ - Món bún đặc sản",
+  "category_en": "Can Tho Cuisine - Specialty Noodle Dish",
+  "address_vi": "166B Phan Đình Phùng, phường An Hòa, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "166B Phan Dinh Phung Street, An Hoa Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "06:30 - 22:00 hàng ngày",
+  "ticket_price": "25.000 - 80.000 VNĐ/món",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Sáng sớm 06:30-09:00 khi thời tiết còn mát & quán mới mở",
+
+  "activities_vi": [
+    "Thưởng thức bản vị chuẩn của món bún bò Huế ở miền Tây",
+    "Ngắm tô bún màu sắc sống động với nhiều thành phần: giò heo, bò viên, chả, giá, rau thơm",
+    "Ngồi quán ăn sáng địa phương, hòa mình vào không khí thành phố"
+  ],
+  "activities_en": [
+    "Savor authentic Hue beef noodle soup in the Mekong Delta",
+    "See the colorful bowl with pork knuckle, beef balls, herbs, bean sprouts",
+    "Enjoy a local breakfast spot and morning city vibe"
+  ],
+
+  "suitable_for_vi": [
+    "Người thích ẩm thực miền Trung & miền Tây",
+    "Khách ăn sáng nhanh tại Cần Thơ",
+    "Gia đình hoặc nhóm bạn muốn món bún đặc sản",
+    "Khách quốc tế muốn thử món bún Huế tại miền Tây"
+  ],
+  "suitable_for_en": [
+    "Food lovers of Central & Southern Vietnamese cuisine",
+    "Breakfast seekers in Can Tho",
+    "Families or groups wanting specialty noodles",
+    "International visitors looking to try Hue beef noodle outside Hue"
+  ],
+
+  "description_vi": "Bún bò Huế Huỳnh Châu là quán bún lâu năm tại Cần Thơ, nằm ở 166B Phan Đình Phùng, nổi bật với hương vị bún bò chuẩn Huế nhưng chế biến tại miền Tây. Tô bún đầy tròn: sợi bún dai, nước dùng ngọt thanh từ xương, vị cay nhẹ từ tương ớt, topping như giò heo, bò viên, chả giò, kèm rau thơm và giá. Không gian quán đơn giản, phù hợp ăn sáng hoặc ăn trưa nhẹ trước khi khám phá thành phố.",
+  
+  "description_en": "Huynh Chau Hue Beef Noodle is a long-standing noodle shop in Can Tho, located at 166B Phan Dinh Phung Street. It serves the authentic Hue beef noodle dish adapted for the Mekong region: chewy noodles, sweet bone broth, mild chili, with toppings like pork knuckle, beef balls, fried spring rolls and fresh herbs. The casual setting makes it ideal for breakfast or a light midday meal while exploring the city.",
+
+  "travel_tips_vi": [
+    "Đi sớm để chọn chỗ ngồi tốt và có topping phong phú",
+    "Nếu không ăn được cay, hãy nhắc nhân viên giảm tương ớt",
+    "Thêm rau thơm và giá để món ăn thanh hơn"
+  ],
+  "travel_tips_en": [
+    "Come early for better seating and full toppings",
+    "If you prefer mild spice, ask to reduce chili sauce",
+    "Add fresh herbs and bean sprouts for a lighter flavor"
+  ],
+
+  "nearby_places": [
+    "Nhà cổ Bình Thủy",
+    "Chợ Cái Khế",
+    "Bến Ninh Kiều"
+  ],
+
+  "recommended_itinerary_vi": "07:00 ăn sáng tại Huỳnh Châu → 08:00 dạo phố Phan Đình Phùng → 09:00 tham quan Nhà cổ Bình Thủy hoặc chợ Cái Khế.",
+  "recommended_itinerary_en": "7:00 AM breakfast at Huynh Chau → 8:00 AM stroll Phan Dinh Phung street → 9:00 AM visit Binh Thuy Ancient House or Cai Khe Market.",
+
+  "tags": [
+    "bún bò Huế",
+    "món đặc sản",
+    "ăn sáng",
+    "Cần Thơ",
+    "quán bún",
+    "ẩm thực miền Trung"
+  ]
+},
+  {
+  "id": "cho-dem-tay-do-can-tho",
+  "name_vi": "Chợ đêm Tây Đô (Chợ đêm Cần Thơ)",
+  "name_en": "Tay Do Night Market (Can Tho Night Market)",
+  "category_vi": "Ẩm thực & Mua sắm - Trải nghiệm địa phương",
+  "category_en": "Food & Shopping - Local Experience",
+  "address_vi": "Khu dân cư Cái Khế, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "Cai Khe Residential Area, Ninh Kieu District, Can Tho City",
+  "opening_hours": "18:00 - 23:00",
+  "ticket_price": "Món ăn từ 20.000 - 60.000 VNĐ, đồ lưu niệm từ 10.000 VNĐ",
+  "visit_duration": "1 - 2 giờ",
+  "best_time_to_visit": "19:00 - 21:00 (nhộn nhịp nhất, nhiều hàng mở nhất)",
+
+  "activities_vi": [
+    "Thưởng thức món ăn đường phố miền Tây",
+    "Mua quà lưu niệm, đồ handmade, áo thun Cần Thơ",
+    "Check-in kiến trúc chợ kiểu truyền thống",
+    "Trải nghiệm không khí đêm của thành phố bên sông"
+  ],
+  "activities_en": [
+    "Enjoy local street food",
+    "Buy souvenirs and handmade craft items",
+    "Take photos with traditional market architecture",
+    "Experience riverside nightlife atmosphere"
+  ],
+
+  "suitable_for_vi": [
+    "Bạn trẻ thích khám phá đời sống đêm",
+    "Gia đình dạo chơi, mua quà lưu niệm",
+    "Khách quốc tế muốn trải nghiệm văn hoá chợ đêm Việt Nam",
+    "Nhóm bạn muốn ăn vặt, chụp hình"
+  ],
+  "suitable_for_en": [
+    "Young travelers exploring nightlife",
+    "Families looking for souvenirs and snacks",
+    "International tourists experiencing Vietnamese night markets",
+    "Friends group enjoying street food and photos"
+  ],
+
+  "description_vi": "Chợ đêm Tây Đô là khu chợ đêm nổi tiếng tại Cần Thơ, nằm gần công viên nước Cái Khế. Nơi đây mang kiến trúc chợ mái ngói truyền thống, nổi bật khi lên đèn vào ban đêm. Chợ bày bán phong phú các món ăn vặt miền Tây (bánh tráng trộn, nem nướng, chè, hải sản), cùng nhiều gian hàng thủ công mỹ nghệ, quà lưu niệm và thời trang. Đây là điểm tham quan lý tưởng để cảm nhận nhịp sống đêm của thành phố sông nước.",
+  
+  "description_en": "Tay Do Night Market is a well-known night market in Can Tho, located near Cai Khe Water Park. It features traditional tiled-roof architecture and becomes lively when the lights are on. The market offers local street foods such as spring rolls, grilled snacks, sweet soups, and seafood, along with souvenir and craft stalls. It's a great place to explore local nightlife and taste Mekong Delta culture.",
+
+  "travel_tips_vi": [
+    "Mang tiền mặt vì nhiều quầy chưa hỗ trợ thanh toán điện tử",
+    "Đi buổi tối muộn dễ hết món ngon",
+    "Giữ đồ dùng cá nhân cẩn thận khi đông người",
+    "Mặc đồ thoải mái, giày dễ đi"
+  ],
+  "travel_tips_en": [
+    "Bring cash; many vendors may not accept cards/e-wallets",
+    "Go early evening to enjoy full food selection",
+    "Keep an eye on personal items in crowded corners",
+    "Wear comfortable clothes and shoes"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Chợ đêm Bến Ninh Kiều (đi bộ ~5 phút)",
+    "Cầu đi bộ Ninh Kiều",
+    "Công viên Bến Ninh Kiều"
+  ],
+
+  "recommended_itinerary_vi": "19:00 dạo Bến Ninh Kiều → 19:30 đi chợ đêm Tây Đô thưởng thức đồ ăn → 21:00 đi cầu đi bộ ngắm sông Hậu về đêm.",
+  "recommended_itinerary_en": "19:00 Walk along Ninh Kieu Wharf → 19:30 Visit Tay Do Night Market for street food → 21:00 Watch Hau River night view from pedestrian bridge.",
+
+  "tags": [
+    "chợ đêm",
+    "ẩm thực đường phố",
+    "ăn vặt",
+    "mua sắm",
+    "check-in",
+    "Cần Thơ"
+  ]
+},
+  {
+  "id": "cho-dem-ben-ninh-kieu",
+  "name_vi": "Chợ đêm Bến Ninh Kiều",
+  "name_en": "Ninh Kieu Wharf Night Market",
+  "category_vi": "Ẩm thực & Mua sắm - Trải nghiệm địa phương",
+  "category_en": "Food & Shopping - Local Experience",
+
+  "address_vi": "Đường Hai Bà Trưng, phường Tân An, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "Hai Ba Trung Street, Tan An Ward, Ninh Kieu District, Can Tho City",
+
+  "opening_hours": "17:00 - 23:30",
+  "ticket_price": "Tham quan miễn phí; món ăn 10.000 - 50.000 VNĐ",
+  "visit_duration": "1 - 1.5 giờ",
+  "best_time_to_visit": "18:30 - 21:30 (đông vui nhất)",
+
+  "activities_vi": [
+    "Thưởng thức món ăn vặt miền Tây",
+    "Mua đồ handmade, phụ kiện, quà lưu niệm",
+    "Check-in phố đi bộ ven sông",
+    "Thưởng thức nước mía, trái cây dầm, bánh tráng, xiên nướng"
+  ],
+  "activities_en": [
+    "Enjoy Mekong street food",
+    "Buy handmade crafts and souvenirs",
+    "Walk along the riverside promenade",
+    "Try sugarcane juice, fruit desserts, grilled snacks"
+  ],
+
+  "suitable_for_vi": [
+    "Sinh viên và bạn trẻ thích dạo phố, ăn vặt",
+    "Gia đình muốn dạo mát và ăn nhẹ buổi tối",
+    "Khách quốc tế muốn trải nghiệm chợ đêm Việt Nam",
+    "Cặp đôi tìm không gian nhộn nhịp, gần bờ sông"
+  ],
+  "suitable_for_en": [
+    "Young travelers wanting street-food experience",
+    "Families strolling and enjoying light snacks",
+    "Foreign visitors exploring Vietnamese night markets",
+    "Couples enjoying riverside nightlife"
+  ],
+
+  "description_vi": "Chợ đêm Bến Ninh Kiều là khu phố đi bộ nhộn nhịp nằm ngay cạnh bờ sông Hậu và công viên Ninh Kiều. Dọc đường Hai Bà Trưng là hàng loạt quầy ăn vặt, quầy trang sức, đồ lưu niệm, thời trang và phụ kiện thủ công. Không gian sôi động, đèn trưng sáng rực tạo nên khung cảnh trẻ trung, vui tươi - nơi lý tưởng để thưởng thức ẩm thực đường phố và cảm nhận nhịp sống buổi tối của Cần Thơ.",
+  
+  "description_en": "Ninh Kieu Night Market is a lively riverside walking street located next to the Hau River and Ninh Kieu Park. Along Hai Ba Trung Street, you'll find street food stalls, souvenir shops, clothing, and handmade crafts. With bright lights, a lively atmosphere, and river breeze, it’s a must-visit spot to enjoy nightlife and street culture in Can Tho.",
+
+  "travel_tips_vi": [
+    "Đi giày dép thoải mái vì phải đi bộ",
+    "Chuẩn bị tiền mặt lẻ",
+    "Đi sớm để dễ tìm chỗ ngồi và còn đủ món",
+    "Tránh ghé lúc mưa vì một số quầy di động đóng sớm"
+  ],
+  "travel_tips_en": [
+    "Wear comfortable shoes; lots of walking",
+    "Bring small cash",
+    "Go early to avoid crowds and sold-out food",
+    "Avoid rainy evenings as mobile stalls may close early"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Bến tàu du lịch Cần Thơ",
+    "Cầu đi bộ Ninh Kiều",
+    "Chùa Ông",
+    "Chợ cổ Cần Thơ"
+  ],
+
+  "recommended_itinerary_vi": "18:30 dạo bờ sông Ninh Kiều → 19:00 ăn vặt tại chợ đêm → 20:00 đi cầu đi bộ ngắm sông Hậu → 20:30 uống nước mía hoặc ăn trái cây dầm.",
+  "recommended_itinerary_en": "18:30 Walk along Ninh Kieu Wharf → 19:00 Street-food at night market → 20:00 Visit pedestrian bridge for river view → 20:30 Sugarcane juice or fruit dessert",
+
+  "tags": [
+    "chợ đêm",
+    "ẩm thực đường phố",
+    "đi bộ",
+    "check-in",
+    "Ninh Kiều",
+    "Cần Thơ"
+  ]
+},
+{
+  "id": "lau-mam-da-ly",
+  "name_vi": "Lẩu Mắm Dạ Lý",
+  "name_en": "Da Ly Fermented Fish Hotpot",
+  
+  "category_vi": "Ẩm thực Cần Thơ - Lẩu đặc sản",
+  "category_en": "Can Tho Cuisine - Signature Hotpot",
+  
+  "address_vi": "89 Đề Thám, phường An Cư, quận Ninh Kiều, Cần Thơ",
+  "address_en": "89 De Tham Street, An Cu Ward, Ninh Kieu District, Can Tho",
+  
+  "opening_hours": "10:00 - 22:30",
+  "ticket_price": "Khoảng 150.000 – 350.000 VNĐ/nồi (tùy kích cỡ và số người)",
+  "visit_duration": "1 - 1.5 giờ",
+  "best_time_to_visit": "Buổi tối (18:00 - 21:00) khi quán đông vui",
+
+  "activities_vi": [
+    "Thưởng thức lẩu mắm chuẩn vị miền Tây",
+    "Ăn kèm hơn 10 loại rau đồng tươi",
+    "Trải nghiệm ẩm thực đặc trưng sông nước"
+  ],
+  "activities_en": [
+    "Enjoy authentic Mekong fermented fish hotpot",
+    "Try a wide variety of fresh river vegetables",
+    "Experience signature Mekong Delta cuisine"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình ăn tối",
+    "Du khách muốn thử đặc sản miền Tây",
+    "Nhóm bạn đông người"
+  ],
+  "suitable_for_en": [
+    "Family dinner",
+    "Travelers exploring regional specialties",
+    "Large friend groups"
+  ],
+
+  "description_vi": "Lẩu Mắm Dạ Lý là quán lẩu mắm nổi tiếng nhất Cần Thơ, được biết đến với nước lẩu đậm đà từ cá linh, cá sặc và bộ rau đồng phong phú. Không gian rộng, nhân viên nhanh nhẹn, phù hợp nhóm bạn, gia đình và khách du lịch muốn thưởng thức món đặc sản miền Tây.",
+  "description_en": "Da Ly is Can Tho’s most famous fermented fish hotpot restaurant, known for its rich broth made from linh and sac fish, served with a large platter of Mekong vegetables. Spacious setting and quick service make it ideal for families, friend groups, and tourists seeking authentic local flavors.",
+
+  "travel_tips_vi": [
+    "Nên gọi thêm cá kèo hoặc tôm để nồi lẩu phong phú hơn",
+    "Đi sớm cuối tuần để tránh hết bàn",
+    "Lẩu hơi nặng mùi đối với khách nước ngoài – nên thử trước"
+  ],
+  "travel_tips_en": [
+    "Add goby fish or shrimp for a richer hotpot",
+    "Arrive early on weekends",
+    "The broth can be strong for foreigners – sample first"
+  ],
+
+  "nearby_places": [
+    "Chợ Đêm Ninh Kiều",
+    "Bến Ninh Kiều",
+    "Phố đi bộ Cần Thơ"
+  ],
+
+  "recommended_itinerary_vi": "18:00 ăn tối tại Dạ Lý → 20:00 dạo Bến Ninh Kiều và đi chợ đêm.",
+  "recommended_itinerary_en": "6 PM dinner at Da Ly → 8 PM stroll around Ninh Kieu Wharf and Night Market.",
+
+  "tags": ["hotpot", "signature", "Mekong cuisine", "family dining", "local food"]
+},
+{
+  "id": "banh-xeo-7-toi",
+  "name_vi": "Bánh Xèo 7 Tới",
+  "name_en": "7 Toi Vietnamese Pancake",
+
+  "category_vi": "Ẩm thực Cần Thơ - Bánh dân gian",
+  "category_en": "Can Tho Cuisine - Traditional Pancake",
+
+  "address_vi": "Lê Lợi, phường An Cư, Ninh Kiều, Cần Thơ",
+  "address_en": "Le Loi Street, An Cu Ward, Ninh Kieu District, Can Tho",
+
+  "opening_hours": "8:30 - 21:00",
+  "ticket_price": "Mỗi bánh 40.000 – 70.000 VNĐ",
+  "visit_duration": "45 - 60 phút",
+  "best_time_to_visit": "Buổi trưa và chiều",
+
+  "activities_vi": [
+    "Xem đổ bánh xèo truyền thống",
+    "Thử bánh xèo giòn lớn kiểu miền Tây",
+    "Ăn kèm rau vườn tươi xanh"
+  ],
+  "activities_en": [
+    "Watch traditional pancake making",
+    "Try large crisp Mekong-style pancakes",
+    "Enjoy fresh garden vegetables"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình",
+    "Nhóm bạn",
+    "Khách nước ngoài muốn thử món dân gian"
+  ],
+  "suitable_for_en": [
+    "Families",
+    "Friends",
+    "Tourists exploring local folk cuisine"
+  ],
+
+  "description_vi": "Bánh Xèo 7 Tới nổi tiếng với chiếc bánh to, giòn rụm, nhân tôm thịt đầy đặn, ăn kèm nhiều loại rau miệt vườn. Đây là địa chỉ lâu đời được người dân Cần Thơ lẫn khách du lịch ưa chuộng.",
+  "description_en": "7 Toi is famous for its large, crispy Vietnamese pancakes filled with shrimp and pork, served with a generous platter of Mekong garden greens. A long-standing favorite for both locals and tourists.",
+
+  "travel_tips_vi": [
+    "Bánh rất to – 2 người ăn 1 cái là vừa",
+    "Nên đến sớm vì cuối tuần rất đông",
+    "Chấm nước mắm pha đúng kiểu miền Tây"
+  ],
+  "travel_tips_en": [
+    "The pancake is huge – one is enough for two people",
+    "Arrive early on weekends",
+    "Try the authentic Mekong dipping sauce"
+  ],
+
+  "nearby_places": [
+    "Chợ Cổ Cần Thơ",
+    "Bến Ninh Kiều",
+    "Chùa Ông"
+  ],
+
+  "recommended_itinerary_vi": "11:30 ăn trưa bánh xèo → 13:00 tham quan Chợ Cổ & Bến Ninh Kiều.",
+  "recommended_itinerary_en": "11:30 AM pancake lunch → 1 PM visit Can Tho Old Market and Ninh Kieu Wharf.",
+
+  "tags": ["pancake", "folk food", "crispy", "local cuisine", "traditional"]
+},
+{
+  "id": "sushi-sakura",
+  "name_vi": "Sushi Sakura",
+  "name_en": "Sakura Sushi Restaurant",
+
+  "category_vi": "Ẩm thực Nhật - Nhà hàng",
+  "category_en": "Japanese Cuisine - Restaurant",
+
+  "address_vi": "21 Mậu Thân, Xuân Khánh, Ninh Kiều, Cần Thơ",
+  "address_en": "21 Mau Than Street, Xuan Khanh Ward, Ninh Kieu District, Can Tho",
+
+  "opening_hours": "10:30 - 22:00",
+  "ticket_price": "50.000 – 250.000 VNĐ/món",
+  "visit_duration": "1 - 2 giờ",
+  "best_time_to_visit": "Tối cuối tuần",
+
+  "activities_vi": [
+    "Thưởng thức sushi, sashimi tươi",
+    "Không gian chuẩn Nhật",
+    "Các set ăn trưa giá tốt"
+  ],
+  "activities_en": [
+    "Enjoy fresh sushi and sashimi",
+    "Experience Japanese-style ambiance",
+    "Try affordable lunch sets"
+  ],
+
+  "suitable_for_vi": ["Cặp đôi", "Bạn bè", "Khách quốc tế"],
+  "suitable_for_en": ["Couples", "Friends", "Foreign travelers"],
+
+  "description_vi": "Sushi Sakura là nhà hàng Nhật được yêu thích tại Cần Thơ với thực đơn đa dạng từ sushi, sashimi, tempura đến bento. Không gian ấm cúng, phục vụ tốt, phù hợp cho hẹn hò hoặc ăn tối cùng bạn bè.",
+  "description_en": "Sakura Sushi is a popular Japanese restaurant in Can Tho offering a wide menu including sushi, sashimi, tempura, and bento sets. Cozy ambiance and good service make it ideal for dates and friend gatherings.",
+
+  "travel_tips_vi": [
+    "Nên thử sashimi cá hồi – món nổi bật",
+    "Giờ trưa có combo giá rẻ",
+    "Nên đặt bàn cuối tuần"
+  ],
+  "travel_tips_en": [
+    "Try salmon sashimi – a highlight",
+    "Lunch combos are affordable",
+    "Book a table for weekends"
+  ],
+
+  "nearby_places": ["Công viên Lưu Hữu Phước", "Trung tâm thương mại Cái Khế"],
+
+  "recommended_itinerary_vi": "18:00 ăn tối sushi → 20:00 xem phim hoặc dạo công viên.",
+  "recommended_itinerary_en": "6 PM sushi dinner → 8 PM movie or park walk.",
+
+  "tags": ["japanese", "sushi", "sashimi", "restaurant", "dining"]
+},
+{
+  "id": "cua-kim-anh",
+  "name_vi": "Cua Kim Anh",
+  "name_en": "Kim Anh Crab Restaurant",
+
+  "category_vi": "Hải sản - Đặc sản",
+  "category_en": "Seafood - Crab Specialty",
+
+  "address_vi": "30 Trần Văn Khéo, Ninh Kiều, Cần Thơ",
+  "address_en": "30 Tran Van Kheo Street, Ninh Kieu District, Can Tho",
+
+  "opening_hours": "10:00 - 23:00",
+  "ticket_price": "100.000 – 500.000+ VNĐ/món",
+  "visit_duration": "1 - 2 giờ",
+  "best_time_to_visit": "Buổi tối",
+
+  "activities_vi": ["Ăn cua tươi sống", "Thử cua rang me, cua hấp", "Không gian rộng rãi"],
+  "activities_en": ["Enjoy fresh crab", "Try tamarind crab & steamed crab", "Spacious dining room"],
+
+  "suitable_for_vi": ["Gia đình", "Doanh nhân", "Nhóm bạn"],
+  "suitable_for_en": ["Families", "Business meals", "Friend groups"],
+
+  "description_vi": "Cua Kim Anh nổi tiếng với cua biển tươi sống, chế biến tại chỗ theo nhiều kiểu khác nhau. Chất lượng ổn định và quán rộng rãi nên được nhiều đoàn khách lựa chọn.",
+  "description_en": "Kim Anh Crab Restaurant is known for fresh live crab cooked to order in various styles. Consistent quality and spacious seating make it ideal for families and group gatherings.",
+
+  "travel_tips_vi": [
+    "Hỏi giá cua theo thời điểm để tránh món quá cao",
+    "Cua rang me là món phải thử",
+    "Nên đặt bàn nếu đi đoàn đông"
+  ],
+  "travel_tips_en": [
+    "Check crab prices depending on the season",
+    "Tamarind crab is a must-try",
+    "Reserve for large groups"
+  ],
+
+  "nearby_places": ["Công viên Sông Hậu", "Vincom Xuân Khánh"],
+
+  "recommended_itinerary_vi": "18:00 ăn cua tại Kim Anh → 20:00 dạo công viên Sông Hậu.",
+  "recommended_itinerary_en": "6 PM crab dinner → 8 PM walk at Song Hau park.",
+
+  "tags": ["crab", "seafood", "restaurant", "family dining"]
+},
+{
+  "id": "sau-dua",
+  "name_vi": "Quán Sáu Dừa",
+  "name_en": "Sau Dua Mekong Restaurant",
+
+  "category_vi": "Đặc sản miền Tây - Nhà hàng",
+  "category_en": "Mekong Specialties - Restaurant",
+
+  "address_vi": "Lộ Vòng Cung, Phong Điền, Cần Thơ",
+  "address_en": "Lo Vong Cung Road, Phong Dien District, Can Tho",
+
+  "opening_hours": "9:00 - 21:00",
+  "ticket_price": "50.000 – 200.000 VNĐ/món",
+  "visit_duration": "1 - 1.5 giờ",
+  "best_time_to_visit": "Buổi trưa hoặc chiều",
+
+  "activities_vi": ["Thưởng thức món dân dã", "Không gian miệt vườn", "Đi dạo quanh vườn cây"],
+  "activities_en": ["Enjoy rustic Mekong dishes", "Experience garden-style restaurant", "Walk around fruit orchards"],
+
+  "suitable_for_vi": ["Gia đình", "Du khách miền Tây", "Nhóm bạn"],
+  "suitable_for_en": ["Families", "Mekong travelers", "Friend groups"],
+
+  "description_vi": "Sáu Dừa là quán ăn miệt vườn nổi tiếng tại Phong Điền, chuyên các món dân dã như cá lóc nướng trui, lẩu cá kèo, bánh xèo miền Tây. Không gian xanh mát, thoáng đãng, phù hợp cho du khách thích trải nghiệm ẩm thực miệt vườn.",
+  "description_en": "Sau Dua is a well-known garden-style restaurant in Phong Dien offering rustic Mekong dishes such as grilled snakehead fish, goby hotpot, and traditional pancakes. Relaxed open-air ambiance ideal for families and travelers.",
+
+  "travel_tips_vi": [
+    "Đi buổi trưa để chụp ảnh vườn đẹp",
+    "Thử món cá lóc nướng trui đặc trưng",
+    "Nên đặt trước ngày lễ"
+  ],
+  "travel_tips_en": [
+    "Visit at noon for the best orchard photos",
+    "Try the iconic grilled snakehead fish",
+    "Reserve during holidays"
+  ],
+
+  "nearby_places": ["Vườn trái cây Phong Điền", "Thiền viện Trúc Lâm Phương Nam"],
+
+  "recommended_itinerary_vi": "12:00 ăn trưa tại Sáu Dừa → 14:00 tham quan vườn trái cây Phong Điền.",
+  "recommended_itinerary_en": "12 PM lunch at Sau Dua → 2 PM visit Phong Dien orchards.",
+
+  "tags": ["mekong food", "garden restaurant", "rustic", "local dining"]
+},
+{
+  "id": "am-thuc-binh-thuy",
+  "name_vi": "Ẩm Thực Bình Thủy",
+  "name_en": "Binh Thuy Traditional Cuisine Restaurant",
+
+  "category_vi": "Ẩm thực Cần Thơ - Đặc sản miền Tây",
+  "category_en": "Can Tho Cuisine - Mekong Specialties",
+
+  "address_vi": "142/6 Lê Hồng Phong, Bình Thủy, Cần Thơ",
+  "address_en": "142/6 Le Hong Phong Street, Binh Thuy District, Can Tho",
+
+  "opening_hours": "9:00 - 22:00",
+  "ticket_price": "50.000 – 250.000 VNĐ/món",
+  "visit_duration": "1 - 1.5 giờ",
+  "best_time_to_visit": "Buổi trưa và tối",
+
+  "activities_vi": [
+    "Thưởng thức đặc sản miền Tây truyền thống",
+    "Không gian nhà vườn rộng rãi",
+    "Chụp ảnh phong cách kiến trúc xưa"
+  ],
+  "activities_en": [
+    "Enjoy traditional Mekong dishes",
+    "Relax in spacious garden-style space",
+    "Take photos of vintage architecture"
+  ],
+
+  "suitable_for_vi": ["Gia đình", "Du khách nước ngoài", "Nhóm bạn"],
+  "suitable_for_en": ["Families", "Foreign travelers", "Friend groups"],
+
+  "description_vi": "Ẩm Thực Bình Thủy nổi tiếng với phong cách miệt vườn kết hợp kiến trúc truyền thống. Quán phục vụ các món đặc sản như cá tai tượng chiên xù, lẩu mắm, bánh xèo và cá lóc nướng trui. Không gian thoáng mát, phù hợp cho thực khách muốn trải nghiệm ẩm thực bản địa.",
+  "description_en": "Binh Thuy Cuisine offers rustic Mekong dishes in a spacious garden setting with traditional Vietnamese architecture. Popular dishes include fried elephant ear fish, hotpot, pancakes, and grilled snakehead fish.",
+
+  "travel_tips_vi": [
+    "Món cá tai tượng chiên xù là lựa chọn hàng đầu",
+    "Không gian rộng - phù hợp đoàn khách đông",
+    "Tránh giờ cao điểm cuối tuần"
+  ],
+  "travel_tips_en": [
+    "Fried elephant ear fish is a must-try",
+    "Great for large tourist groups",
+    "Avoid weekend peak hours"
+  ],
+
+  "nearby_places": ["Nhà cổ Bình Thủy", "Chùa Nam Nhã"],
+
+  "recommended_itinerary_vi": "11:30 ăn trưa tại quán → 13:00 tham quan Nhà cổ Bình Thủy.",
+  "recommended_itinerary_en": "11:30 AM lunch → 1 PM visit Binh Thuy Ancient House.",
+
+  "tags": ["mekong cuisine", "traditional food", "garden restaurant"]
+},
+{
+  "id": "pizza-candle",
+  "name_vi": "Pizza Candle",
+  "name_en": "Candle Pizza Restaurant",
+
+  "category_vi": "Ẩm thực Tây - Pizza & Pasta",
+  "category_en": "Western Cuisine - Pizza & Pasta",
+
+  "address_vi": "45 Nguyễn Việt Hồng, Ninh Kiều, Cần Thơ",
+  "address_en": "45 Nguyen Viet Hong Street, Ninh Kieu District, Can Tho",
+
+  "opening_hours": "10:00 - 22:00",
+  "ticket_price": "60.000 – 200.000 VNĐ/món",
+  "visit_duration": "1 giờ",
+  "best_time_to_visit": "Tối hoặc cuối tuần",
+
+  "activities_vi": [
+    "Thưởng thức pizza nướng lò chuẩn vị Ý",
+    "Gọi combo pasta + salad",
+    "Không gian lãng mạn cho các cặp đôi"
+  ],
+  "activities_en": [
+    "Enjoy Italian-style baked pizza",
+    "Try pasta & salad combos",
+    "Romantic setting for couples"
+  ],
+
+  "suitable_for_vi": ["Cặp đôi", "Gia đình", "Sinh viên"],
+  "suitable_for_en": ["Couples", "Families", "Students"],
+
+  "description_vi": "Pizza Candle là nhà hàng phong cách Âu được yêu thích tại Cần Thơ. Pizza nướng lò, pasta sánh mịn và không gian nhẹ nhàng thích hợp cho buổi tối thư giãn hay hẹn hò.",
+  "description_en": "Candle Pizza offers European-style dishes with baked pizza, creamy pasta, and a cozy atmosphere, making it one of Can Tho’s favorite Western restaurants.",
+
+  "travel_tips_vi": [
+    "Pizza hải sản và bò BBQ là món nổi bật",
+    "Nên đặt bàn dịp lễ",
+    "Có combo dành cho 2 người"
+  ],
+  "travel_tips_en": [
+    "Seafood and BBQ beef pizzas are recommended",
+    "Book a table during holidays",
+    "Couple combo is available"
+  ],
+
+  "nearby_places": ["Vincom Xuân Khánh", "Phố ăn vặt Nguyễn Việt Hồng"],
+
+  "recommended_itinerary_vi": "18:00 ăn tối pizza → 19:30 dạo phố đi bộ hoặc xem phim.",
+  "recommended_itinerary_en": "6 PM pizza dinner → 7:30 PM movie or walk.",
+
+  "tags": ["pizza", "pasta", "western food", "date spot"]
+},
+{
+  "id": "nem-nuong-cai-rang",
+  "name_vi": "Nem Nướng Cái Răng",
+  "name_en": "Cai Rang Grilled Pork Rolls",
+
+  "category_vi": "Ẩm thực Cần Thơ - Món cuốn",
+  "category_en": "Can Tho Cuisine - Grilled Rolls",
+
+  "address_vi": "85A Quốc lộ 1A, Cái Răng, Cần Thơ",
+  "address_en": "85A National Road 1A, Cai Rang District, Can Tho",
+
+  "opening_hours": "9:00 - 21:00",
+  "ticket_price": "25.000 – 45.000 VNĐ/phần",
+  "visit_duration": "45 phút",
+  "best_time_to_visit": "Buổi trưa và tối",
+
+  "activities_vi": [
+    "Thưởng thức nem nướng đặc sản",
+    "Tự cuốn bánh tráng với rau sống",
+    "Chấm nước sốt đậu phộng đậm đà"
+  ],
+  "activities_en": [
+    "Taste signature grilled pork rolls",
+    "Make your own rice paper rolls",
+    "Dip with peanut-based sauce"
+  ],
+
+  "suitable_for_vi": ["Sinh viên", "Gia đình", "Khách du lịch"],
+  "suitable_for_en": ["Students", "Families", "Travelers"],
+
+  "description_vi": "Nem Nướng Cái Răng là món đặc sản được nhiều du khách yêu thích nhờ thịt nướng thơm, ăn kèm rau sống và nước chấm đậm vị. Một phần đầy đặn, giá rẻ và ngon.",
+  "description_en": "Cai Rang grilled pork rolls are popular among visitors for their smoky flavor, served with fresh herbs and a rich peanut dipping sauce. Generous portions at a great price.",
+
+  "travel_tips_vi": [
+    "Gọi thêm chả giò để cuốn chung",
+    "Món nhẹ bụng – phù hợp ăn trưa nhanh",
+    "Tránh giờ cao điểm xe tải"
+  ],
+  "travel_tips_en": [
+    "Order extra spring rolls",
+    "Light and perfect for quick lunch",
+    "Avoid truck traffic peak time"
+  ],
+
+  "nearby_places": ["Chợ nổi Cái Răng", "Cầu Cái Răng"],
+
+  "recommended_itinerary_vi": "10:00 tham quan chợ nổi → 12:00 ăn nem nướng.",
+  "recommended_itinerary_en": "10 AM floating market tour → 12 PM grilled rolls lunch.",
+
+  "tags": ["grilled rolls", "local food", "budget meal"]
+},
+{
+  "id": "bo-to-nam-son",
+  "name_vi": "Bò Tơ Năm Sơn",
+  "name_en": "Nam Son Young Beef Restaurant",
+
+  "category_vi": "Đặc sản bò tơ - Nhà hàng gia đình",
+  "category_en": "Young Beef Specialty - Family Restaurant",
+
+  "address_vi": "351 Nguyễn Văn Cừ, An Hòa, Ninh Kiều, Cần Thơ",
+  "address_en": "351 Nguyen Van Cu Street, An Hoa Ward, Ninh Kieu District, Can Tho",
+
+  "opening_hours": "10:00 - 22:00",
+  "ticket_price": "80.000 – 300.000 VNĐ/món",
+  "visit_duration": "1 - 1.5 giờ",
+  "best_time_to_visit": "Tối",
+
+  "activities_vi": ["Thưởng thức bò tơ mềm", "Nướng tại bàn", "Gọi lẩu bò tơ"],
+  "activities_en": ["Enjoy tender young beef", "Table-top grilling", "Try young beef hotpot"],
+
+  "suitable_for_vi": ["Gia đình", "Nhóm bạn", "Liên hoan"],
+  "suitable_for_en": ["Families", "Groups", "Team gatherings"],
+
+  "description_vi": "Bò Tơ Năm Sơn là địa chỉ nổi tiếng với thịt bò tơ mềm ngọt, chế biến đa dạng như nướng, hấp, lẩu. Phù hợp cho các buổi tụ tập đông người.",
+  "description_en": "Nam Son is well-known for its fresh young beef served grilled, steamed, or in hotpot. A great option for gatherings and family dinners.",
+
+  "travel_tips_vi": [
+    "Thử bò tơ nướng tảng – món đặc trưng",
+    "Nên đi nhóm 3–6 người để gọi nhiều món",
+    "Đi sớm để có bàn đẹp"
+  ],
+  "travel_tips_en": [
+    "Try the signature grilled beef chunk",
+    "Best enjoyed with groups of 3–6",
+    "Arrive early for better seating"
+  ],
+
+  "nearby_places": ["Khu dân cư Hồng Phát", "Siêu thị GO! Cần Thơ"],
+
+  "recommended_itinerary_vi": "18:30 ăn tối bò tơ → 20:30 đi dạo khu Hồng Phát.",
+  "recommended_itinerary_en": "6:30 PM dinner → 8:30 PM walk around Hong Phat.",
+
+  "tags": ["beef", "grill", "hotpot", "family dining"]
+},
+{
+  "id": "hai-san-bien-dong",
+  "name_vi": "Hải Sản Biển Đông Cần Thơ",
+  "name_en": "Bien Dong Seafood Restaurant",
+
+  "category_vi": "Hải sản - Nhà hàng lớn",
+  "category_en": "Seafood - Large Restaurant",
+
+  "address_vi": "134 Trần Văn Khéo, Ninh Kiều, Cần Thơ",
+  "address_en": "134 Tran Van Kheo Street, Ninh Kieu District, Can Tho",
+
+  "opening_hours": "10:00 - 23:00",
+  "ticket_price": "70.000 – 400.000+ VNĐ/món",
+  "visit_duration": "1 - 2 giờ",
+  "best_time_to_visit": "Tối cuối tuần",
+
+  "activities_vi": ["Chọn hải sản sống tại bể", "Thưởng thức món nướng - hấp - xào", "Không gian rộng cho tiệc"],
+  "activities_en": ["Pick live seafood", "Enjoy grilled, steamed, and stir-fried dishes", "Large space suitable for parties"],
+
+  "suitable_for_vi": ["Gia đình", "Công ty", "Du khách"],
+  "suitable_for_en": ["Families", "Companies", "Tourists"],
+
+  "description_vi": "Biển Đông là nhà hàng hải sản lớn tại Cần Thơ, phục vụ các loại hải sản tươi sống được chế biến theo yêu cầu. Không gian rộng, phù hợp tiệc gia đình và tiếp khách.",
+  "description_en": "Bien Dong is a major seafood restaurant in Can Tho offering fresh live seafood cooked to order. Spacious setting makes it ideal for family events and business meals.",
+
+  "travel_tips_vi": [
+    "Kiểm tra giá hải sản theo thời điểm",
+    "Cuối tuần rất đông – nên đặt bàn",
+    "Món mực nướng và hàu phô mai được yêu thích"
+  ],
+  "travel_tips_en": [
+    "Check seasonal seafood pricing",
+    "Reserve on weekends",
+    "Try grilled squid and cheese oysters"
+  ],
+
+  "nearby_places": ["Công viên Sông Hậu", "Siêu thị TD Plaza"],
+
+  "recommended_itinerary_vi": "18:00 ăn hải sản tại Biển Đông → 20:00 dạo công viên Sông Hậu.",
+  "recommended_itinerary_en": "6 PM dinner → 8 PM walk along Song Hau park.",
+
+  "tags": ["seafood", "grilled", "live seafood", "family", "party"]
+},
+{
+  "id": "restaurant_hu_tieu_muc_nha",
+  "type": "restaurant",
+  "name_vi": "Hủ Tiếu Mực Nhã",
+  "name_en": "Nha Squid Rice Noodle Soup",
+  "category_vi": "Món nước – Hủ tiếu",
+  "category_en": "Noodle Soup – Hu Tieu",
+  "address_vi": "402 Nguyễn Văn Cừ, quận Ninh Kiều, Cần Thơ",
+  "address_en": "402 Nguyen Van Cu Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "06:00 – 13:00",
+  "price_range_vi": "45.000 – 70.000đ/tô",
+  "price_range_en": "45,000 – 70,000 VND/bowl",
+  "description_vi": "Quán nổi tiếng với hủ tiếu mực tươi, nước dùng trong ngọt thanh, topping mực giòn – tôm – thịt đầy đặn. Món ăn sáng được nhiều người dân địa phương yêu thích.",
+  "description_en": "Famous for its fresh squid noodle soup with a clear, sweet broth and generous toppings of squid, shrimp, and pork. A popular breakfast choice among locals.",
+  "best_time_vi": "Buổi sáng, từ 6:00 – 9:00",
+  "best_time_en": "Morning, from 6 AM to 9 AM"
+}, 
+{
+  "id": "restaurant_bun_mam_144",
+  "type": "restaurant",
+  "name_vi": "Bún Mắm 144 Đề Thám",
+  "name_en": "Bun Mam 144 De Tham",
+  "category_vi": "Đặc sản miền Tây",
+  "category_en": "Mekong Specialty",
+  "address_vi": "144 Đề Thám, quận Ninh Kiều, Cần Thơ",
+  "address_en": "144 De Tham Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "09:00 – 20:00",
+  "price_range_vi": "45.000 – 60.000đ/tô",
+  "price_range_en": "45,000 – 60,000 VND/bowl",
+  "description_vi": "Bún mắm đậm đà từ mắm cá linh – cá sặc, ăn kèm heo quay, tôm, mực và rau sống. Là một trong những quán bún mắm nổi tiếng nhất Cần Thơ.",
+  "description_en": "Rich fermented fish noodle soup served with roasted pork, shrimp, squid, and fresh herbs. One of Can Tho’s most famous 'bun mam' spots.",
+  "best_time_vi": "Trưa hoặc chiều",
+  "best_time_en": "Noon or afternoon"
+},
+{
+  "id": "restaurant_bun_ca_thanh_truc",
+  "type": "restaurant",
+  "name_vi": "Bún Cá Thanh Trúc",
+  "name_en": "Thanh Truc Fish Noodle Soup",
+  "category_vi": "Món nước – Bún cá",
+  "category_en": "Noodle Soup – Fish Vermicelli",
+  "address_vi": "Lý Tự Trọng, quận Ninh Kiều, Cần Thơ",
+  "address_en": "Ly Tu Trong Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "06:00 – 13:00",
+  "price_range_vi": "30.000 – 45.000đ/tô",
+  "price_range_en": "30,000 – 45,000 VND/bowl",
+  "description_vi": "Bún cá lóc với cá chiên hoặc hấp, nước dùng thanh ngọt, ăn kèm rau đắng và bắp chuối. Quán lâu năm, được người dân địa phương ưa chuộng.",
+  "description_en": "Snakehead fish noodle soup with fried or steamed fish, a light sweet broth, and local herbs. A long-standing local favorite.",
+  "best_time_vi": "Buổi sáng",
+  "best_time_en": "Morning"
+},
+{
+  "id": "restaurant_banh_canh_cua_ly_tu_trong",
+  "type": "restaurant",
+  "name_vi": "Bánh Canh Cua Lý Tự Trọng",
+  "name_en": "Ly Tu Trong Crab Tapioca Noodles",
+  "category_vi": "Món nước – Bánh canh",
+  "category_en": "Noodle Soup – Crab Thick Noodles",
+  "address_vi": "Lý Tự Trọng, quận Ninh Kiều, Cần Thơ",
+  "address_en": "Ly Tu Trong Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "14:00 – 20:00",
+  "price_range_vi": "35.000 – 55.000đ/tô",
+  "price_range_en": "35,000 – 55,000 VND/bowl",
+  "description_vi": "Bánh canh cua nổi tiếng với sợi bánh mềm làm từ bột gạo, nước dùng sánh vị cua và topping tôm – chả.",
+  "description_en": "Well-known for its soft rice-based noodles, rich crab-infused broth, and toppings such as shrimp and pork cake.",
+  "best_time_vi": "Buổi chiều tối",
+  "best_time_en": "Late afternoon or evening"
+},
+{
+  "id": "restaurant_banh_cong_co_ut",
+  "type": "restaurant",
+  "name_vi": "Bánh Cống Cô Út",
+  "name_en": "Co Ut Banh Cong",
+  "category_vi": "Bánh dân gian",
+  "category_en": "Traditional Cake",
+  "address_vi": "Khu vực Hưng Lợi, quận Ninh Kiều, Cần Thơ",
+  "address_en": "Hung Loi Area, Ninh Kieu District, Can Tho",
+  "opening_hours": "14:00 – 19:00",
+  "price_range_vi": "15.000 – 25.000đ/cái",
+  "price_range_en": "15,000 – 25,000 VND/piece",
+  "description_vi": "Bánh cống giòn rụm, nhân tôm – thịt – đậu xanh, ăn kèm rau sống và nước mắm chua ngọt. Một trong những quán bánh cống nổi tiếng nhất Cần Thơ.",
+  "description_en": "Crispy fried mung bean cake with shrimp, pork, and green beans, served with fresh herbs and sweet fish sauce. One of Can Tho’s most iconic 'banh cong' shops.",
+  "best_time_vi": "Buổi chiều",
+  "best_time_en": "Afternoon"
+},
+{
+  "id": "restaurant_ga_quay_be_nam",
+  "type": "restaurant",
+  "name_vi": "Gà Quay Bé Năm",
+  "name_en": "Be Nam Clay Pot Roasted Chicken",
+  "category_vi": "Món chính – Gà quay",
+  "category_en": "Main Dish – Roasted Chicken",
+  "address_vi": "Huỳnh Cương, quận Ninh Kiều, Cần Thơ",
+  "address_en": "Huynh Cuong Street, Ninh Kieu District, Can Tho",
+  "opening_hours": "10:00 – 21:00",
+  "price_range_vi": "120.000 – 160.000đ/nửa con",
+  "price_range_en": "120,000 – 160,000 VND/half chicken",
+  "description_vi": "Gà được quay trong lu đất cho da vàng giòn, thịt mềm ngọt, hương thơm đặc trưng. Là quán gà quay nổi tiếng khu Ninh Kiều.",
+  "description_en": "Chicken roasted in a clay pot, resulting in crispy skin and tender, flavorful meat. A well-known roasted chicken spot in Ninh Kieu.",
+  "best_time_vi": "Buổi tối hoặc cuối tuần",
+  "best_time_en": "Evening or weekend"
+},
+{
+  "id": "food_street_hem51_bunxang",
+  "type": "food_area",
+  "name_vi": "Hẻm 51 – Khu Ẩm Thực Hồ Bún Xáng",
+  "name_en": "Alley 51 – Bun Xang Lake Food Street",
+  "category_vi": "Khu ẩm thực đường phố",
+  "category_en": "Street Food Area",
+
+  "address_vi": "Hẻm 51, Đường 3/2, Quận Ninh Kiều, Cần Thơ",
+  "address_en": "Alley 51, 3/2 Street, Ninh Kieu District, Can Tho",
+
+  "opening_hours_vi": "17:00 – 22:30",
+  "opening_hours_en": "5:00 PM – 10:30 PM",
+
+  "description_vi": "Hẻm 51 – Hồ Bún Xáng là khu ẩm thực nổi tiếng với hàng chục quán ăn vặt, hải sản, lẩu và món nướng. Không gian ven hồ thoáng mát, đông đúc cả tuần, đặc biệt vào buổi tối. Đây là điểm tụ tập yêu thích của sinh viên và người địa phương.",
+  "description_en": "Alley 51 – Bun Xang Lake Food Street is a popular dining area featuring dozens of food stalls serving snacks, seafood, hotpot, and grilled dishes. Located by the lakeside, it offers a lively, cool evening atmosphere and is particularly loved by students and locals.",
+
+  "famous_dishes_vi": [
+    "Lẩu mắm",
+    "Cá kèo nướng và lẩu cá kèo",
+    "Ốc, sò, nghêu – hải sản tươi",
+    "Bánh tráng nướng",
+    "Bánh tiêu, chuối nướng",
+    "Các món nướng xiên que"
+  ],
+  "famous_dishes_en": [
+    "Fermented fish hotpot (Lẩu mắm)",
+    "Grilled mudfish and mudfish hotpot",
+    "Fresh seafood: clams, snails, mussels",
+    "Vietnamese grilled rice paper",
+    "Fried banana cake",
+    "Assorted grilled skewers"
+  ],
+
+  "price_range_vi": "20.000 – 150.000 đ/món",
+  "price_range_en": "20,000 – 150,000 VND/dish",
+
+  "suitable_for_vi": [
+    "Sinh viên và giới trẻ",
+    "Đi nhóm bạn",
+    "Khách du lịch thích ẩm thực địa phương"
+  ],
+  "suitable_for_en": [
+    "Students and young visitors",
+    "Friend groups",
+    "Travelers who enjoy local street food"
+  ],
+
+  "travel_tips_vi": [
+    "Đi buổi tối sẽ đông vui nhất, đặc biệt từ 18:30 – 21:00.",
+    "Nên đi xe máy hoặc taxi; khu vực khó đậu ô tô.",
+    "Một số quán chỉ nhận thanh toán tiền mặt.",
+    "Có nhiều món cay; nên hỏi trước nếu không ăn cay."
+  ],
+  "travel_tips_en": [
+    "The area is most lively from 6:30 PM to 9:00 PM.",
+    "Motorbike or taxi is preferred; parking space for cars is limited.",
+    "Some vendors only accept cash payments.",
+    "Many dishes are spicy; ask beforehand if needed."
+  ],
+
+  "nearby_places": [
+    "Khu dân cư Hưng Lợi",
+    "Đại học Cần Thơ – khu 2",
+    "Công viên Lưu Hữu Phước"
+  ]
+},
+{
+  "id": "food_street_detham_sweet",
+  "type": "food_area",
+  "name_vi": "Khu Ẩm Thực Đường Đề Thám",
+  "name_en": "De Tham Street Food Area",
+  "category_vi": "Khu ẩm thực bánh ngọt truyền thống",
+  "category_en": "Traditional Vietnamese Sweets Street",
+
+  "address_vi": "Đường Đề Thám, Phường Tân An, Quận Ninh Kiều, Cần Thơ",
+  "address_en": "De Tham Street, Tan An Ward, Ninh Kieu District, Can Tho",
+
+  "opening_hours_vi": "06:00 – 18:00",
+  "opening_hours_en": "6:00 AM – 6:00 PM",
+
+  "description_vi": "Đường Đề Thám là khu ẩm thực mang đậm màu sắc truyền thống, nổi tiếng với hàng chục quầy bán bánh ngọt, bánh dân gian miền Tây. Tại đây, du khách có thể dễ dàng tìm thấy các loại bánh đặc sản như bánh bò, bánh da lợn, bánh ít, bánh khoai mì, bánh cam… với hương vị vừa dân dã vừa tinh tế.",
+  "description_en": "De Tham Street is a traditional food area known for its variety of Vietnamese sweets and Mekong Delta-style rustic cakes. Visitors can find many classic treats such as steamed sponge cakes, layered pandan cakes, sticky rice cakes, cassava cakes, and sesame balls—all carrying authentic local flavors.",
+
+  "famous_dishes_vi": [
+    "Bánh bò nướng",
+    "Bánh da lợn",
+    "Bánh ít lá gai",
+    "Bánh chuối nướng",
+    "Bánh khoai mì",
+    "Bánh cam (bánh rán mè)",
+    "Bánh tét mini",
+    "Bánh xu xê (phu thê)"
+  ],
+  "famous_dishes_en": [
+    "Honeycomb cake",
+    "Layered pandan cake",
+    "Vietnamese sticky rice cake with gai leaf",
+    "Vietnamese banana cake",
+    "Cassava cake",
+    "Sesame fried glutinous ball",
+    "Mini sticky rice Tet cake",
+    "Husband-and-wife cake"
+  ],
+
+  "price_range_vi": "5.000 – 30.000 đ/món",
+  "price_range_en": "5,000 – 30,000 VND/item",
+
+  "suitable_for_vi": [
+    "Người thích ẩm thực truyền thống",
+    "Khách du lịch muốn thử bánh ngọt miền Tây",
+    "Người mua quà mang đi"
+  ],
+  "suitable_for_en": [
+    "Traditional dessert lovers",
+    "Travelers exploring Mekong Delta sweets",
+    "Visitors looking for take-home treats"
+  ],
+
+  "travel_tips_vi": [
+    "Nên đi buổi sáng vì nhiều loại bánh mới ra lò.",
+    "Một số quầy ngừng bán sớm nếu hết bánh.",
+    "Mang theo tiền mặt – hầu hết quầy nhỏ không nhận chuyển khoản.",
+    "Khu vực đông vào cuối tuần và sáng sớm."
+  ],
+  "travel_tips_en": [
+    "Visit in the morning for freshly made cakes.",
+    "Some stalls close early once they sell out.",
+    "Bring cash as most vendors don’t accept bank transfers.",
+    "The area is busiest on weekends and early mornings."
+  ],
+
+  "nearby_places": [
+    "Chợ Tân An",
+    "Công viên Lưu Hữu Phước",
+    "Bến Ninh Kiều"
+  ]
+}
+]

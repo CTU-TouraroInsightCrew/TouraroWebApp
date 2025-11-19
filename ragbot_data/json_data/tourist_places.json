@@ -1,0 +1,2937 @@
+[
+  {
+  "id": "lang-du-lich-my-khanh", 
+  "name_vi": "Làng du lịch Mỹ Khánh",
+  "name_en": "My Khanh Tourist Village",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "335 Lộ Vòng Cung, Xã Mỹ Khánh, Huyện Phong Điền, Thành Phố Cần Thơ",
+  "address_en": "335 Lo Vong Cung Street, My Khanh Commune, Phong Dien District, Can Tho City",
+  "opening_hours": "07:00 - 22:00 hàng ngày",
+  "ticket_price": "Người lớn ~139.000 VNĐ, trẻ em ~90.000 VNĐ/mỗi vé",
+  "visit_duration": "3 - 5 giờ (có thể cả ngày nếu tham gia đầy đủ hoạt động)",
+  "best_time_to_visit": "Mùa trái cây tháng 5 - 9; buổi sáng mát mẻ là đẹp nhất",
+  "activities_vi": [
+    "Tham quan vườn cây ăn trái",
+    "Tát mương bắt cá",
+    "Chèo xuồng",
+    "Tham quan nhà cổ Nam Bộ",
+    "Trải nghiệm câu cá sấu",
+    "Khu trò chơi dân gian",
+    "Xe điện tham quan",
+    "Thưởng thức ẩm thực miền Tây",
+    "Check-in cối xay gió, cầu gỗ, hồ nước"
+  ],
+  "activities_en": [
+    "Fruit garden tour",
+    "Catch fish in the canal",
+    "Rowing boat experience",
+    "Visit ancient Southern house",
+    "Crocodile fishing",
+    "Traditional folk games",
+    "Electric sightseeing car",
+    "Taste Mekong Delta cuisine",
+    "Photo spots by the lake and garden"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em — nhiều trò chơi dân gian, tham quan miệt vườn",
+    "Nhóm bạn trẻ — hoạt động vui chơi, chụp ảnh",
+    "Khách yêu văn hoá miền Tây Nam Bộ",
+    "Du khách muốn nghỉ dưỡng sinh thái"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Young travelers",
+    "Culture and heritage lovers",
+    "Relaxation and eco-tourism visitors"
+  ],
+  "description_vi": "Làng du lịch Mỹ Khánh là khu du lịch sinh thái lớn hơn 30ha, cách trung tâm Cần Thơ 10km. Du khách được trải nghiệm không gian miệt vườn, tham quan nhà cổ, chèo xuồng, tát mương bắt cá, câu cá sấu, xem biểu diễn dân gian và thưởng thức ẩm thực miền Tây. Nơi đây thích hợp cho gia đình, nhóm bạn và khách muốn thư giãn, tìm hiểu văn hóa Nam Bộ.",
+  "description_en": "My Khanh Tourist Village is a 30-hectare eco-tourism area located 10km from downtown Can Tho. Visitors can enjoy fruit gardens, boat rowing, fish catching, crocodile fishing, ancient Southern house, folk activities, and local cuisine. Suitable for families, young travelers and culture lovers seeking a relaxing countryside experience.",
+  "travel_tips_vi": [
+    "Đi buổi sáng sẽ mát và ít đông hơn",
+    "Mang theo quần áo thay nếu tham gia tát mương bắt cá",
+    "Nên đặt vé/xe điện trước nếu đi đoàn đông",
+    "Chuẩn bị tiền mặt vì một số dịch vụ nhỏ không quẹt thẻ"
+  ],
+  "travel_tips_en": [
+    "Visit in the morning for cooler weather",
+    "Bring extra clothes if joining water activities",
+    "Book electric car or ticket for big groups",
+    "Carry some cash for small services"
+  ],
+  "nearby_places": [
+    "Thiền Viện Trúc Lâm Phương Nam",
+    "Nhà Cổ Bình Thuỷ",
+    "Chợ nổi Cái Răng",
+    "Khu du lịch Ông Đề"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn trái cây → Chèo xuồng → Tát mương bắt cá → Ăn trưa đặc sản miền Tây → Tham quan nhà cổ & xem biểu diễn dân gian.",
+  "recommended_itinerary_en": "Fruit garden visit → Boat rowing → Fish catching activity → Local lunch → Ancient house & folk performance.",
+  "tags": [
+    "du lịch sinh thái",
+    "miệt vườn",
+    "văn hóa miền Tây",
+    "hoạt động ngoài trời",
+    "trải nghiệm gia đình"
+  ],
+  "festivals": [],
+  "rating": "Popular family eco-tourist spot in Can Tho",
+  "notes": "Có khu nghỉ dưỡng & homestay; vé trò chơi tính riêng"
+},
+  {
+  "id": "lang-du-lich-ong-de",
+  "name_vi": "Làng du lịch Ông Đề",
+  "name_en": "Ong De Tourist Village",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Ấp Mỹ Ái, Xã Mỹ Khánh, Huyện Phong Điền, TP Cần Thơ",
+  "address_en": "My Ai Hamlet, My Khanh Commune, Phong Dien District, Can Tho City",
+  "opening_hours": "07:30 - 19:30",
+  "ticket_price": "Khoảng 100.000 VNĐ/người lớn, 30.000 VNĐ/trẻ em (tuỳ dịch vụ)",
+  "visit_duration": "3 - 5 giờ",
+  "best_time_to_visit": "Bất kỳ thời điểm nào, buổi sáng mát mẻ lý tưởng hơn",
+  
+  "activities_vi": [
+    "Tham quan vườn trái cây",
+    "Đi cầu khỉ",
+    "Trượt bùn",
+    "Tát mương bắt cá",
+    "Chèo xuồng",
+    "Chụp ảnh check-in miệt vườn",
+    "Thưởng thức ẩm thực dân dã miền Tây",
+    "Trải nghiệm homestay"
+  ],
+  "activities_en": [
+    "Fruit garden visit",
+    "Monkey bridge crossing",
+    "Mud slide play",
+    "Canal fish catching",
+    "Rowing boat",
+    "Countryside photo spots",
+    "Traditional local cuisine",
+    "Homestay experience"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Nhóm bạn trẻ thích hoạt động ngoài trời",
+    "Khách yêu thiên nhiên và văn hoá miền Tây",
+    "Team building nhóm nhỏ"
+  ],
+  "suitable_for_en": [
+    "Families with children",
+    "Young travelers",
+    "Nature lovers",
+    "Small team-building groups"
+  ],
+  "description_vi": "Làng du lịch Ông Đề là khu sinh thái miệt vườn gần trung tâm Cần Thơ, nổi tiếng với trò chơi dân gian, tát mương bắt cá, đi cầu khỉ và các hoạt động sông nước đậm chất miền Tây. Không gian xanh mát, gần gũi thiên nhiên, phù hợp cho gia đình và nhóm bạn muốn trải nghiệm đời sống đồng quê và ẩm thực dân dã.",
+  "description_en": "Ong De Tourist Village is an eco-garden destination near Can Tho city center, known for folk games, fish catching, monkey bridges, and Mekong-style outdoor activities. With lush greenery and rustic countryside vibes, it is ideal for families and groups looking for an authentic local experience and traditional cuisine.",
+  "travel_tips_vi": [
+    "Mang theo quần áo dự phòng nếu chơi trò bùn nước",
+    "Đi giày dép dễ vệ sinh hoặc dép xỏ ngón",
+    "Nên đi buổi sáng để tránh nóng",
+    "Chuẩn bị tiền mặt cho dịch vụ nhỏ lẻ"
+  ],
+  "travel_tips_en": [
+    "Bring extra clothes if joining water/mud activities",
+    "Wear washable sandals or flip-flops",
+    "Morning visit recommended for cooler weather",
+    "Carry cash for small expenses"
+  ],
+  "nearby_places": [
+    "Làng du lịch Mỹ Khánh",
+    "Thiền Viện Trúc Lâm Phương Nam",
+    "Chợ nổi Cái Răng",
+    "Nhà Cổ Bình Thuỷ"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn trái → Đi cầu khỉ & trò chơi bùn → Tát mương bắt cá → Chèo xuồng → Ăn trưa dân dã miền Tây.",
+  "recommended_itinerary_en": "Fruit garden tour → Monkey bridge & mud games → Canal fish catching → Boat rowing → Enjoy rustic Mekong lunch.",
+  "tags": [
+    "du lịch sinh thái",
+    "miệt vườn",
+    "trải nghiệm dân gian",
+    "tát mương bắt cá",
+    "team building",
+    "hoạt động ngoài trời"
+  ],
+
+  "festivals": [],
+  "rating": "Điểm du lịch sinh thái vui nhộn, nhiều trò chơi dân gian",
+  "notes": "Nhiều hoạt động nước và bùn, nên chuẩn bị trang phục phù hợp"
+},
+  {
+  "id": "vuon-sinh-thai-ut-hien",
+  "name_vi": "Vườn sinh thái Út Hiên",
+  "name_en": "Ut Hien Ecological Garden",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Khu vực Ba Láng, Quận Cái Răng, TP Cần Thơ (vị trí chính xác: chưa rõ)",
+  "address_en": "Ba Lang area, Cai Rang District, Can Tho City (exact address unknown)",
+  "opening_hours": "Từ sáng đến chiều tối",
+  "ticket_price": "Khoảng 120.000 VNĐ/người lớn, 60.000 VNĐ/trẻ em",
+  "visit_duration": "2 - 4 giờ",
+  "best_time_to_visit": "Mùa trái cây tháng 5 - 9; buổi sáng mát mẻ",
+  "activities_vi": [
+    "Tham quan vườn trái cây",
+    "Thưởng thức trái cây tại vườn",
+    "Tát mương bắt cá",
+    "Đi xuồng trên kênh rạch",
+    "Đạp xe qua cầu gỗ",
+    "Trải nghiệm làm bánh dân gian",
+    "Chụp ảnh miệt vườn",
+    "Ngồi nghỉ thư giãn dưới bóng cây"
+  ],
+  "activities_en": [
+    "Fruit garden visit",
+    "Fresh fruit tasting",
+    "Canal fish catching",
+    "Boat rowing on canals",
+    "Wood-bridge cycling challenge",
+    "Traditional cake making experience",
+    "Countryside photography",
+    "Relaxing under tree shade"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Nhóm bạn trẻ thích thiên nhiên",
+    "Khách thích văn hoá miền Tây",
+    "Du khách quốc tế yêu thích trải nghiệm thực tế",
+    "Người muốn tìm không gian thư giãn gần thành phố"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Nature lovers",
+    "Young travelers",
+    "International tourists",
+    "Visitors seeking relaxing countryside experience"
+  ],
+  "description_vi": "Vườn sinh thái Út Hiên nằm tại Ba Láng, Cái Răng, cách trung tâm Cần Thơ khoảng 10 km. Đây là khu sinh thái miệt vườn với nhiều loại cây ăn trái như măng cụt, xoài, ổi, chôm chôm… Du khách có thể dạo vườn, thưởng thức trái cây tươi, tham gia tát mương bắt cá, chèo xuồng, đạp xe qua cầu gỗ và làm bánh dân gian. Không gian yên bình, cây xanh rợp mát, phù hợp cho những ai muốn trải nghiệm cuộc sống miền Tây dân dã và thư giãn cuối tuần.",
+  "description_en": "Ut Hien Ecological Garden is located in Ba Lang, Cai Rang, about 10km from Can Tho city center. This countryside eco-garden features fruit orchards such as mangosteen, mango, guava, and rambutan. Visitors can enjoy fresh fruits, catch fish in the canal, row boats, cycle on wooden bridges, and try making traditional cakes. With peaceful greenery and a slow rural pace, it is a relaxing spot for those seeking authentic Mekong Delta countryside experience.",
+  "travel_tips_vi": [
+    "Nên đi buổi sáng để mát và ít đông",
+    "Mang quần áo thay nếu tham gia tát mương",
+    "Đi giày/dép dễ vệ sinh",
+    "Chuẩn bị tiền mặt cho các dịch vụ nhỏ",
+    "Trái cây theo mùa — hỏi trước loại trái cây đang chín"
+  ],
+  "travel_tips_en": [
+    "Visit in the morning for cooler weather",
+    "Bring extra clothes if joining water/mud activities",
+    "Wear washable sandals or flip-flops",
+    "Carry cash for small services",
+    "Fruit availability depends on season"
+  ],
+  "nearby_places": [
+    "Vườn du lịch Ba Láng",
+    "Làng du lịch Mỹ Khánh",
+    "Chợ nổi Cái Răng"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn trái cây → Ăn trái cây tại chỗ → Tát mương bắt cá → Đi xuồng → Làm bánh dân gian → Nghỉ dưới bóng cây, thư giãn.",
+  "recommended_itinerary_en": "Fruit garden walk → Fruit tasting → Canal fish catching → Boat rowing → Traditional cake making → Relax under garden shade.",
+  "tags": [
+    "du lịch sinh thái",
+    "miệt vườn",
+    "vườn trái cây",
+    "tát mương bắt cá",
+    "trải nghiệm nông thôn",
+    "ẩm thực dân gian",
+    "hoạt động ngoài trời"
+  ],
+  "festivals": [],
+  "rating": "Không gian miệt vườn nhỏ xinh, trải nghiệm dân dã và thư giãn",
+  "notes": "Địa điểm mang tính cộng đồng, quy mô nhỏ; hoạt động theo mùa trái cây"
+},
+  {
+  "id": "vuon-ca-cao-muoi-cuong",
+  "name_vi": "Vườn ca cao Mười Cương",
+  "name_en": "Muoi Cuong Cacao Farm",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Ấp Mỹ Ái, Xã Mỹ Khánh, Huyện Phong Điền, TP Cần Thơ",
+  "address_en": "My Ai Hamlet, My Khanh Commune, Phong Dien District, Can Tho City",
+  "opening_hours": "08:00 - 17:00",
+  "ticket_price": "Khoảng 50.000 VNĐ/người lớn",
+  "visit_duration": "1.5 - 3 giờ",
+  "best_time_to_visit": "Tháng 5 - 9 (mùa trái cacao); buổi sáng mát mẻ",
+  "activities_vi": [
+    "Tham quan vườn ca cao",
+    "Hái trái ca cao tại vườn",
+    "Tìm hiểu quy trình ủ, rang, xay hạt cacao",
+    "Xem quy trình làm sô-cô-la thủ công",
+    "Thưởng thức cacao nguyên chất và ca cao nóng/lạnh",
+    "Mua ca cao & chocolate thủ công làm quà",
+    "Chụp hình check-in giữa vườn ca cao",
+    "Trải nghiệm nếm thịt ca cao (ruột trái ca cao)"
+  ],
+  "activities_en": [
+    "Cacao garden tour",
+    "Cacao fruit picking",
+    "Learn fermentation and roasting process",
+    "Handmade chocolate workshop viewing",
+    "Taste fresh cacao and pure cacao drinks",
+    "Buy handcrafted cacao products",
+    "Photo spots in cacao garden",
+    "Taste fresh cacao pulp"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Cặp đôi thích trải nghiệm mới lạ",
+    "Khách yêu thích nông nghiệp và ẩm thực",
+    "Khách quốc tế thích farm tour",
+    "Người muốn tìm trải nghiệm nhẹ nhàng, thiên nhiên"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Couples",
+    "Farm & food lovers",
+    "International travelers",
+    "Nature & culture enthusiasts"
+  ],
+  "description_vi": "Vườn ca cao Mười Cương tại Phong Điền, Cần Thơ là một điểm tham quan độc đáo với diện tích hơn 1,2 ha và gần 2.000 cây ca cao thuộc nhiều giống khác nhau. Du khách được tham quan vườn, hái và thưởng thức trái ca cao tươi, tìm hiểu quy trình làm ca cao thủ công từ ủ, rang, xay tới tạo chocolate. Không gian xanh mát, yên bình, thích hợp cho những ai muốn trải nghiệm miệt vườn nhẹ nhàng, học về nông nghiệp địa phương và thử các sản phẩm ca cao nguyên chất.",
+  "description_en": "Muoi Cuong Cacao Farm in Phong Dien, Can Tho, features over 1.2 hectares of cacao trees with around 2,000 cacao plants of various varieties. Visitors can walk through the garden, pick cacao fruit, learn about the traditional fermentation and roasting process, and taste fresh cacao pulp and pure handmade chocolate. The peaceful green setting offers an authentic and relaxing agricultural experience.",
+  "travel_tips_vi": [
+    "Nên đi buổi sáng để mát và dễ tham quan",
+    "Hỏi trước lịch hướng dẫn nếu muốn xem quy trình làm ca cao",
+    "Mang giày dép dễ đi vì đường vườn hơi đất",
+    "Đừng bỏ lỡ cơ hội nếm ruột trái ca cao tươi",
+    "Mua chocolate thủ công và cacao bột làm quà"
+  ],
+  "travel_tips_en": [
+    "Visit in the morning for a cooler experience",
+    "Ask staff if you'd like to watch the cacao-making process",
+    "Wear comfortable walking shoes",
+    "Try fresh cacao pulp — a unique taste",
+    "Buy handmade chocolate and cacao powder as gifts"
+  ],
+  "nearby_places": [
+    "Làng du lịch Mỹ Khánh",
+    "Làng du lịch Ông Đề",
+    "Thiền Viện Trúc Lâm Phương Nam",
+    "Chợ nổi Cái Răng"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn → Hái trái cacao → Xem quy trình chế biến → Thưởng thức cacao nguyên chất → Mua sản phẩm ca cao.",
+  "recommended_itinerary_en": "Garden walk → Pick cacao fruit → Watch cacao processing → Taste pure cacao drinks → Shop handmade chocolate products.",
+  "tags": [
+    "vườn ca cao",
+    "nông nghiệp trải nghiệm",
+    "farm tour",
+    "đặc sản địa phương",
+    "ẩm thực miền Tây",
+    "miệt vườn",
+    "đồ thủ công",
+    "tasting tour"
+  ],
+  "festivals": [],
+  "rating": "Điểm đến độc đáo với trải nghiệm ca cao hiếm gặp ở miền Tây",
+  "notes": "Quy mô nhỏ, thiên về trải nghiệm nông nghiệp & học quy trình làm ca cao"
+},
+ {
+  "id": "vuon-trai-cay-phi-yen",
+  "name_vi": "Vườn trái cây Phi Yến",
+  "name_en": "Phi Yen Fruit Garden",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Đường Nguyễn Văn Cừ nối dài, ấp Nhơn Lộc 1, thị trấn Phong Điền, huyện Phong Điền, TP Cần Thơ",
+  "address_en": "Nguyen Van Cu extended road, Nhon Loc 1 Hamlet, Phong Dien Town, Phong Dien District, Can Tho City",
+  "opening_hours": "08:00 - 17:00",
+  "ticket_price": "Khoảng 90.000 VNĐ/người lớn, 60.000 VNĐ/trẻ em",
+  "visit_duration": "2 - 4 giờ",
+  "best_time_to_visit": "Mùa trái cây tháng 5 - 9; buổi sáng mát mẻ",
+  "activities_vi": [
+    "Tham quan vườn trái cây",
+    "Hái và thưởng thức trái cây tại vườn",
+    "Đi xuồng ba lá",
+    "Đi cầu khỉ",
+    "Câu cá giải trí",
+    "Chụp ảnh với tiểu cảnh miệt vườn",
+    "Thưởng thức ẩm thực đồng quê",
+    "Nghỉ dưỡng tại homestay"
+  ],
+  "activities_en": [
+    "Fruit garden tour",
+    "Pick and taste fruits at the garden",
+    "Sampan boat ride",
+    "Monkey bridge challenge",
+    "Fishing",
+    "Countryside photo spots",
+    "Enjoy Mekong rustic cuisine",
+    "Homestay stay experience"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Nhóm bạn trẻ thích khám phá thiên nhiên",
+    "Khách thích văn hoá miệt vườn Nam Bộ",
+    "Khách quốc tế trải nghiệm nông trại",
+    "Người muốn thư giãn cuối tuần gần thành phố"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Young travelers",
+    "Nature lovers",
+    "Cultural travelers",
+    "International tourists"
+  ],
+  "description_vi": "Vườn trái cây Phi Yến nằm tại Phong Điền, Cần Thơ, nổi bật với không gian miệt vườn xanh mát và phong phú cây trái như nhãn tím, ổi tím, mận, xoài, vú sữa, cam quýt và đặc sản dâu da địa phương. Du khách có thể tự tay hái trái cây, đi xuồng ba lá len lỏi kênh rạch, câu cá, đi cầu khỉ, tham quan tiểu cảnh check-in, thưởng thức món ăn đồng quê và nghỉ dưỡng tại homestay. Đây là điểm đến lý tưởng cho gia đình và nhóm bạn tìm kiếm sự thư giãn và trải nghiệm đậm chất miền Tây.",
+  "description_en": "Phi Yen Fruit Garden in Phong Dien, Can Tho offers a peaceful orchard experience with various fruits such as purple longan, purple guava, mango, plum, star apple, citrus, and especially local dau da fruit. Visitors can pick fresh fruits, enjoy sampan boat rides, try fishing, walk on monkey bridges, take countryside-themed photos, taste rustic Mekong dishes, and stay at the homestay. It is an ideal destination for families and travelers seeking authentic rural Mekong experiences.",
+  "travel_tips_vi": [
+    "Nên đi buổi sáng để tránh nắng và đông khách",
+    "Giày dép dễ vệ sinh vì có đường đất và khu trò chơi nước",
+    "Chuẩn bị tiền mặt cho mua trái cây và dịch vụ nhỏ",
+    "Mùa trái cây có thể thay đổi tùy thời tiết — hỏi trước loại trái đang chín"
+  ],
+  "travel_tips_en": [
+    "Visit in the morning for cooler weather",
+    "Wear washable shoes as some paths are muddy",
+    "Bring cash for fruit purchases and small services",
+    "Fruit availability depends on season — ask staff for details"
+  ],
+  "nearby_places": [
+    "Làng du lịch Mỹ Khánh",
+    "Làng du lịch Ông Đề",
+    "Vườn ca cao Mười Cương",
+    "Thiền Viện Trúc Lâm Phương Nam"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn trái cây → Hái trái & thưởng thức tại chỗ → Đi xuồng ba lá → Đi cầu khỉ & câu cá → Ăn trưa món đồng quê → Nghỉ ngơi, chụp ảnh.",
+  "recommended_itinerary_en": "Garden tour → Fruit picking & tasting → Sampan boat ride → Monkey bridge & fishing → Rustic lunch → Relax & photo time.",
+  "tags": [
+    "vườn trái cây",
+    "du lịch sinh thái",
+    "miệt vườn",
+    "trải nghiệm dân gian",
+    "ẩm thực miền Tây",
+    "chèo xuồng",
+    "team building nhẹ",
+    "homestay"
+  ],
+  "festivals": [],
+  "rating": "Vườn trái cây sinh thái thân thiện, nhiều trải nghiệm và góc chụp đẹp",
+  "notes": "Trái cây theo mùa, khu vực rộng và xanh; thích hợp nhóm gia đình và bạn bè"
+} ,
+  {
+  "id": "con-au",
+  "name_vi": "Cồn Ấu",
+  "name_en": "Au Islet",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Phường Hưng Lợi, Quận Cái Răng, TP Cần Thơ. Cách Bến Ninh Kiều ~13,7 km (di chuyển bằng tàu/thuyền)",
+  "address_en": "Hung Loi Ward, Cai Rang District, Can Tho City (~13.7 km from Ninh Kieu Wharf, accessible by boat)",
+  "opening_hours": "08:00 - 18:00",
+  "ticket_price": "Khoảng 100.000 - 200.000 VNĐ tuỳ hoạt động/tour",
+  "visit_duration": "3 - 5 giờ",
+  "best_time_to_visit": "Mùa nắng (tháng 12 - 4) và mùa nước nổi (tháng 9 - 11)",
+  "activities_vi": [
+    "Đi thuyền/đò khám phá cù lao",
+    "Dạo vườn cây trái miệt vườn",
+    "Chèo xuồng ba lá",
+    "Câu cá, tham quan hoạt động làm vườn",
+    "Ngắm sông Hậu, rừng bần và kênh rạch",
+    "Chụp ảnh cảnh sông nước, vườn trái",
+    "Thưởng thức trái cây tại vườn",
+    "Tham quan khu nghỉ dưỡng Azerai (nếu có đặt trước)"
+  ],
+  "activities_en": [
+    "Boat trip around the islet",
+    "Walking through fruit gardens",
+    "Rowing sampan boats",
+    "Fishing and observing local farming",
+    "View Hau River and mangrove ecosystem",
+    "Countryside photography",
+    "Fresh fruit tasting",
+    "Visit Azerai Can Tho Resort (reservation recommended)"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Cặp đôi yêu thiên nhiên",
+    "Khách quốc tế muốn trải nghiệm sông nước",
+    "Người thích du lịch sinh thái và yên tĩnh",
+    "Nhóm bạn muốn đi thuyền và check-in miệt vườn"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Couples",
+    "International travelers",
+    "Nature lovers",
+    "Visitors seeking quiet eco-escape"
+  ],
+  "description_vi": "Cồn Ấu là một cù lao nhỏ trên sông Hậu thuộc quận Cái Răng, nổi tiếng với cảnh quan sông nước trong lành, rặng bần xanh và vườn cây trái miệt vườn. Với diện tích khoảng 130 ha, nơi đây vẫn giữ nét hoang sơ, bình yên và gần gũi đời sống người dân miền Tây. Du khách có thể đi thuyền, dạo vườn, chèo xuồng, thưởng thức trái cây tại vườn và trải nghiệm cuộc sống nông thôn mộc mạc. Đây cũng là nơi tọa lạc của khu nghỉ dưỡng Azerai Cần Thơ - resort hạng sang nằm giữa thiên nhiên yên bình.",
+  "description_en": "Au Islet is a small island on the Hau River, known for its peaceful scenery, lush fruit gardens, and mangrove lines. Covering around 130 hectares, it offers an authentic Mekong Delta countryside experience with boat rides, garden walks, sampan rowing, and fresh fruit tasting. The islet is also home to Azerai Can Tho, a luxury nature-retreat resort surrounded by water and greenery.",
+  "travel_tips_vi": [
+    "Nên đặt thuyền ra Cồn Ấu trước, đặc biệt cuối tuần",
+    "Đi buổi sáng hoặc chiều mát để dễ di chuyển và chụp ảnh đẹp",
+    "Mang nón, kem chống nắng và giày dép tiện đi lại",
+    "Nếu muốn vào Azerai cần liên hệ/đặt dịch vụ trước",
+    "Mùa nước nổi có thể cần áo mưa nhẹ"
+  ],
+  "travel_tips_en": [
+    "Book your boat in advance, especially on weekends",
+    "Visit in the morning or late afternoon for comfort and photography",
+    "Bring sunscreen, hat, and walking-friendly shoes",
+    "Azerai Resort visit may require reservation",
+    "Light raincoat recommended in floating-season months"
+  ],
+  "nearby_places": [
+    "Chợ nổi Cái Răng",
+    "Làng du lịch Mỹ Khánh",
+    "Làng du lịch Ông Đề",
+    "Vườn ca cao Mười Cương",
+    "Bến Ninh Kiều"
+  ],
+  "recommended_itinerary_vi": "Đi thuyền từ Bến Ninh Kiều → Tham quan vườn cây → Chèo xuồng ba lá → Nghỉ uống nước dừa, thưởng thức trái cây → Check-in cảnh sông nước/ghé Azerai (tuỳ chọn) → Trở về trung tâm.",
+  "recommended_itinerary_en": "Boat from Ninh Kieu Wharf → Fruit garden walk → Sampan rowing → Coconut drink & fruit tasting → River-view photos / optional Azerai visit → Return to city center.",
+  "tags": [
+    "cù lao",
+    "du lịch sinh thái",
+    "miệt vườn",
+    "sông nước",
+    "chèo xuồng",
+    "trải nghiệm nông thôn",
+    "đảo sinh thái",
+    "Azerai resort"
+  ],
+  "festivals": [],
+  "rating": "Không gian sinh thái yên bình, phù hợp nghỉ dưỡng và trải nghiệm sông nước",
+  "notes": "Di chuyển bằng thuyền; khu dân cư thưa, trải nghiệm thiên nhiên kết hợp resort cao cấp"
+},
+  {
+  "id": "con-son",
+  "name_vi": "Cồn Sơn",
+  "name_en": "Son Islet",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Giữa sông Hậu, thuộc phường Bùi Hữu Nghĩa, quận Bình Thủy, TP Cần Thơ (qua phà Bến Cô Bắc)",
+  "address_en": "Located on Hau River, Bui Huu Nghia Ward, Binh Thuy District, Can Tho City (by ferry from Co Bac Wharf)",
+  "opening_hours": "07:00 - 18:00",
+  "ticket_price": "Khoảng 350.000 VNĐ/người lớn cho tour trải nghiệm nửa ngày",
+  "visit_duration": "4 - 6 giờ",
+  "best_time_to_visit": "Mùa nước nổi (tháng 9 - 11) và mùa trái cây (tháng 5 - 9); đi buổi sáng mát mẻ",
+  "activities_vi": [
+    "Đi đò qua cù lao",
+    "Tham quan vườn trái cây miệt vườn",
+    "Tát mương bắt cá",
+    "Tham quan bè cá và cho cá ăn",
+    "Xem biểu diễn cá lóc bay",
+    "Tham gia làm bánh dân gian miền Tây",
+    "Chèo xuồng dọc kênh rạch",
+    "Thưởng thức trái cây tại vườn",
+    "Ăn trưa món dân dã",
+    "Chụp ảnh nhà vườn, cầu gỗ, ghe xuồng"
+  ],
+  "activities_en": [
+    "Ferry boat to the islet",
+    "Fruit garden tour",
+    "Fish catching in canals",
+    "Fish farm visit & feeding fish",
+    "Watch 'flying snakehead fish' show",
+    "Traditional Mekong folk cake making",
+    "Sampan boating",
+    "Fresh fruit tasting",
+    "Rustic countryside lunch",
+    "Photo spots with orchard & riverside scenery"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Nhóm bạn trẻ",
+    "Cặp đôi thích thiên nhiên",
+    "Khách quốc tế khám phá đời sống miệt vườn",
+    "Người yêu hoạt động ngoài trời & trải nghiệm thực tế"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Young travelers",
+    "Couples",
+    "Nature lovers",
+    "International travelers interested in local culture"
+  ],
+  "description_vi": "Cồn Sơn là một cù lao nhỏ trên sông Hậu thuộc quận Bình Thủy, Cần Thơ, nổi tiếng với không gian miệt vườn xanh mát, kênh rạch và vườn trái cây trĩu quả. Nơi đây được biết đến với mô hình du lịch cộng đồng - người dân trực tiếp làm hướng dẫn, đón khách và phục vụ món ăn địa phương. Đi đò qua Cồn Sơn, du khách có thể tham quan vườn trái, xem cá lóc bay, tham quan bè cá, tát mương bắt cá, chèo xuồng và làm bánh dân gian. Không khí trong lành, trải nghiệm chân thật và sự thân thiện của người dân là điểm nhấn đặc biệt.",
+  "description_en": "Son Islet is a small island on the Hau River in Can Tho, featuring lush orchards, waterways, and a peaceful countryside atmosphere. It is famous for community-based tourism, where locals host visitors and showcase traditional food, farming, and river culture. Experience includes fruit garden tours, watching the 'flying snakehead fish' show, fish farm visits, canal fish catching, sampan rowing, and folk cake making. A warm local welcome and authentic river life create a memorable Mekong Delta experience.",
+  "travel_tips_vi": [
+    "Nên đặt tour trước vì lượng khách giới hạn",
+    "Mang nón, giày/dép dễ đi lại; có khu vực bùn nước",
+    "Đi buổi sáng để tránh nắng và trải nghiệm đủ hoạt động",
+    "Mang theo thuốc chống côn trùng nhẹ",
+    "Không tự ý cho cá ăn nếu chưa được hướng dẫn"
+  ],
+  "travel_tips_en": [
+    "Book your tour in advance due to limited capacity",
+    "Wear comfortable shoes; some areas may be muddy",
+    "Morning visits recommended for full experience",
+    "Bring insect repellent",
+    "Follow instructions when interacting with fish farms"
+  ],
+  "nearby_places": [
+    "Chợ nổi Cái Răng",
+    "Cồn Ấu",
+    "Nhà Cổ Bình Thủy",
+    "Bến Ninh Kiều"
+  ],
+  "recommended_itinerary_vi": "Đi đò từ Bến Cô Bắc → Thăm vườn trái cây → Xem cá lóc bay & bè cá → Tát mương bắt cá → Làm bánh dân gian → Ăn trưa món miền Tây → Chèo xuồng → Nghỉ dưỡng, chụp ảnh → Trở lại bến.",
+  "recommended_itinerary_en": "Boat from Co Bac Wharf → Orchard tour → Flying snakehead fish show & fish farm → Canal fish catching → Traditional cake making → Rustic Mekong lunch → Sampan rowing → Relax & photos → Return to mainland.",
+  "tags": [
+    "cù lao",
+    "du lịch cộng đồng",
+    "miệt vườn",
+    "trải nghiệm dân gian",
+    "tát mương bắt cá",
+    "cá lóc bay",
+    "chèo xuồng",
+    "ẩm thực địa phương",
+    "tour sinh thái"
+  ],
+  "festivals": [],
+  "rating": "Một trong những mô hình du lịch cộng đồng đặc sắc nhất Cần Thơ",
+  "notes": "Cần đi thuyền sang; hoạt động theo tour cộng đồng; thân thiện - mộc mạc - chân thật"
+},
+  {
+  "id": "khu-du-lich-sinh-thai-hoa-sung",
+  "name_vi": "Khu du lịch sinh thái Hoa Súng Cần Thơ",
+  "name_en": "Hoa Sung Ecotourism Area Can Tho",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Quốc lộ 61B, Phường Ba Láng, Quận Cái Răng, TP. Cần Thơ",
+  "address_en": "National Road 61B, Ba Lang Ward, Cai Rang District, Can Tho City",
+  "opening_hours": "08:00 - 19:00",
+  "ticket_price": "Khoảng 100.000 VNĐ/người lớn",
+  "visit_duration": "2 - 4 giờ",
+  "best_time_to_visit": "Buổi sáng hoặc chiều mát; mùa nước nổi & mùa sen nở (khoảng tháng 5 - 10)",
+  "activities_vi": [
+    "Tham quan vườn cây & hồ hoa súng",
+    "Chụp ảnh với cầu gỗ, ao súng, hàng cau/dừa",
+    "Câu cá giải trí",
+    "Chèo xuồng nhẹ trên ao/kênh",
+    "Tự tay thu hoạch cá và nhờ chế biến",
+    "Ăn uống món đồng quê",
+    "Nghe đờn ca tài tử",
+    "Tổ chức sự kiện nhỏ ngoài trời"
+  ],
+  "activities_en": [
+    "Walk around tropical garden & lotus/water lily pond",
+    "Photos at wooden bridges & countryside scenery",
+    "Fishing activities",
+    "Light sampan boating",
+    "Catch fish and have it cooked",
+    "Enjoy rustic Mekong cuisine",
+    "Listen to Southern folk music (Đờn ca tài tử)",
+    "Small outdoor gatherings"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ",
+    "Nhóm bạn trẻ thích sống ảo, chụp ảnh cảnh đồng quê",
+    "Cặp đôi muốn không gian yên bình",
+    "Khách quốc tế muốn trải nghiệm văn hóa miền Tây",
+    "Khách thích câu cá & ẩm thực sân vườn"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Young travelers",
+    "Couples",
+    "International tourists",
+    "Photo lovers & food travelers"
+  ],
+  "description_vi": "Khu du lịch sinh thái Hoa Súng tại Ba Láng, Cái Răng, Cần Thơ mang đến trải nghiệm miệt vườn Nam Bộ gần gũi với hồ hoa súng, hàng cau, dừa xanh và những lối đi mộc mạc. Du khách có thể chèo xuồng nhẹ, câu cá, thu hoạch cá và thưởng thức các món ăn dân dã được chế biến tại chỗ. Điểm nhấn tại đây là không gian trong lành, hồ hoa súng thơ mộng và đờn ca tài tử tạo nên bầu không khí quê yên bình, phù hợp cho các buổi nghỉ ngơi cuối tuần.",
+  "description_en": "Hoa Sung Ecotourism Area in Ba Lang, Cai Rang, Can Tho offers an authentic Southern countryside experience with a scenic water lily pond, coconut & areca palms, and rustic walkways. Visitors can enjoy light boating, fishing, harvesting fish and having it cooked, and tasting Mekong rural cuisine. The peaceful garden, water lily views, and traditional folk music create a calm and charming rural atmosphere ideal for a relaxing getaway.",
+  "travel_tips_vi": [
+    "Nên đi buổi sáng hoặc chiều để tránh nắng",
+    "Mang nón, kem chống nắng, giày dễ đi",
+    "Chuẩn bị tiền mặt cho dịch vụ nhỏ và thức ăn",
+    "Khuyến khích trải nghiệm câu cá và nhờ chế biến tại chỗ",
+    "Đặt trước nếu đi nhóm đông hoặc muốn nghe đờn ca tài tử"
+  ],
+  "travel_tips_en": [
+    "Visit in the morning or late afternoon",
+    "Bring hat, sunscreen, and comfortable shoes",
+    "Cash recommended for small services and food",
+    "Try fishing & fresh cooking experience",
+    "Reservation suggested for larger groups or folk music sessions"
+  ],
+  "nearby_places": [
+    "Chợ nổi Cái Răng",
+    "KDL Ông Đề",
+    "Vườn sinh thái Út Hiên",
+    "Cồn Ấu",
+    "Làng du lịch Mỹ Khánh"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn → Chụp ảnh với hồ hoa súng → Câu cá → Chèo xuồng → Chế biến cá tại chỗ & ăn trưa → Nghe đờn ca tài tử → Nghỉ mát dưới tán cây.",
+  "recommended_itinerary_en": "Garden walk → Water lily photo session → Fishing → Sampan ride → Cook & enjoy fresh fish lunch → Southern folk music performance → Relax in garden shade.",
+  "tags": [
+    "hồ hoa súng",
+    "miệt vườn",
+    "đờn ca tài tử",
+    "câu cá",
+    "ẩm thực dân dã",
+    "chèo xuồng",
+    "tour sinh thái",
+    "check-in"
+  ],
+  "festivals": [],
+  "rating": "Không gian miệt vườn đẹp, hồ súng thơ mộng, phù hợp nghỉ dưỡng & chụp ảnh",
+  "notes": "Gần trung tâm thành phố, phù hợp đi nửa ngày; hoạt động nhẹ nhàng, thư giãn"
+},
+  {
+  "id": "khu-du-lich-sinh-thai-phu-huu",
+  "name_vi": "Khu du lịch sinh thái Phú Hữu Cần Thơ",
+  "name_en": "Phu Huu Ecotourism Area Can Tho",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Ấp Phú Nghĩa, Xã Phú Hữu, Cần Thơ (khu vực Phụng Hiệp - giáp Cần Thơ & Hậu Giang)",
+  "address_en": "Phu Nghia Hamlet, Phu Huu Commune, near Can Tho - Hau Giang border",
+  "opening_hours": "09:00 - 21:00",
+  "ticket_price": "30.000 - 60.000 VNĐ/người (tuỳ dịch vụ và hoạt động)",
+  "visit_duration": "3 - 6 giờ",
+  "best_time_to_visit": "Buổi sáng hoặc chiều mát; mùa trái cây tháng 5 - 9; mùa nước nổi tháng 9 - 11",
+  "activities_vi": [
+    "Tham quan vườn cây ăn trái",
+    "Chèo xuồng len kênh rạch",
+    "Tát mương bắt cá",
+    "Làm bánh tráng tại chỗ",
+    "Chụp ảnh miệt vườn, cầu khỉ, ao nước",
+    "Thưởng thức ẩm thực dân gian miền Tây",
+    "Câu cá giải trí",
+    "Tham quan nhà vườn & vườn rau",
+    "Nghỉ chân võng, không gian xanh mát"
+  ],
+  "activities_en": [
+    "Fruit garden tour",
+    "Rowing sampan boat through canals",
+    "Canal fish catching",
+    "Try making traditional rice paper",
+    "Countryside & bamboo bridge photo spots",
+    "Enjoy Mekong rural cuisine",
+    "Recreational fishing",
+    "Visit vegetable garden & orchard",
+    "Relax in hammock among trees"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Nhóm bạn trẻ muốn trải nghiệm miền Tây",
+    "Cặp đôi thích sự yên bình",
+    "Khách quốc tế muốn trải nghiệm văn hoá bản địa",
+    "Người muốn nghỉ ngơi, xa trung tâm"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Young travelers",
+    "Couples",
+    "International tourists",
+    "Visitors seeking nature escape"
+  ],
+  "description_vi": "Khu du lịch sinh thái Phú Hữu rộng khoảng 20 ha, nằm giữa hệ thống kênh rạch và vườn cây ăn trái đặc trưng miền Tây. Đây là điểm đến mang đậm chất miệt vườn, với các hoạt động dân dã như tát mương bắt cá, chèo xuồng dưới tán dừa nước, làm bánh tráng, hái trái cây, câu cá và thưởng thức món ăn đồng quê như lẩu mắm, cá lóc nướng trui. Không gian xanh mát, yên bình và gần gũi giúp du khách thư giãn, rất phù hợp cho chuyến picnic cuối tuần hoặc nghỉ dưỡng gần thiên nhiên.",
+  "description_en": "Phu Huu Ecotourism Area covers about 20 hectares with canals and fruit gardens typical of the Mekong Delta. Visitors can enjoy authentic countryside experiences such as catching fish in canals, paddling under nipa palm shade, making rice paper, picking fruits, fishing, and tasting rustic Mekong dishes like grilled snakehead fish and hotpot. The peaceful green environment makes it a perfect weekend getaway for families and nature lovers.",
+  "travel_tips_vi": [
+    "Nên đi buổi sáng hoặc chiều để tránh nắng gắt",
+    "Mang mũ, kem chống nắng và giày dép dễ di chuyển",
+    "Chuẩn bị quần áo thay nếu tham gia tát mương bắt cá",
+    "Mang tiền mặt cho các dịch vụ nhỏ",
+    "Đi nhóm đông sẽ vui và tiết kiệm hơn theo combo dịch vụ"
+  ],
+  "travel_tips_en": [
+    "Visit in the morning or late afternoon to avoid heat",
+    "Bring hat, sunscreen, and comfortable shoes",
+    "Bring extra clothes if joining fish catching activity",
+    "Cash recommended for small local services",
+    "Travel in group for better experience & combo pricing"
+  ],
+  "nearby_places": [
+    "Vườn sinh thái Út Hiên",
+    "Chợ nổi Cái Răng",
+    "Khu du lịch Mỹ Khánh",
+    "Cồn Ấu",
+    "Cồn Sơn"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn trái cây → Chèo xuồng → Làm bánh tráng → Tát mương bắt cá → Ăn trưa dân dã (cá lóc, lẩu mắm) → Nghỉ võng → Check-in cảnh đồng quê → Trở về trung tâm.",
+  "recommended_itinerary_en": "Fruit garden walk → Boat ride → Rice paper making → Canal fish catching → Rustic Mekong lunch → Hammock rest → Countryside photo time → Return to city.",
+  "tags": [
+    "miệt vườn",
+    "tát mương bắt cá",
+    "chèo xuồng",
+    "làm bánh tráng",
+    "ẩm thực miền Tây",
+    "kênh rạch",
+    "vườn trái cây",
+    "tour sinh thái",
+    "picnic"
+  ],
+  "festivals": [],
+  "rating": "Điểm sinh thái yên bình, nhiều trải nghiệm dân gian và món ăn địa phương",
+  "notes": "Nằm hơi xa trung tâm thành phố; phù hợp đi 1 ngày; combo hoạt động sinh thái theo nhóm tiết kiệm hơn"
+},
+  {
+  "id": "khu-du-lich-sinh-thai-xeo-nhum",
+  "name_vi": "Khu du lịch sinh thái Xẻo Nhum Cần Thơ",
+  "name_en": "Xeo Nhum Ecotourism Area Can Tho",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Số 01 Khu Dân Cư Hồng Loan, Phường Hưng Thạnh, Quận Cái Răng, TP Cần Thơ",
+  "address_en": "No. 01 Hong Loan Residential Area, Hung Thanh Ward, Cai Rang District, Can Tho City",
+  "opening_hours": "09:00 - 22:00",
+  "ticket_price": "Miễn phí vào cổng (có phí cho trò chơi, thuê áo bà ba, kinh nghiệm trồng rau…)",
+  "visit_duration": "2 - 5 giờ",
+  "best_time_to_visit": "Buổi sáng hoặc chiều; mùa trái cây tháng 5 - 9; mùa nước nổi tháng 9 - 11",
+  "activities_vi": [
+    "Tham quan vườn trái cây & hàng trúc xanh",
+    "Chụp ảnh cảnh quê, cầu gỗ, ao cá",
+    "Tát mương bắt cá",
+    "Câu cá, bắt ốc",
+    "Chèo xuồng ba lá",
+    "Thuê đất trồng rau, trải nghiệm nông nghiệp",
+    "Trò chơi dân gian: lắc cầu dây, nhảy bao bố, đu dây",
+    "Thuê áo bà ba và chụp ảnh miệt vườn",
+    "Thưởng thức ẩm thực miền Tây tại khu ăn uống",
+    "Lưu trú homestay vườn"
+  ],
+  "activities_en": [
+    "Fruit garden & bamboo walkway tour",
+    "Countryside photo spots & fish ponds",
+    "Canal fish catching",
+    "Fishing & snail catching",
+    "Sampan boating",
+    "Renting land to plant vegetables",
+    "Folk games: balance bridge, sack racing, rope games",
+    "Renting traditional 'Ao Ba Ba' costume for photos",
+    "Enjoy rustic Mekong Delta food",
+    "Garden homestay experience"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Nhóm bạn trẻ thích trò chơi dân gian",
+    "Cặp đôi thích không gian xanh & chụp ảnh",
+    "Khách quốc tế muốn trải nghiệm nông nghiệp miền Tây",
+    "Người thích hoạt động ngoài trời"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Young travelers",
+    "Couples",
+    "International visitors",
+    "Outdoor and nature lovers"
+  ],
+  "description_vi": "Khu du lịch sinh thái Xẻo Nhum nằm tại quận Cái Răng, Cần Thơ, rộng khoảng 2,1 ha, được bao phủ bởi hàng trúc xanh, vườn cây ăn trái và ao nước đặc trưng miền Tây. Đây là điểm đến du lịch cộng đồng với nhiều hoạt động dân dã như tát mương bắt cá, chèo xuồng, bắt ốc, câu cá, thuê đất trồng rau và các trò chơi dân gian. Không gian gần gũi, thân thiện, đồ ăn dân dã và có homestay vườn giúp du khách trải nghiệm trọn vẹn nhịp sống miệt vườn trong lành.",
+  "description_en": "Xeo Nhum Ecotourism Area in Cai Rang District covers around 2.1 hectares and features bamboo rows, fruit gardens, and ponds typical of the Mekong Delta. This community-based eco-site offers authentic countryside experiences such as fish catching, sampan rowing, snail picking, vegetable planting, and folk games, along with local cuisine and garden homestay. It provides a peaceful rural escape with hands-on cultural and nature activities.",
+  "travel_tips_vi": [
+    "Mang giày dép dễ vệ sinh, có khu vực bùn nước",
+    "Chuẩn bị quần áo thay nếu tắm mương",
+    "Mang tiền mặt cho trò chơi & dịch vụ nhỏ",
+    "Đặt trước nếu muốn ở homestay",
+    "Thử thuê áo bà ba để chụp ảnh"
+  ],
+  "travel_tips_en": [
+    "Wear washable footwear (mud areas)",
+    "Bring extra clothes for water activities",
+    "Cash recommended for small local services",
+    "Reserve in advance for homestay stays",
+    "Try renting traditional outfit for photos"
+  ],
+  "nearby_places": [
+    "Chợ nổi Cái Răng",
+    "KDL Mỹ Khánh",
+    "KDL Ông Đề",
+    "Vườn Út Hiên",
+    "Hồ Súng sinh thái Cần Thơ"
+  ],
+  "recommended_itinerary_vi": "Dạo vườn cây & chụp ảnh → Thuê áo bà ba → Chèo xuồng → Tát mương bắt cá → Chơi trò dân gian → Ăn món miền Tây → Nghỉ võng trong khu vườn → Trải nghiệm trồng rau (tuỳ chọn).",
+  "recommended_itinerary_en": "Garden walk & photos → Rent Ao Ba Ba → Sampan boating → Fish catching → Folk games → Rustic countryside meal → Hammock rest → Try vegetable planting (optional).",
+  "tags": [
+    "trò chơi dân gian",
+    "tát mương bắt cá",
+    "chèo xuồng",
+    "thuê áo bà ba",
+    "trải nghiệm nông nghiệp",
+    "miệt vườn",
+    "homestay",
+    "địa điểm chụp ảnh",
+    "du lịch cộng đồng"
+  ],
+  "festivals": [],
+  "rating": "Một điểm vui chơi miệt vườn dân dã, giá hợp lý, phù hợp gia đình & nhóm bạn",
+  "notes": "Miễn phí vào cổng; trải nghiệm nhiều — nên đi nhóm đông để vui hơn"
+},
+ {
+  "id": "khu-du-lich-sinh-thai-dat-phuong-nam",
+  "name_vi": "Khu du lịch sinh thái Đất Phương Nam Cần Thơ",
+  "name_en": "Dat Phuong Nam Ecotourism Area Can Tho",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Tổ 26, Ấp Mỹ Ái, Xã Mỹ Khánh, Huyện Phong Điền, TP Cần Thơ",
+  "address_en": "Group 26, My Ai Hamlet, My Khanh Commune, Phong Dien District, Can Tho City",
+  "opening_hours": "08:00 - 18:00",
+  "ticket_price": "Miễn phí tham quan; dịch vụ từ 50.000 - 100.000 VNĐ tuỳ hoạt động",
+  "visit_duration": "3 - 5 giờ",
+  "best_time_to_visit": "Buổi sáng hoặc chiều mát; mùa hè & cuối tuần thích hợp đi hồ bơi ngoài trời",
+  "activities_vi": [
+    "Dạo vườn cây ăn trái & chụp ảnh miệt vườn",
+    "Bơi lội tại hồ bơi ngoài trời & thác nhân tạo",
+    "Chơi các trò chơi dưới nước nhẹ",
+    "Thư giãn bên hồ nước & ngắm cảnh",
+    "Chèo xuồng/đi thuyền nhỏ trong khu sinh thái (tuỳ mùa)",
+    "Thưởng thức món ăn dân dã miền Tây",
+    "Check-in cầu gỗ, hàng cây, hồ nước rộng"
+  ],
+  "activities_en": [
+    "Fruit garden walking & countryside photography",
+    "Outdoor swimming pool with waterfall feature",
+    "Light water games",
+    "Relaxing by the lake and greenery",
+    "Small boat or paddle boat ride (seasonal)",
+    "Enjoy rustic Mekong Delta dishes",
+    "Photo spots with wooden bridges & natural scenery"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Nhóm bạn trẻ thích bơi lội & miệt vườn",
+    "Cặp đôi cần nơi yên bình",
+    "Khách du lịch muốn trải nghiệm thiên nhiên",
+    "Những người muốn dã ngoại ngoài trung tâm"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Couples",
+    "Young travelers",
+    "Nature & leisure seekers",
+    "Weekend picnickers"
+  ],
+  "description_vi": "Khu du lịch sinh thái Đất Phương Nam nằm tại xã Mỹ Khánh, Phong Điền - vùng miệt vườn nổi tiếng của Cần Thơ. Điểm nhấn của khu du lịch là hồ bơi thác nước rộng hơn 2.000 m² kết hợp không gian cây xanh, ao hồ tự nhiên và vườn trái cây. Du khách có thể tham quan vườn, check-in cảnh miệt vườn, tắm hồ ngoài trời, chơi trò chơi nước nhẹ và thưởng thức món ăn dân dã miền Tây. Đây là địa điểm phù hợp để thư giãn, tránh nóng và vui chơi cuối tuần cùng gia đình, đặc biệt với trẻ nhỏ.",
+  "description_en": "Dat Phuong Nam Ecotourism Area is located in My Khanh, Phong Dien, a well-known orchard region in Can Tho. The highlight of the site is its over-2,000m² outdoor swimming pool with a waterfall, surrounded by gardens, lakes, and tropical greenery. Visitors can stroll through orchard paths, take photos, swim, enjoy light water activities, and taste rustic Mekong cuisine. It is an ideal weekend escape for families and groups seeking nature and relaxation.",
+  "travel_tips_vi": [
+    "Mang đồ bơi, khăn và dép vì có khu hồ bơi nước",
+    "Nên đi buổi sáng/chiều, tránh nắng trưa khi tắm hồ",
+    "Chuẩn bị tiền mặt cho dịch vụ trong khu",
+    "Tránh mang giày trắng vì có khu vực đất vườn",
+    "Đi ngày thường sẽ vắng hơn cuối tuần"
+  ],
+  "travel_tips_en": [
+    "Bring swimwear, towel, and sandals",
+    "Best time to visit is morning or late afternoon",
+    "Bring cash for on-site services",
+    "Avoid white shoes (garden & water area)",
+    "Weekdays are quieter than weekends"
+  ],
+  "nearby_places": [
+    "Làng du lịch Mỹ Khánh",
+    "Khu sinh thái Ông Đề",
+    "Vườn ca cao Mười Cương",
+    "Thiền viện Trúc Lâm Phương Nam",
+    "Chợ nổi Cái Răng"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn cây → Check-in cảnh miệt vườn → Tắm hồ bơi & thác nước → Ăn trưa đặc sản miền Tây → Dạo mát & nghỉ ngơi → Mua trái cây địa phương (tuỳ mùa).",
+  "recommended_itinerary_en": "Garden walk → Photo session → Swimming at waterfall pool → Rustic Mekong lunch → Relax by the lake → Buy seasonal fruits (if available).",
+  "tags": [
+    "hồ bơi thác nước",
+    "miệt vườn",
+    "sinh thái",
+    "check-in",
+    "tắm hồ bơi",
+    "ẩm thực miền Tây",
+    "dã ngoại",
+    "gia đình",
+    "thiên nhiên"
+  ],
+  "festivals": [],
+  "rating": "Không gian miệt vườn kết hợp hồ bơi lớn - phù hợp gia đình và nhóm bạn",
+  "notes": "Hồ bơi là điểm nổi bật; nên mang đồ bơi; các dịch vụ tính phí riêng"
+},
+{
+  "id": "khu-du-lich-sinh-thai-lung-cot-lau",
+  "name_vi": "Khu du lịch sinh thái Cần Thơ Lung Cột Lầu (Lung Cột Cầu)",
+  "name_en": "Lung Cot Lau Ecotourism Area Can Tho (Lung Cot Cau)",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Quốc lộ 61C, Xã Nhơn Nghĩa, Huyện Phong Điền, TP Cần Thơ (cách trung tâm ~5 km)",
+  "address_en": "National Road 61C, Nhon Nghia Commune, Phong Dien District, Can Tho City (~5 km from city center)",
+  "opening_hours": "08:00 - 17:00 hàng ngày",
+  "ticket_price": "Miễn phí vào cổng; dịch vụ như chèo xuồng, tát mương, áo bà ba: 50.000 - 100.000 VNĐ",
+  "visit_duration": "2 - 4 giờ",
+  "best_time_to_visit": "Buổi sáng hoặc chiều mát; mùa trái cây tháng 5 - 9; mùa nước nổi tháng 9 - 11",
+  "activities_vi": [
+    "Tham quan vườn cây ăn trái",
+    "Dạo bộ dưới tán cây & đường làng",
+    "Hái trái cây theo mùa",
+    "Tát mương bắt cá",
+    "Chèo xuồng ba lá",
+    "Đi cầu khỉ, cầu dây",
+    "Chụp ảnh miệt vườn",
+    "Thuê áo bà ba & chụp hình",
+    "Trải nghiệm làm bánh dân gian (tuỳ thời điểm)"
+  ],
+  "activities_en": [
+    "Fruit garden tour & seasonal fruit picking",
+    "Walking under orchard canopies",
+    "Canal fish catching",
+    "Sampan rowing",
+    "Bamboo bridge & rope balance games",
+    "Countryside photo spots",
+    "Renting Ao Ba Ba traditional outfit",
+    "Try making folk cakes (seasonal activity)"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ thích không gian thiên nhiên",
+    "Nhóm bạn trẻ thích miệt vườn & trải nghiệm dân gian",
+    "Cặp đôi thích chụp ảnh và nghỉ dưỡng xanh",
+    "Khách quốc tế muốn hiểu văn hoá miền Tây"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Young travelers",
+    "Couples",
+    "International cultural travelers",
+    "Nature lovers"
+  ],
+  "description_vi": "Khu du lịch sinh thái Lung Cột Lầu (còn gọi Lung Cột Cầu) là điểm du lịch sinh thái tiêu biểu tại huyện Phong Điền, Cần Thơ, được công nhận là một trong những địa điểm du lịch tiêu biểu vùng ĐBSCL. Khu vườn mang đậm chất miệt vườn Nam Bộ, với rặng cây xanh mát, vườn trái cây, ao cá và kênh rạch tự nhiên. Du khách có thể chèo xuồng, tát mương bắt cá, đi cầu khỉ, hái trái cây theo mùa và thư giãn giữa không gian thanh bình của miền Tây.",
+  "description_en": "Lung Cot Lau Ecotourism Area (also known as Lung Cot Cau) is a representative eco-tourism site in Phong Dien, Can Tho, recognized as a standout destination of the Mekong Delta. The site features lush orchard landscapes, canals, ponds, and a peaceful countryside atmosphere. Visitors can enjoy sampan rowing, fish-catching, bamboo bridge challenges, seasonal fruit picking, and relaxing in a traditional garden environment.",
+  "travel_tips_vi": [
+    "Nên đi buổi sáng hoặc chiều để mát",
+    "Mang nón, kem chống nắng & giày dễ đi",
+    "Chuẩn bị quần áo thay nếu tát mương",
+    "Hỏi về loại trái cây đang vào mùa",
+    "Đi nhóm đông sẽ vui hơn & tiết kiệm chi phí"
+  ],
+  "travel_tips_en": [
+    "Visit in the morning or late afternoon",
+    "Bring hat, sunscreen, and comfortable footwear",
+    "Bring extra clothes for water/mud activities",
+    "Ask which fruits are in season",
+    "Travel in a group for better experience and value"
+  ],
+  "nearby_places": [
+    "Làng du lịch Mỹ Khánh",
+    "KDL Ông Đề",
+    "Vườn ca cao Mười Cương",
+    "Thiền Viện Trúc Lâm Phương Nam",
+    "Chợ nổi Cái Răng"
+  ],
+  "recommended_itinerary_vi": "Đi dạo vườn & chụp ảnh → Chèo xuồng → Tát mương bắt cá → Hái trái cây theo mùa → Nghỉ mát & uống nước dừa → Mua trái cây địa phương.",
+  "recommended_itinerary_en": "Garden walk & photo time → Sampan rowing → Fish catching → Seasonal fruit picking → Coconut drink & rest → Buy local fruits.",
+  "tags": [
+    "miệt vườn",
+    "tát mương bắt cá",
+    "chèo xuồng",
+    "hái trái cây",
+    "đi cầu khỉ",
+    "du lịch cộng đồng",
+    "áo bà ba",
+    "địa điểm sinh thái",
+    "Mekong countryside"
+  ],
+  "festivals": [],
+  "rating": "Điểm du lịch tiêu biểu ĐBSCL - miệt vườn xanh, trải nghiệm dân gian đầy đủ",
+  "notes": "Không gian thiên nhiên, dịch vụ theo trải nghiệm; tốt cho gia đình & khách quốc tế"
+},
+ {
+  "id": "bao-gia-trang-vien",
+  "name_vi": "Du lịch sinh thái Cần Thơ tại Bảo Gia Trang Viên",
+  "name_en": "Bao Gia Trang Vien - The Green Resort Can Tho",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "268 Huỳnh Thị Nở, phường Thường Thạnh, quận Cái Răng, TP. Cần Thơ",
+  "address_en": "268 Huynh Thi No Street, Thuong Thanh Ward, Cai Rang District, Can Tho City",
+  "opening_hours": "08:00 - 22:00 hàng ngày",
+  "ticket_price": "50.000 VNĐ/người lớn, 30.000 VNĐ/trẻ em; trò chơi từ 30.000 - 60.000 VNĐ",
+  "visit_duration": "4 - 8 giờ",
+  "best_time_to_visit": "Cuối tuần, buổi chiều mát; lý tưởng cho dã ngoại, BBQ và cắm trại buổi tối",
+  "activities_vi": [
+    "Cắm trại và BBQ ngoài trời",
+    "Bơi hồ và tắm mát",
+    "Tham quan vườn cây ăn trái & nông trại mini",
+    "Zipline, leo núi nhân tạo",
+    "Thuyền thúng, tát mương bắt cá",
+    "Chụp ảnh với cảnh đồng quê, lều trại, hồ nước",
+    "Đua xe địa hình mini",
+    "Thưởng thức ẩm thực địa phương",
+    "Team building, picnic gia đình"
+  ],
+  "activities_en": [
+    "Camping & outdoor BBQ",
+    "Swimming pool recreation",
+    "Fruit garden & mini farm tour",
+    "Zipline & rock climbing",
+    "Basket boat ride & fish catching",
+    "Photography with nature & outdoor setups",
+    "Mini off-road biking",
+    "Local farm-to-table dining",
+    "Family picnic & group team-building"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có trẻ em cần không gian xanh để vui chơi",
+    "Nhóm bạn trẻ thích hoạt động ngoài trời",
+    "Cặp đôi muốn nơi thư giãn - chụp ảnh - picnic",
+    "Khách muốn trải nghiệm sinh thái kiểu resort - nông trại",
+    "Khách quốc tế muốn nghỉ dưỡng gần thiên nhiên"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Young travelers",
+    "Couples",
+    "Nature resort seekers",
+    "International travelers wanting farm & eco stay"
+  ],
+  "description_vi": "Bảo Gia Trang Viên (The Green Resort) là tổ hợp du lịch sinh thái kết hợp nghỉ dưỡng, cắm trại và hoạt động nông trại tại Cần Thơ. Với khuôn viên rộng rãi, vườn cây, bãi cỏ, hồ bơi, khu BBQ và các hoạt động ngoài trời như leo núi nhân tạo, zipline, thuyền thúng, tát mương bắt cá và trại nông nghiệp mini, nơi đây mang đến trải nghiệm hài hòa giữa vui chơi và thư giãn. Không gian yên bình, nhiều cây cổ thụ và cảnh quan miền Tây tạo cảm giác gần gũi thiên nhiên nhưng vẫn đầy tiện nghi - phù hợp cho gia đình, nhóm bạn hoặc du khách muốn tránh ồn ào đô thị.",
+  "description_en": "Bao Gia Trang Vien (The Green Resort) is an eco-resort in Can Tho offering camping, outdoor activities, farm experiences, and relaxation in a lush countryside setting. With wide open lawns, fruit gardens, a swimming pool, BBQ zones, mini farm, basket boats, mud fish catching, zipline, and climbing wall, it blends nature fun with comfort. Ideal for families, friend groups, and travelers seeking a peaceful natural retreat near the city.",
+  "travel_tips_vi": [
+    "Mang đồ bơi, khăn và giày dễ di chuyển",
+    "Đặt chỗ trước nếu đi cắm trại hoặc BBQ",
+    "Đi buổi chiều + ở lại tối để thấy cảnh trang trí đẹp",
+    "Tránh đi đúng giờ trưa nếu tham gia hoạt động ngoài trời",
+    "Mang thuốc chống côn trùng nếu cắm trại"
+  ],
+  "travel_tips_en": [
+    "Bring swimwear and comfortable shoes",
+    "Book in advance for camping or BBQ services",
+    "Evening visits recommended for atmosphere & lighting",
+    "Avoid midday heat when joining outdoor games",
+    "Bring insect repellent if camping"
+  ],
+  "nearby_places": [
+    "Chợ nổi Cái Răng",
+    "Khu du lịch Xẻo Nhum",
+    "Vườn sinh thái Út Hiên",
+    "Khu du lịch Mỹ Khánh",
+    "Cồn Ấu"
+  ],
+  "recommended_itinerary_vi": "Tham quan nông trại & vườn cây → Bơi & trò chơi nước → Zipline/leo núi → Nghỉ cỏ picnic → BBQ chiều tối → Chụp ảnh ánh đèn trang trại → Cắm trại qua đêm (tuỳ chọn).",
+  "recommended_itinerary_en": "Farm & orchard tour → Pool time → Zipline/climbing → Lawn picnic → Sunset BBQ → Night photography → Camp overnight (optional).",
+  "tags": [
+    "cắm trại",
+    "BBQ",
+    "farm stay",
+    "zipline",
+    "thuyền thúng",
+    "trò chơi vận động",
+    "vườn trái cây",
+    "du lịch nghỉ dưỡng",
+    "team building",
+    "eco resort"
+  ],
+  "festivals": [],
+  "rating": "Khu sinh thái - resort xanh với nhiều hoạt động ngoài trời, phù hợp gia đình & nhóm bạn",
+  "notes": "Phong cách sinh thái kết hợp nghỉ dưỡng; phù hợp cả đi chơi trong ngày & cắm trại"
+} ,
+ {
+  "id": "khu-du-lich-sinh-thai-bay-tien",
+  "name_vi": "Khu du lịch sinh thái Cần Thơ Bảy Tiễn",
+  "name_en": "Bay Tien Ecotourism Area Can Tho",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Ấp Thới Trinh A, Phường Thới An, Quận Ô Môn, TP Cần Thơ",
+  "address_en": "Thoi Trinh A Hamlet, Thoi An Ward, O Mon District, Can Tho City",
+  "opening_hours": "08:00 - 18:00",
+  "ticket_price": "50.000 VNĐ/người (dịch vụ thêm phí tùy hoạt động)",
+  "visit_duration": "2 - 4 giờ",
+  "best_time_to_visit": "Buổi sáng hoặc chiều mát; mùa trái cây từ tháng 5 - 9",
+  "activities_vi": [
+    "Tham quan vườn trái cây (sầu riêng, mít, dừa xiêm…) theo mùa",
+    "Dạo bờ sông & chụp ảnh cảnh quê",
+    "Chèo xuồng, đạp vịt",
+    "Câu cá & cho cá ăn",
+    "Thư giãn võng, hóng gió sông Hậu",
+    "Thưởng thức ẩm thực miền Tây tại nhà hàng vườn"
+  ],
+  "activities_en": [
+    "Seasonal tropical fruit garden walk (durian, jackfruit, coconut…) ",
+    "Riverside stroll & countryside photography",
+    "Sampan rowing & paddle duck boats",
+    "Fishing & fish feeding",
+    "Relaxing on hammocks with river breeze",
+    "Mekong Delta local cuisine dining"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ và người lớn tuổi",
+    "Nhóm bạn trẻ muốn vui chơi nhẹ nhàng",
+    "Cặp đôi tìm nơi yên bình gần sông",
+    "Khách quốc tế muốn trải nghiệm nông trại miệt vườn"
+  ],
+  "suitable_for_en": [
+    "Families with kids or seniors",
+    "Young travelers",
+    "Couples seeking nature relaxation",
+    "International tourists exploring rural life"
+  ],
+  "description_vi": "Khu du lịch sinh thái Bảy Tiễn nằm ven sông Hậu, thuộc quận Ô Môn, nổi bật với vườn trái cây xanh mát, bờ sông thoáng đãng và không khí miệt vườn yên bình. Du khách có thể thưởng thức trái cây tại vườn, chèo xuồng, đạp vịt, câu cá, cho cá ăn và tận hưởng bữa ăn dân dã miền Tây với nguyên liệu từ chính khu vườn. Không gian thoáng đãng, chỗ ngồi nghỉ thoải mái và gió sông mát lành khiến nơi đây thích hợp để thư giãn cuối tuần.",
+  "description_en": "Bay Tien Ecotourism Area lies along the Hau River in O Mon District, offering a peaceful orchard setting and riverside breeze. Visitors can enjoy seasonal fruits, paddle boats, sampan rides, fishing, and rustic countryside meals using fresh local ingredients. With a quiet garden atmosphere and river view, it is ideal for a relaxing family outing or a calm nature escape near Can Tho.",
+  "travel_tips_vi": [
+    "Nên liên hệ trước để biết trái cây đang vào mùa",
+    "Mang mũ, kem chống nắng nếu đi giữa trưa",
+    "Có thể mang theo đồ thay cho hoạt động chèo xuồng",
+    "Chuẩn bị tiền mặt cho các dịch vụ nhỏ trong khu"
+  ],
+  "travel_tips_en": [
+    "Call ahead to check which fruits are in season",
+    "Bring hat & sunscreen if visiting at noon",
+    "Bring spare clothes for boating activities",
+    "Cash recommended for small services"
+  ],
+  "nearby_places": [
+    "Chùa Pôthi Somrôn (chùa Khmer Ô Môn)",
+    "Cánh đồng lúa Ô Môn",
+    "Khu dân cư Thới An",
+    "Chợ Ô Môn"
+  ],
+  "recommended_itinerary_vi": "Tham quan vườn trái cây → Chèo xuồng/đạp vịt → Câu cá, cho cá ăn → Nghỉ võng bên sông → Thưởng thức bữa trưa dân dã → Chụp ảnh vườn & cây trái.",
+  "recommended_itinerary_en": "Fruit garden walk → Paddle boat or sampan → Fishing & feeding fish → Hammock rest by the river → Rustic local lunch → Countryside photo session.",
+  "tags": [
+    "miệt vườn",
+    "vườn trái cây",
+    "chèo xuồng",
+    "đạp vịt",
+    "câu cá",
+    "ẩm thực miền Tây",
+    "du lịch gia đình",
+    "ven sông Hậu",
+    "dã ngoại"
+  ],
+  "festivals": [],
+  "rating": "Địa điểm sinh thái yên bình, phù hợp gia đình & khách thích trải nghiệm nhẹ nhàng",
+  "notes": "Điểm sinh thái địa phương; dịch vụ dân dã, không quá thương mại — phù hợp người thích không gian yên tĩnh"
+} ,
+  {
+  "id": "nha-vuon-thao-nguyen",
+  "name_vi": "Nhà vườn Thảo Nguyên",
+  "name_en": "Thao Nguyen Garden House",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Khu Bình Phó B, Phường Long Tuyền, Quận Bình Thủy, TP Cần Thơ",
+  "address_en": "Binh Pho B Area, Long Tuyen Ward, Binh Thuy District, Can Tho City",
+  "opening_hours": "08:00 - 22:00 hàng ngày",
+  "ticket_price": "Miễn phí vào cổng; dịch vụ 50.000 - 100.000 VNĐ (hái trái, nước uống, chòi nghỉ...)",
+  "visit_duration": "1.5 - 3 giờ",
+  "best_time_to_visit": "Buổi sáng hoặc chiều mát; mùa trái cây từ tháng 5 - 9",
+  "activities_vi": [
+    "Dạo vườn cây ăn trái",
+    "Hái trái cây theo mùa",
+    "Nghỉ ngơi trong chòi lá bên mé rạch",
+    "Chụp ảnh miệt vườn",
+    "Thưởng thức trái cây vườn & nước mát",
+    "Ngắm kênh rạch & nghe tiếng chim"
+  ],
+  "activities_en": [
+    "Walk through orchard garden",
+    "Seasonal fruit picking",
+    "Relax in leaf huts by small canal",
+    "Countryside photography",
+    "Fresh fruit tasting & drinks",
+    "Enjoy river-breeze & bird sounds"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ hoặc người lớn tuổi thích không gian yên tĩnh",
+    "Cặp đôi tìm nơi thư giãn, lãng mạn, gần thiên nhiên",
+    "Nhóm bạn trẻ thích sống chậm và chụp ảnh thiên nhiên",
+    "Khách quốc tế muốn tìm trải nghiệm miệt vườn mộc mạc"
+  ],
+  "suitable_for_en": [
+    "Families with kids or seniors",
+    "Couples seeking quiet nature",
+    "Young travelers who like slow-travel",
+    "International visitors exploring rural life"
+  ],
+  "description_vi": "Nhà vườn Thảo Nguyên là điểm nghỉ chân miệt vườn nhỏ xinh tại Bình Thủy, Cần Thơ, mang phong cách vườn quê mộc mạc với chòi lá bên rạch, lối đi dưới bóng cây và vườn trái cây xanh mướt. Không phải khu vui chơi náo nhiệt, nơi đây phù hợp để thư giãn, hóng gió, ăn trái cây tại vườn, uống nước dừa, đọc sách hoặc chụp ảnh 'miệt vườn chill'. Với không gian gần gũi, yên bình và người dân thân thiện, đây là lựa chọn lý tưởng cho những ai muốn tìm lại nhịp sống chậm và tận hưởng không khí miền Tây đích thực.",
+  "description_en": "Thao Nguyen Garden House is a peaceful local orchard spot in Binh Thuy, Can Tho, featuring bamboo huts along a small canal, shady walkways, and lush fruit trees. Unlike busy tourist parks, it offers a calm countryside retreat — perfect for relaxing, fruit tasting, reading, enjoying coconut water, or taking rustic countryside photos. With friendly hosts and a quiet natural setting, it's ideal for travelers seeking authentic slow-paced Mekong garden life.",
+  "travel_tips_vi": [
+    "Nên đặt trước nếu đi nhóm đông để giữ chòi nghỉ",
+    "Mang mũ và giày dễ đi nếu muốn khám phá hết vườn",
+    "Hỏi trước loại trái cây đang vào mùa để trải nghiệm hái",
+    "Đây là điểm thư giãn nhẹ — không phù hợp tìm trò chơi mạnh"
+  ],
+  "travel_tips_en": [
+    "Reserve huts in advance if visiting in groups",
+    "Bring hat & walking-friendly shoes",
+    "Ask staff which fruits are in season",
+    "Good for relaxing, not adventure activities"
+  ],
+
+  "nearby_places": [
+    "Nhà cổ Bình Thủy",
+    "Chùa Long Quang",
+    "Miệt vườn Long Tuyền",
+    "Vườn cò Bằng Lăng (xa hơn một đoạn)"
+  ],
+  "recommended_itinerary_vi": "Dạo vườn → Hái trái cây theo mùa → Nghỉ chòi lá bên rạch uống nước dừa → Chụp ảnh miệt vườn → Ghé Nhà cổ Bình Thủy/Long Tuyền gần đó.",
+  "recommended_itinerary_en": "Garden walk → Seasonal fruit picking → Relax in hut with coconut drink → Photo time → Visit nearby Binh Thuy Ancient House/Long Tuyen area.",
+  "tags": [
+    "miệt vườn",
+    "chòi lá",
+    "vườn trái cây",
+    "kênh rạch",
+    "slow travel",
+    "địa điểm chill",
+    "trải nghiệm địa phương",
+    "check-in thiên nhiên"
+  ],
+  "festivals": [],
+  "rating": "Không gian vườn nhỏ xinh, yên tĩnh, phù hợp thư giãn - trải nghiệm miệt vườn mộc mạc",
+  "notes": "Không đông vui kiểu khu sinh thái lớn; thiên về trải nghiệm nhẹ & nghỉ ngơi"
+},
+  {
+  "id": "vuon-sinh-thai-le-loc",
+  "name_vi": "Vườn du lịch sinh thái Cần Thơ Lê Lộc",
+  "name_en": "Le Loc Eco Garden Can Tho",
+
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Số 568A Quốc Lộ 61B, phường Ba Láng, quận Cái Răng, TP Cần Thơ",
+  "address_en": "568A Highway 61B, Ba Lang Ward, Cai Rang District, Can Tho City",
+  "opening_hours": "07:30 - 19:30 (mùa thường) / tới 22:00 (mùa lễ, cuối tuần)",
+  "ticket_price": "10.000 VNĐ/vé vào cổng; dịch vụ tùy chọn 50.000 - 150.000 VNĐ",
+  "visit_duration": "2 - 4 giờ",
+  "best_time_to_visit": "Tháng 5 - 8 (mùa trái cây), buổi sáng hoặc chiều mát",
+  "activities_vi": [
+    "Tham quan vườn trái cây",
+    "Xem vườn măng cụt hơn 100 năm tuổi",
+    "Chèo xuồng",
+    "Tát mương bắt cá",
+    "Làm bánh tét",
+    "Bắt tôm càng",
+    "Thưởng thức đặc sản miền Tây",
+    "Chụp ảnh với cảnh vườn"
+  ],
+  "activities_en": [
+    "Fruit orchard tour",
+    "Visit 100-year-old mangosteen garden",
+    "Boat rowing through small canals",
+    "Traditional fish catching",
+    "Making Vietnamese sticky rice cake (bánh tét)",
+    "Catch freshwater prawns",
+    "Enjoy Mekong Delta cuisine",
+    "Nature photography"
+  ],
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ và người lớn tuổi",
+    "Nhóm bạn trẻ thích trải nghiệm miệt vườn",
+    "Khách yêu thiên nhiên, thích hoạt động dân gian",
+    "Khách quốc tế muốn trải nghiệm văn hóa miền Tây thực thụ"
+  ],
+  "suitable_for_en": [
+    "Families with kids or seniors",
+    "Young travelers",
+    "Nature lovers",
+    "International visitors seeking cultural experience"
+  ],
+  "description_vi": "Vườn du lịch sinh thái Lê Lộc là điểm đến nổi bật tại Ba Láng, Cái Răng với không gian miệt vườn rộng khoảng 20.000 m². Điểm nhấn đặc biệt là vườn măng cụt hơn 100 năm tuổi — một trong những khu vườn lâu đời nhất tại Cần Thơ. Du khách có thể tản bộ dưới tán cây xanh, chèo xuồng giữa kênh rạch, tát mương bắt cá, làm bánh tét, bắt tôm càng và thưởng thức đặc sản miền Tây trong chòi lá. Đây là địa điểm lý tưởng cho ai muốn trải nghiệm đời sống miệt vườn thật sự, gần gũi và chân chất.",
+  "description_en": "Le Loc Eco Garden is a peaceful orchard destination in Ba Lang, Cai Rang, featuring a rare 100-year-old mangosteen garden. Visitors can walk under lush fruit trees, row boats through small waterways, catch fish in traditional mud ponds, learn to make bánh tét (sticky rice cake), catch river prawns, and enjoy authentic Mekong cuisine. This is an ideal spot for travelers seeking a genuine and rustic Mekong rural experience.",
+  "travel_tips_vi": [
+    "Nên đặt trước nếu muốn tham gia tát mương hoặc nhóm đông",
+    "Mang quần áo thoải mái hoặc đồ có thể thay khi chơi bắt cá",
+    "Tham khảo mùa trái cây để đi đúng thời điểm",
+    "Chuẩn bị thuốc chống muỗi"
+  ],
+  "travel_tips_en": [
+    "Book in advance if traveling in big groups or joining fishing activities",
+    "Wear clothes suitable for water/mud activities",
+    "Visit during fruit season for best experience",
+    "Bring mosquito repellent"
+  ],
+  "nearby_places": [
+    "Khu du lịch Hoa Súng",
+    "Thiền viện Trúc Lâm Phương Nam",
+    "Chợ nổi Cái Răng",
+    "Làng du lịch Ông Đề"
+  ],
+  "recommended_itinerary_vi": "Đến vườn → tham quan & chụp ảnh → chèo xuồng → tát mương bắt cá / làm bánh tét → ăn trưa đặc sản miền Tây → nghỉ chòi lá",
+  "recommended_itinerary_en": "Arrive → orchard walk & photos → boat rowing → traditional fish catching or cake making → local lunch → relax in bamboo hut",
+  "tags": [
+    "miệt vườn",
+    "vườn trái cây",
+    "măng cụt cổ thụ",
+    "tát mương bắt cá",
+    "ẩm thực miền Tây",
+    "trải nghiệm nông thôn",
+    "Cái Răng",
+    "Ba Láng"
+  ],
+  "rating_summary": "Trải nghiệm miệt vườn chân thật, hoạt động dân gian phong phú, không gian xanh mát — phù hợp gia đình & du khách quốc tế"
+},
+  {
+  "id": "vuon-co-bang-lang",
+  "name_vi": "Du lịch sinh thái Cần Thơ - Vườn cò Bằng Lăng",
+  "name_en": "Bang Lang Stork Sanctuary - Can Tho",
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+  "address_vi": "Ấp Thới Bình 1, Phường Thuận An, Quận Thốt Nốt, TP. Cần Thơ",
+  "address_en": "Thoi Binh 1 Hamlet, Thuan An Ward, Thot Not District, Can Tho City",
+  "opening_hours": "07:00 - 18:00",
+  "ticket_price": "Người lớn ~20.000 VNĐ, trẻ em ~10.000 VNĐ",
+  "visit_duration": "1,5 - 2,5 giờ",
+  "best_time_to_visit": "05:30 - 07:00 sáng hoặc 16:30 - 18:00 chiều (giờ cò bay về đàn)",
+  "activities_vi": [
+    "Quan sát cò và chim trời",
+    "Đi bộ tham quan rừng cò",
+    "Chụp ảnh thiên nhiên",
+    "Tận hưởng không khí miệt vườn",
+    "Ngắm hoàng hôn và đàn cò bay"
+  ],
+  "activities_en": [
+    "Bird watching",
+    "Walking through the stork sanctuary",
+    "Nature photography",
+    "Enjoy peaceful rural landscape",
+    "Watch storks return at sunset"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ",
+    "Nhóm bạn trẻ thích khám phá thiên nhiên",
+    "Người yêu thiên nhiên, nhiếp ảnh",
+    "Du khách quốc tế muốn trải nghiệm hệ sinh thái miền Tây",
+    "Khách thích hoạt động nhẹ, thư giãn"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Nature lovers",
+    "Bird watchers and photographers",
+    "International travelers seeking peaceful rural life",
+    "Seniors or visitors wanting a calm experience"
+  ],
+
+  "description_vi": "Vườn cò Bằng Lăng là một trong những khu bảo tồn cò tự nhiên lớn nhất miền Tây, nằm ở quận Thốt Nốt, TP Cần Thơ. Đây là nơi sinh sống của hàng ngàn con cò và nhiều loài chim nước khác. Vào buổi sáng sớm hoặc chiều tối, bạn sẽ thấy cảnh đàn cò bay trắng cả bầu trời — một khung cảnh hiếm gặp và rất ấn tượng. Con đường vào vườn cò được bao phủ bởi hàng cây bằng lăng tím, tạo nên không gian nên thơ và đậm chất miệt vườn Nam Bộ. Đây là điểm đến lý tưởng cho những ai muốn tìm sự yên bình, gần gũi thiên nhiên và khám phá hệ sinh thái đặc trưng của đồng bằng sông Cửu Long.",
+  "description_en": "Bang Lang Stork Sanctuary is one of the largest natural stork habitats in the Mekong Delta, located in Thot Not District, Can Tho City. Thousands of storks and various water birds gather here. At dawn and dusk, the sky fills with storks flying in flocks — a breathtaking natural scene. The entry road lined with purple Bang Lang flowers adds to the peaceful and rural charm. This destination is perfect for nature lovers, photographers, and those seeking a calm countryside experience.",
+
+  "travel_tips_vi": [
+    "Đi vào sáng sớm hoặc chiều để xem cò bay đẹp nhất",
+    "Mang ống nhòm hoặc máy ảnh zoom nếu thích chụp chim",
+    "Đi giày thể thao, tránh đi dép trơn",
+    "Hạn chế gây tiếng động lớn để không làm chim bay đi",
+    "Chuẩn bị chống muỗi"
+  ],
+  "travel_tips_en": [
+    "Visit early morning or late afternoon for best stork viewing",
+    "Bring binoculars or zoom camera for photography",
+    "Wear comfortable shoes",
+    "Avoid loud noises to keep birds calm",
+    "Use mosquito repellent"
+  ],
+
+  "nearby_places": [
+    "Làng hoa Thốt Nốt",
+    "Chùa Long Phước",
+    "Chợ Thốt Nốt",
+    "Cù lao Tân Lộc"
+  ],
+
+  "recommended_itinerary_vi": "Đến điểm → đi bộ tham quan → quan sát cò bằng ống nhòm → chụp ảnh → ngắm đàn cò bay lúc hoàng hôn → thưởng thức nước dừa / trái cây miệt vườn bên ngoài khu",
+  "recommended_itinerary_en": "Arrive → nature walk → bird watching → photography → watch sunset stork return → refresh with coconut or fruit outside the sanctuary",
+
+  "tags": [
+    "vườn cò",
+    "birdwatching",
+    "miệt vườn",
+    "đồng bằng sông Cửu Long",
+    "thiên nhiên",
+    "quan sát động vật hoang dã",
+    "Thốt Nốt"
+  ],
+
+  "rating_summary": "Điểm đến yên bình, tham quan ngắn, cảnh cò bay rất ấn tượng, phù hợp người thích thiên nhiên và trải nghiệm nhẹ nhàng."
+},
+  {
+  "id": "vuon-giao-duong",
+  "name_vi": "Vườn trái cây Giáo Dương",
+  "name_en": "Giao Duong Fruit Garden",
+
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+
+  "address_vi": "Số 159 Tỉnh lộ 923, Ấp Nhơn Lộc 1, Thị trấn Phong Điền, Huyện Phong Điền, TP Cần Thơ",
+  "address_en": "159 Provincial Road 923, Nhon Loc 1 Hamlet, Phong Dien Town, Phong Dien District, Can Tho City",
+
+  "opening_hours": "08:00 - 18:00",
+  "ticket_price": "Khoảng 50.000 VNĐ/người (chưa bao gồm ăn trái cây theo ký)",
+  "visit_duration": "2 - 3 giờ",
+  "best_time_to_visit": "Mùa trái cây tháng 5 - tháng 9 (đặc biệt mùa măng cụt & dâu Hạ Châu)",
+
+  "activities_vi": [
+    "Tham quan vườn trái cây",
+    "Tự tay hái trái cây tại vườn",
+    "Thưởng thức trái cây đặc sản (măng cụt, dâu Hạ Châu)",
+    "Chèo xuồng kênh rạch",
+    "Đi cầu khỉ",
+    "Tát mương bắt cá",
+    "Chụp ảnh với vườn trái cây"
+  ],
+  "activities_en": [
+    "Walking in fruit garden",
+    "Fruit picking experience",
+    "Taste tropical fruits (mangosteen, Ha Chau plum)",
+    "Rowing along small canals",
+    "Traditional monkey bridge crossing",
+    "Catch fish in mud pond",
+    "Nature photography"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có trẻ em",
+    "Cặp đôi thích không gian xanh và chụp ảnh",
+    "Nhóm bạn trẻ trải nghiệm miệt vườn",
+    "Người yêu thiên nhiên & nông nghiệp",
+    "Khách quốc tế tìm văn hóa miền Tây"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Couples",
+    "Nature lovers",
+    "Agricultural tourism travelers",
+    "International tourists interested in local culture"
+  ],
+
+  "description_vi": "Vườn trái cây Giáo Dương là một trong những điểm du lịch miệt vườn nổi bật ở Phong Điền, Cần Thơ - nơi nổi tiếng với các loại trái cây đặc sản miền Tây như măng cụt và dâu Hạ Châu. Du khách được trải nghiệm hái trái cây tại vườn, thưởng thức trái cây tươi, chèo xuồng trên kênh rạch, đi cầu khỉ, tát mương bắt cá và tận hưởng không gian xanh mát đậm chất Nam Bộ. Đây là điểm dừng chân lý tưởng cho chuyến khám phá Cần Thơ theo phong cách “miệt vườn sông nước” gần gũi và chân thật.",
+  "description_en": "Giao Duong Fruit Garden is a popular eco-tourism spot in Phong Dien, Can Tho, famous for tropical fruits such as mangosteen and Ha Chau plum. Visitors can pick fruits directly from the tree, taste fresh seasonal fruits, row through small canals, cross traditional monkey bridges, and catch fish in a local mud pond. It offers a peaceful countryside atmosphere and authentic Mekong Delta garden life experience.",
+
+  "travel_tips_vi": [
+    "Đi buổi sáng hoặc chiều để mát mẻ",
+    "Nên mang giày/dép dễ đi, có thể bám bùn",
+    "Chuẩn bị nón, kem chống nắng, thuốc chống muỗi",
+    "Trái cây tính theo ký ngoài vé — nên hỏi giá trước",
+    "Mùa trái cây (5-9) đông hơn — nên đặt trước nếu đi nhóm"
+  ],
+  "travel_tips_en": [
+    "Visit in the morning or late afternoon for cool weather",
+    "Wear comfortable shoes (can get muddy)",
+    "Bring hat, sunscreen, and mosquito repellent",
+    "Fruit tasting charged by weight — ask before picking",
+    "Book in advance during harvest season (May-Sep)"
+  ],
+
+  "nearby_places": [
+    "Làng du lịch Mỹ Khánh",
+    "Làng du lịch Ông Đề",
+    "Thiền viện Trúc Lâm Phương Nam",
+    "Bến đò Cồn Sơn"
+  ],
+
+  "recommended_itinerary_vi": "Tham quan vườn → hái & ăn trái cây → chèo xuồng kênh rạch → thử đi cầu khỉ → tát mương bắt cá → nghỉ mát & thưởng thức trái cây đặc sản",
+  "recommended_itinerary_en": "Garden walk → pick & taste fruits → canal rowing → monkey bridge challenge → fish catching → relax and enjoy fruit platter",
+
+  "tags": [
+    "vườn trái cây",
+    "miệt vườn phong điền",
+    "trái cây miền tây",
+    "dâu hạ châu",
+    "măng cụt phong điền",
+    "trải nghiệm nông nghiệp",
+    "chèo xuồng",
+    "tát mương bắt cá"
+  ],
+
+  "rating_summary": "Điểm du lịch miệt vườn đúng chất, trải nghiệm dân dã, trái cây tươi ngon — rất thích hợp cho gia đình và du khách muốn hiểu đời sống miền Tây."
+},
+  {
+  "id": "vuon-ba-cong",
+  "name_vi": "Vườn trái cây Ba Cống",
+  "name_en": "Ba Cong Fruit Garden",
+
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+
+  "address_vi": "Phường Bình Phó B, Quận Bình Thủy, TP Cần Thơ",
+  "address_en": "Binh Pho B Ward, Binh Thuy District, Can Tho City",
+
+  "opening_hours": "07:00 - 17:00",
+  "ticket_price": "Khoảng 20.000 VNĐ/người (trái cây tính theo ký)",
+  "visit_duration": "1,5 - 2,5 giờ",
+  "best_time_to_visit": "Tháng 5 - Tháng 9 (mùa trái cây: măng cụt, chôm chôm, vú sữa...)",
+
+  "activities_vi": [
+    "Tham quan vườn cây ăn trái",
+    "Hái trái cây tại vườn",
+    "Thưởng thức trái cây tươi",
+    "Đi cầu khỉ",
+    "Chụp ảnh miệt vườn",
+    "Ngồi nghỉ ven kênh, thư giãn"
+  ],
+  "activities_en": [
+    "Walking in fruit garden",
+    "Fruit picking",
+    "Taste fresh tropical fruits",
+    "Monkey bridge crossing",
+    "Garden photography",
+    "Relaxing by canal"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ",
+    "Nhóm bạn trẻ thích đi miệt vườn",
+    "Cặp đôi muốn không gian yên bình",
+    "Khách quốc tế thích trải nghiệm vườn trái cây",
+    "Người thích không khí thanh bình, thiên nhiên"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Couples",
+    "Nature lovers",
+    "International tourists",
+    "Slow-travel explorers"
+  ],
+
+  "description_vi": "Vườn trái cây Ba Cống là một trong những vườn trái cây lâu đời ở Cần Thơ, rộng hơn 2 ha, nằm tại Bình Phó B, quận Bình Thủy. Vườn trồng nhiều loại cây ăn trái đặc sản miền Tây như măng cụt, chôm chôm, xoài cát Hòa Lộc, bưởi da xanh, vú sữa và dừa. Du khách có thể dạo bước dưới tán cây xanh mát, đi cầu khỉ, ngồi bên rạch nước mát rượi và tự tay hái trái cây thưởng thức. Đây là điểm đến lý tưởng cho chuyến đi ngắn rời xa phố thị, tận hưởng không gian miệt vườn đúng chất Nam Bộ.",
+  "description_en": "Ba Cong Fruit Garden is one of the long-established fruit gardens in Can Tho, covering more than 2 hectares in Binh Thuy District. It features various Mekong Delta tropical fruits such as mangosteen, rambutan, mango, pomelo, and star apple. Visitors can walk through the shady garden paths, cross traditional monkey bridges, relax by small canals, and pick fresh fruits to enjoy on the spot. This is a peaceful and authentic countryside experience ideal for a relaxing half-day trip.",
+
+  "travel_tips_vi": [
+    "Đi buổi sáng hoặc chiều để trời mát",
+    "Mang giày dễ đi, tránh dép trơn khi đi cầu khỉ",
+    "Mua trái cây theo ký — nên hỏi giá trước",
+    "Chuẩn bị chống muỗi",
+    "Mùa trái cây đông khách — nên đi sớm"
+  ],
+  "travel_tips_en": [
+    "Visit in morning or late afternoon",
+    "Wear comfortable shoes (for monkey bridge)",
+    "Ask fruit price before picking",
+    "Bring mosquito repellent",
+    "Go early during fruit season"
+  ],
+
+  "nearby_places": [
+    "Nhà vườn Thảo Nguyên",
+    "Chợ nổi Cái Răng (đi theo tuyến tham quan)",
+    "Nhà cổ Bình Thủy"
+  ],
+
+  "recommended_itinerary_vi": "Dạo vườn → hái & ăn trái cây → đi cầu khỉ → chụp ảnh bên rạch → nghỉ mát dưới tán cây + thưởng thức trái cây đặc sản",
+  "recommended_itinerary_en": "Garden walk → fruit picking & tasting → monkey bridge → canal-side photos → relax under fruit trees & enjoy seasonal fruit",
+
+  "tags": [
+    "vườn trái cây",
+    "miệt vườn",
+    "bình thủy",
+    "cầu khỉ",
+    "trái cây miền tây",
+    "thưởng thức trái cây"
+  ],
+
+  "rating_summary": "Không gian miệt vườn xanh mát, trái cây ngon, phù hợp gia đình và khách muốn trải nghiệm thiên nhiên nhẹ nhàng."
+},
+  {
+  "id": "vuon-vu-binh",
+  "name_vi": "Vườn trái cây Vũ Bình",
+  "name_en": "Vu Binh Fruit Garden",
+
+  "category_vi": "Du lịch sinh thái Cần Thơ",
+  "category_en": "Eco-tourism in Can Tho",
+
+  "address_vi": "Ấp Nhơn Nghĩa, xã Nhơn Nghĩa, huyện Phong Điền, TP Cần Thơ",
+  "address_en": "Nhon Nghia Hamlet, Nhon Nghia Commune, Phong Dien District, Can Tho City",
+
+  "opening_hours": "06:30 - 22:00",
+  "ticket_price": "Khoảng 50.000 VNĐ/người (trái cây tính theo ký)",
+  "visit_duration": "2 - 3 giờ",
+  "best_time_to_visit": "Tháng 4 - 7 (đặc biệt mùa măng cụt)",
+
+  "activities_vi": [
+    "Dạo vườn trái cây",
+    "Hái & ăn trái cây tại vườn",
+    "Đi xuồng trên kênh rạch",
+    "Tạo dáng chụp ảnh với cầu khỉ, mương nước",
+    "Ngồi võng, nghỉ mát trong vườn",
+    "Tát mương bắt cá theo yêu cầu"
+  ],
+  "activities_en": [
+    "Fruit garden walking",
+    "Fruit picking & tasting",
+    "Rowing on small canals",
+    "Monkey bridge photography",
+    "Relaxing in hammocks under trees",
+    "Traditional fish catching (request-based)"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ",
+    "Nhóm bạn thích trải nghiệm miệt vườn",
+    "Cặp đôi muốn không gian mộc mạc, lãng mạn",
+    "Khách yêu thiên nhiên & trải nghiệm văn hóa miệt vườn",
+    "Khách nước ngoài tìm trải nghiệm đời sống miền Tây"
+  ],
+  "suitable_for_en": [
+    "Families with kids",
+    "Couples",
+    "Nature lovers",
+    "Cultural explorers",
+    "International tourists"
+  ],
+
+  "description_vi": "Vườn trái cây Vũ Bình tọa lạc tại Phong Điền - thủ phủ trái cây của Cần Thơ, nổi tiếng với không gian xanh mát, yên bình và những hàng cây trĩu trái như măng cụt, vú sữa, nhãn, ổi, xoài… Điểm nổi bật của vườn là khu vực mương nước nhỏ, cầu khỉ gỗ và xuồng ba lá giúp du khách cảm nhận trọn vẹn nét đẹp miệt vườn Nam Bộ. Vào mùa măng cụt (tháng 4-7), bạn có thể tự tay hái và ăn tại vườn - một trải nghiệm rất được yêu thích. Đây là nơi lý tưởng để thư giãn, tách khỏi phố thị và tận hưởng không khí sông nước thanh bình.",
+  "description_en": "Vu Binh Fruit Garden is located in Phong Dien - the fruit capital of Can Tho. The garden offers a peaceful countryside setting with lush fruit trees such as mangosteen, star apple, rambutan, guava, and mango. Visitors can walk through the orchard, pick fruits, row a traditional wooden boat along narrow canals, and relax on hammocks under the trees. During mangosteen season (April-July), guests can pick fresh fruits directly from the trees. It is a perfect destination for those seeking an authentic Mekong Delta orchard experience.",
+
+  "travel_tips_vi": [
+    "Đi buổi sáng hoặc chiều để trời mát",
+    "Mang giày dép dễ đi, có thể dính bùn",
+    "Hỏi giá trái cây trước khi hái",
+    "Chuẩn bị kem chống muỗi",
+    "Nếu muốn tát mương bắt cá — liên hệ trước để chuẩn bị"
+  ],
+  "travel_tips_en": [
+    "Visit morning or late afternoon for comfort",
+    "Wear suitable shoes (can get muddy)",
+    "Ask fruit price before picking",
+    "Bring mosquito repellent",
+    "Book in advance if you want fish-catching activity"
+  ],
+
+  "nearby_places": [
+    "Làng du lịch Mỹ Khánh",
+    "Thiền Viện Trúc Lâm Phương Nam",
+    "Chợ nổi Cái Răng (kết hợp buổi sáng)",
+    "Cồn Sơn"
+  ],
+
+  "recommended_itinerary_vi": "Dạo vườn → hái & ăn măng cụt tại vườn → chèo xuồng → chụp ảnh cầu khỉ → nghỉ võng uống nước dừa → mua trái cây mang về",
+  "recommended_itinerary_en": "Garden walk → pick & eat mangosteen → boat ride → monkey bridge photos → hammock rest with coconut → buy fruits to take home",
+
+  "tags": [
+    "vườn trái cây",
+    "măng cụt phong điền",
+    "miệt vườn",
+    "chèo xuồng",
+    "cầu khỉ",
+    "du lịch sinh thái",
+    "ẩm thực trái cây"
+  ],
+
+  "rating_summary": "Không gian miệt vườn mộc mạc, măng cụt ngon, trải nghiệm chèo xuồng và cầu khỉ thú vị — phù hợp gia đình, cặp đôi và khách quốc tế."
+},
+  {
+  "id": "thien-vien-truc-lam-phuong-nam",
+  "name_vi": "Thiền Viện Trúc Lâm Phương Nam",
+  "name_en": "Truc Lam Phuong Nam Zen Monastery",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "ĐT 923, Ấp Nhơn Mỹ, Xã Mỹ Khánh, Huyện Phong Điền, TP Cần Thơ",
+  "address_en": "DT923 Road, Nhon My Hamlet, My Khanh Commune, Phong Dien District, Can Tho City",
+
+  "opening_hours": "06:00 - 18:00 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "45 - 90 phút",
+  "best_time_to_visit": "Sáng sớm hoặc chiều mát; dịp lễ Phật giáo như Phật đản, Vu Lan",
+
+  "activities_vi": [
+    "Dạo bộ, tĩnh tâm trong không gian thiền viện",
+    "Tham quan chánh điện, tổ điện, gác chuông - gác trống",
+    "Chụp ảnh kiến trúc phong cách Lý - Trần",
+    "Dâng hương, cầu an (giữ yên lặng, trang nghiêm)",
+    "Dùng cơm chay tại nhà hàng chay trong khuôn viên (khi mở cửa)"
+  ],
+  "activities_en": [
+    "Leisure walk & meditation",
+    "Visit main hall, patriarch hall, bell & drum towers",
+    "Architecture photography (Ly-Tran style)",
+    "Offer incense/pray (quiet, respectful)",
+    "Vegetarian dining on site (when available)"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có người lớn tuổi hoặc trẻ nhỏ",
+    "Nhóm bạn/cặp đôi muốn không gian an yên",
+    "Người quan tâm văn hóa - Phật giáo Việt Nam",
+    "Khách quốc tế muốn kết hợp miệt vườn & điểm tâm linh"
+  ],
+  "suitable_for_en": [
+    "Families (seniors & kids)",
+    "Couples & small groups seeking serenity",
+    "Cultural/Religious travelers",
+    "International visitors combining orchard/river tours"
+  ],
+
+  "description_vi": "Thiền Viện Trúc Lâm Phương Nam là thiền viện **quy mô lớn nhất vùng Tây Nam Bộ**, tọa lạc trên trục **ĐT923, xã Mỹ Khánh, Phong Điền**. Công trình khởi công năm 2013, khánh thành 2014, diện tích khoảng **3,8-4 ha**, kiến trúc mô phỏng **phong cách Phật giáo thời Lý-Trần** với mái ngói đỏ cong, cột gỗ, chánh điện, tổ điện, gác chuông-trống và các tiểu cảnh. Không gian thanh tịnh, nhiều mảng xanh, phù hợp dạo bộ, tĩnh tâm và chụp ảnh kiến trúc.",
+  "description_en": "Truc Lam Phuong Nam is the **largest Zen monastery in the Southwest** of Vietnam, located on **DT923 in My Khanh, Phong Dien**. Built in 2013 and inaugurated in 2014 on **~3.8-4 ha**, it features **Ly-Tran-style** Buddhist architecture: curved red-tile roofs, wooden pillars, main hall, patriarch hall, bell & drum towers, and serene gardens. A calm, leafy complex ideal for contemplative walks and architectural photography.",
+
+  "travel_tips_vi": [
+    "Trang phục kín đáo; hạn chế ồn ào, không xả rác",
+    "Tránh bay flycam khi chưa xin phép",
+    "Nên đi buổi sáng/chiều; giữa trưa khá nắng",
+    "Có bãi xe lớn; gửi xe miễn phí/ủng hộ tùy tâm"
+  ],
+  "travel_tips_en": [
+    "Dress modestly; keep quiet & clean",
+    "No drone without permission",
+    "Visit morning/late afternoon to avoid heat",
+    "Large parking; donations optional"
+  ],
+
+  "nearby_places": [
+    "Làng du lịch Mỹ Khánh",
+    "Vườn ca cao Mười Cương",
+    "KDL Ông Đề",
+    "Lung Cột Cầu (Lung Cột Lầu)",
+    "Chợ nổi Cái Răng (kết hợp buổi sáng)"
+  ],
+
+  "recommended_itinerary_vi": "Di chuyển đến thiền viện → dạo vườn & chụp ảnh chánh điện (30’) → gác chuông-trống & tiểu cảnh (20’) → tĩnh tâm/dâng hương (10-15’) → dùng cơm chay/di chuyển sang Mỹ Khánh - ca cao Mười Cương.",
+  "recommended_itinerary_en": "Arrive → garden & main hall photos (30’) → bell/drum towers & grounds (20’) → quiet prayer (10-15’) → optional vegetarian meal / continue to My Khanh village or Muoi Cuong Cacao Farm.",
+
+  "tags": [
+    "thiền viện",
+    "kiến trúc Lý-Trần",
+    "tâm linh",
+    "cơm chay",
+    "Phong Điền",
+    "DT923",
+    "văn hóa"
+  ]
+},
+  {
+  "id": "chua-ong-can-tho",
+  "name_vi": "Chùa Ông (Quảng Triệu Hội Quán)",
+  "name_en": "Ong Pagoda (Quang Trieu Assembly Hall)",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 32 đường Hai Bà Trưng, phường Tân An, quận Ninh Kiều, TP Cần Thơ",
+  "address_en": "No. 32 Hai Ba Trung Street, Tan An Ward, Ninh Kieu District, Can Tho City",
+
+  "opening_hours": "07:00 - 18:00 hằng ngày (một số dịp có thể mở đến ~20:00-21:00)",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Sáng sớm hoặc cuối chiều; dịp lễ âm lịch 23/3, 15/3, 24/6",
+
+  "activities_vi": [
+    "Dâng hương, cầu an (giữ trật tự, trang nghiêm)",
+    "Tham quan kiến trúc chữ Quốc (國), mái ngói âm - dương",
+    "Chụp ảnh phù điêu, tượng linh vật, gốm sứ trang trí",
+    "Tìm hiểu lịch sử cộng đồng người Hoa Quảng Đông tại Cần Thơ"
+  ],
+  "activities_en": [
+    "Incense offering & prayer (quiet, respectful)",
+    "Explore Guo-shaped layout and yin-yang roof tiles",
+    "Architectural/ornament photography",
+    "Learn Cantonese Chinese community history in Can Tho"
+  ],
+
+  "suitable_for_vi": [
+    "Người yêu văn hóa - kiến trúc",
+    "Khách hành hương, tâm linh",
+    "Gia đình/nhóm bạn muốn điểm tham quan trung tâm thành phố",
+    "Khách quốc tế muốn trải nghiệm đa văn hóa Việt - Hoa ở Nam Bộ"
+  ],
+  "suitable_for_en": [
+    "Architecture & culture enthusiasts",
+    "Pilgrims/spiritual travelers",
+    "Families & casual city visitors",
+    "International travelers seeking Sino-Vietnamese heritage"
+  ],
+
+  "description_vi": "Chùa Ông (Quảng Triệu Hội Quán) là di tích của cộng đồng người Hoa gốc Quảng Đông tại Cần Thơ, khởi dựng năm 1894 và hoàn thành năm 1896; được xếp hạng Di tích kiến trúc nghệ thuật cấp quốc gia năm 1993. Công trình nổi bật với bố cục chữ Quốc (國), mái ngói âm-dương, phù điêu gốm sứ và trang trí rực rỡ. Vị trí ngay trung tâm Ninh Kiều, đối diện bến Ninh Kiều, thuận tiện kết hợp nhiều điểm tham quan lân cận.",
+  "description_en": "Ong Pagoda (Quang Trieu Assembly Hall) was built in 1894-1896 by the local Cantonese Chinese community and listed as a Vietnam National Architectural Heritage in 1993. It features a Guo-shaped plan, yin-yang tiled roofs, colorful ceramic reliefs and vivid ornaments. Located right in Ninh Kieu center opposite Ninh Kieu Wharf, it’s easy to combine with nearby attractions.",
+
+  "travel_tips_vi": [
+    "Trang phục kín đáo; không dùng flycam/đèn flash nếu bị hạn chế",
+    "Đi nhẹ, nói khẽ; không dẫm bệ thờ, không chạm hiện vật",
+    "Lễ lớn rất đông (23/3, 24/6, 15/3 âm lịch) — nên đi sớm",
+    "Gửi xe/bãi đỗ khu vực bến Ninh Kiều rồi đi bộ vài phút"
+  ],
+  "travel_tips_en": [
+    "Dress modestly; drones/flash may be restricted",
+    "Keep quiet; do not touch relics or step on altars",
+    "Festivals get crowded—come early",
+    "Park near Ninh Kieu Wharf and walk a few minutes"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều & Chợ đêm Ninh Kiều",
+    "Chùa Phật Học",
+    "Chùa Munir Ansay (chùa Khmer)",
+    "Chợ cổ Cần Thơ",
+    "Nhà cổ Bình Thủy (di chuyển xa hơn một chút)"
+  ],
+
+  "recommended_itinerary_vi": "Ghé bến Ninh Kiều → đi bộ 3-5 phút đến Chùa Ông → tham quan 30-45’ (chánh điện, sân thiên tỉnh, mái ngói) → tiếp tục qua Chùa Munir Ansay/Chùa Phật Học → tối dạo chợ đêm Ninh Kiều.",
+  "recommended_itinerary_en": "Stop at Ninh Kieu Wharf → 3-5 min walk to Ong Pagoda → 30-45’ visit → continue to Munir Ansay/Phat Hoc Pagoda → night stroll at Ninh Kieu Night Market.",
+
+  "tags": [
+    "di tích quốc gia",
+    "hội quán người Hoa",
+    "kiến trúc Hoa",
+    "Hai Bà Trưng",
+    "Ninh Kiều",
+    "tín ngưỡng dân gian",
+    "lễ hội"
+  ],
+
+  "festivals": [
+    "Vía Thiên Hậu Thánh Mẫu: 23/3 âm lịch",
+    "Giỗ Ông Bổn: 15/3 âm lịch",
+    "Vía Quan Thánh Đế Quân: 24/6 âm lịch"
+  ]
+},
+ {
+  "id": "chua-nam-nha",
+  "name_vi": "Chùa Nam Nhã",
+  "name_en": "Nam Nha Pagoda",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 612 Đường Cách Mạng Tháng Tám, Phường Bùi Hữu Nghĩa (nay thuộc Phường Bình Thủy), Quận Bình Thủy, TP. Cần Thơ",
+  "address_en": "612 Cach Mang Thang 8 Street, Bui Huu Nghia Ward (now Binh Thuy Ward), Binh Thuy District, Can Tho City",
+
+  "opening_hours": "07:00 - 17:00 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Sáng sớm hoặc chiều mát; dịp lễ rằm tháng Giêng, rằm tháng Bảy",
+
+  "activities_vi": [
+    "Dâng hương và cầu an trong không gian chùa cổ",
+    "Tham quan kiến trúc Hoa-Pháp-Việt đặc trưng",
+    "Chụp ảnh cảnh sân chùa, hồ nước, cây cổ thụ",
+    "Tìm hiểu lịch sử phong trào Đông Du và phong trào cách mạng tại chùa"
+  ],
+  "activities_en": [
+    "Incense offering & prayer in the historic temple",
+    "Explore unique Sino-French-Vietnamese architecture",
+    "Photography of courtyard, pond & century-old trees",
+    "Learn history of Đông Du movement and local resistance at the site"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có người lớn tuổi hoặc trẻ nhỏ",
+    "Khách yêu thích văn hóa & kiến trúc",
+    "Khách tâm linh muốn tìm nơi thanh tịnh",
+    "Khách quốc tế muốn hiểu văn hoá Việt-Hoa Nam Bộ"
+  ],
+  "suitable_for_en": [
+    "Families with seniors or kids",
+    "Culture & architecture enthusiasts",
+    "Spiritual travelers",
+    "International visitors exploring Viet-Hoa heritage"
+  ],
+
+  "description_vi": "Chùa Nam Nhã là ngôi chùa cổ hơn 120 năm, ghi dấu kiến trúc và lịch sử vùng Tây Đô. Được xây dựng từ cuối thế kỷ XIX (khoảng 1895) bởi ông Nguyễn Giác Nguyên, tiền thân là Nam Nhã Đường, nay trở thành di tích lịch sử - văn hoá. Chùa nằm bên sông Bình Thủy, đối diện đình Bình Thủy, với sân chùa rợp bóng cây, hồ nước, mái ngói cong và kết cấu hài hoà Hoa-Pháp-Việt. Đây là điểm đến phù hợp để tham quan, dâng hương và tìm khoảnh khắc yên bình giữa lòng thành phố.",
+  "description_en": "Nam Nha Pagoda is a historic temple over 120 years old, marking heritage architecture and history of Can Tho. Founded around 1895 by Nguyen Giac Nguyen and originally known as Nam Nha Duong, it is now recognized as a cultural-historical site. Situated by the Binh Thuy River opposite Binh Thuy Assembly Hall, the temple features shady grounds, a pond, curved roof-tiles and a unique blend of Chinese, French and Vietnamese architectural styles. Ideal for touring, prayer and tranquil moments in the midst of the city.",
+
+  "travel_tips_vi": [
+    "Đến sớm hoặc chiều để tránh đông và chụp ảnh đẹp",
+    "Trang phục nên kín đáo; giữ trật tự và yên lặng khi vào chánh điện",
+    "Có thể kết hợp cùng tham quan Đình Bình Thủy và nhà cổ Bình Thủy gần đó",
+    "Xe máy gửi phía ngoài sân chùa, khu vực trung tâm nên đi bộ tham quan"
+  ],
+  "travel_tips_en": [
+    "Visit early or late afternoon for fewer crowds & good photos",
+    "Dress modestly; remain quiet in main hall",
+    "Combine visit with Binh Thuy Assembly Hall and Binh Thuy Ancient House nearby",
+    "Park motorcycle outside temple grounds; city centre walkable"
+  ],
+
+  "nearby_places": [
+    "Đình Bình Thủy",
+    "Nhà cổ Bình Thủy",
+    "Bến Ninh Kiều",
+    "Chợ đêm Tây Đô"
+  ],
+
+  "recommended_itinerary_vi": "Theo tuyến: Khởi hành từ trung tâm → đến Chùa Nam Nhã khoảng 30-45 phút tham quan → đi bộ quanh hồ - sân chùa → dâng hương và nghỉ mát dưới bóng cây → tiếp tục đến Đình Bình Thủy hoặc bến Ninh Kiều tham quan buổi chiều.",
+  "recommended_itinerary_en": "Route: From city centre → arrive at Nam Nha Pagoda for 30-45 min tour → stroll around pond & gardens → incense offering and rest under old trees → continue to Binh Thuy Assembly Hall or Ninh Kieu Wharf for an afternoon stop.",
+  
+  "tags": [
+    "chùa cổ",
+    "kiến trúc hoa pháp việt",
+    "di tích quốc gia",
+    "tâm linh",
+    "Bình Thủy",
+    "sông Bình Thủy"
+  ],
+
+  "festivals": [
+    "Rằm tháng Giêng",
+    "Rằm tháng Bảy",
+    "Ngày lễ Phật Đản"
+  ],
+
+  "rating_summary": "Ngôi chùa cổ giữa lòng thành phố Cần Thơ, kiến trúc tinh tế và không gian thanh tịnh - rất phù hợp cho tham quan nhẹ và chiêm bái."
+} ,
+  {
+  "id": "dinh-binh-thuy",
+  "name_vi": "Đình Bình Thủy",
+  "name_en": "Binh Thuy Communal House",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 46/11A Lê Hồng Phong, Phường Bình Thủy, Quận Bình Thủy, TP. Cần Thơ",
+  "address_en": "46/11A Le Hong Phong Street, Binh Thuy Ward, Binh Thuy District, Can Tho City",
+
+  "opening_hours": "07:00 - 18:00 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Sáng sớm hoặc chiều mát; lễ Kỳ Yên Thượng Điền (tháng 4 âm lịch) hoặc Hạ Điền (tháng 12 âm lịch)",
+
+  "activities_vi": [
+    "Tham quan kiến trúc đình làng Nam Bộ",
+    "Chụp ảnh mái ngói âm-dương & phù điêu chạm khắc gỗ",
+    "Tìm hiểu lịch sử khai phá vùng đất Bình Thủy",
+    "Tham gia lễ hội: Kỳ Yên Thượng Điền, Hạ Điền (khi có)"
+  ],
+  "activities_en": [
+    "Visit traditional Nam Bo communal house architecture",
+    "Photography of yin-yang roof tiles & wood carvings",
+    "Learn history of land reclamation in Binh Thuy",
+    "Attend traditional festivals: Thuong Dien & Ha Dien (when held)"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình có trẻ nhỏ hoặc người lớn tuổi",
+    "Nhóm bạn/cặp đôi thích kiến trúc & văn hóa",
+    "Khách quốc tế muốn trải nghiệm di tích miền Tây",
+    "Người yêu lịch sử và tín ngưỡng bản địa"
+  ],
+  "suitable_for_en": [
+    "Families with kids or seniors",
+    "Couples/friends interested in architecture & culture",
+    "International travelers exploring Mekong Delta heritage",
+    "History & local belief enthusiasts"
+  ],
+
+  "description_vi": "Đình Bình Thủy (còn gọi “Long Tuyền Cổ Miếu”) là công trình kiến trúc hơn 180 năm tuổi tại quận Bình Thủy, Cần Thơ. Ngôi đình được xây dựng năm 1844, trùng tu chủ yếu năm 1909-1910, và được công nhận là Di tích kiến trúc-nghệ thuật cấp quốc gia vào năm 1989. Đình có vị trí ven sông Hậu, mái ngói âm-dương, chạm khắc gỗ tinh xảo và là trung tâm tín ngưỡng, lễ hội của cộng đồng địa phương. Điểm đến vừa có giá trị tâm linh, vừa mang nét kiến trúc cổ đặc sắc miền Tây Nam Bộ. :contentReference[oaicite:1]{index=1}",
+  "description_en": "Binh Thuy Communal House (also known as Long Tuyen Ancient Temple) is a heritage site over 180 years old in Binh Thuy District, Can Tho. Originally built in 1844 and largely rebuilt in 1909-1910, it was designated a National Architectural-Artistic Monument in 1989. Situated beside the Hau River, the house features yin-yang roof tiles, finely carved woodwork and serves as a cultural-spiritual hub for the local community. It is both a spiritual destination and a distinctive example of Southwest Vietnamese architecture. :contentReference[oaicite:2]{index=2}",
+
+  "travel_tips_vi": [
+    "Ghế sớm để tham quan khi trời còn mát và yên tĩnh",
+    "Trang phục kín đáo khi vào đình",
+    "Không dùng fly-cam hoặc bật đèn mạnh trong khu vực linh thiêng",
+    "Kết hợp tham quan nhà cổ Bình Thủy và vườn trái cây gần đó"
+  ],
+  "travel_tips_en": [
+    "Visit early for cool and quiet environment",
+    "Dress modestly when entering the communal house",
+    "Avoid drones or bright lights in sacred zone",
+    "Combine with Binh Thuy Ancient House and nearby fruit gardens"
+  ],
+
+  "nearby_places": [
+    "Nhà cổ Bình Thủy",
+    "Vườn trái cây Ba Cống",
+    "Chùa Nam Nhã",
+    "Cồn Ấu"
+  ],
+
+  "recommended_itinerary_vi": "Từ trung tâm Cần Thơ → đến Đình Bình Thủy (~15-20 phút) → tham quan 30-45 phút → đi bộ quanh sân đình & hồ bơi mini → tiếp tục tới Nhà cổ Bình Thủy hoặc vườn trái cây Ba Cống cho buổi chiều.",
+  "recommended_itinerary_en": "From Can Tho city centre → arrive at Binh Thuy Communal House (~15-20 mins) → 30-45 min visit → stroll the courtyard and small pond → continue to Binh Thuy Ancient House or Ba Cong Fruit Garden for the afternoon.",
+
+  "tags": [
+    "đình làng",
+    "kiến trúc Nam Bộ",
+    "di tích quốc gia",
+    "Bình Thủy",
+    "sông Hậu",
+    "lễ hội Kỳ Yên"
+  ],
+
+  "festivals": [
+    "Lễ Kỳ Yên Thượng Điền (12-14 tháng 4 âm lịch)",
+    "Lễ Kỳ Yên Hạ Điền (14 tháng 12 âm lịch)"
+  ]
+},
+  {
+  "id": "chua-phat-hoc",
+  "name_vi": "Chùa Phật Học",
+  "name_en": "Phat Hoc Pagoda",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 11 Đại Lộ Hòa Bình, Phường Tân An, Quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "No. 11 Hoa Binh Boulevard, Tan An Ward, Ninh Kieu District, Can Tho City",
+
+  "opening_hours": "08:00 - 22:00 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Sáng sớm hoặc chiều tối; dịp lễ Phật Đản, Vu Lan (tháng 4 âm, tháng 7 âm)",
+
+  "activities_vi": [
+    "Dâng hương và cầu an tại chánh điện",
+    "Tham quan kiến trúc tháp 5 tầng",
+    "Chụp ảnh cổng Tam Quan, mái ngói, tượng Phật A Di Đà",
+    "Tĩnh tâm trong khuôn viên giữa lòng thành phố",
+    "Tham gia lễ hội Phật giáo dịp lớn"
+  ],
+  "activities_en": [
+    "Incense offering & prayer at main hall",
+    "Visit the 5-storey pagoda tower",
+    "Photography of tam quan gate, curving roof tiles, Buddha statues",
+    "Meditate in tranquil inner courtyard in city centre",
+    "Join major Buddhist festivals"
+  ],
+
+  "suitable_for_vi": [
+    "Khách yêu kiến trúc và văn hóa tôn giáo",
+    "Khách hành hương & tìm không gian tâm linh",
+    "Gia đình hoặc nhóm bạn muốn điểm tham quan trung tâm thành phố",
+    "Khách quốc tế tìm hiểu Phật giáo Nam Bộ"
+  ],
+  "suitable_for_en": [
+    "Architecture & religion culture enthusiasts",
+    "Pilgrims & spiritual travelers",
+    "Families or friend-groups seeking city-center stop",
+    "International visitors exploring Southern Vietnamese Buddhism"
+  ],
+
+  "description_vi": "Chùa Phật Học nằm tại trung tâm TP. Cần Thơ, số 11 Đại Lộ Hòa Bình, phường Tân An, quận Ninh Kiều. Được xây dựng năm 1951 bởi Hội Phật Học Nam Việt và sau được trùng tu năm 2012-2014 thành tháp 5 tầng hiện đại. Tọa lạc đối diện chùa Khmer Munir Ansay và cách Bến Ninh Kiều khoảng 500m. Kiến trúc kết hợp hiện đại và truyền thống: mái ngói cong, tượng Phật lớn, cổng tam quan, khuôn viên cây xanh yên bình. Chùa vừa là điểm hành hương, vừa là điểm tham quan kiến trúc và văn hóa trong lòng thành phố Tây Đô. :contentReference[oaicite:1]{index=1}",
+  "description_en": "Phat Hoc Pagoda is located in the heart of Can Tho City at No. 11 Hoa Binh Boulevard, Tan An Ward, Ninh Kieu District. Founded in 1951 by the Southern Vietnam Buddhist Federation and rebuilt into a 5-storey tower during 2012-2014, it stands opposite Munir Ansay Khmer Pagoda and only about 500 m from Ninh Kieu Wharf. Its architecture combines traditional and modern elements: curved roof-tiles, large Buddha statues, tam quan gate, and a serene green courtyard. It serves as both a pilgrimage place and a cultural/architectural stop in the city centre. :contentReference[oaicite:2]{index=2}",
+
+  "travel_tips_vi": [
+    "Trang phục lịch sự, kín đáo khi vào chánh điện",
+    "Giữ yên lặng trong khuôn viên, không sử dụng fly-cam nếu chưa xin phép",
+    "Đi bộ từ Bến Ninh Kiều khoảng 5-10 phút rất thuận tiện",
+    "Nếu đi dịp lễ lớn nên tới sớm vì rất đông"
+  ],
+  "travel_tips_en": [
+    "Wear modest clothing when entering main hall",
+    "Keep quiet in the compound; drones may not be allowed",
+    "Walkable 5-10 mins from Ninh Kieu Wharf",
+    "Arrive early during major festivals due to crowds"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Chùa Munir Ansay",
+    "Chùa Ông",
+    "Chợ đêm Ninh Kiều"
+  ],
+
+  "recommended_itinerary_vi": "Khởi hành từ Bến Ninh Kiều → đi bộ đến Chùa Phật Học (30-60 phút tham quan) → dạo nhà hàng chay gần đó hoặc tiếp tục tới Chùa Ông hoặc Chợ đêm Ninh Kiều buổi tối.",
+  "recommended_itinerary_en": "Start at Ninh Kieu Wharf → walk to Phat Hoc Pagoda (30-60 mins visit) → vegetarian lunch nearby or continue to Ong Pagoda or Ninh Kieu Night Market for the evening.",
+
+  "tags": [
+    "chùa 5 tầng",
+    "phật giáo Nam Bộ",
+    "tâm linh Cần Thơ",
+    "kiến trúc hiện đại",
+    "Ninh Kiều"
+  ],
+
+  "festivals": [
+    "Lễ Phật Đản (8-4 âm lịch)",
+    "Lễ Vu Lan (15-7 âm lịch)",
+    "Ngày lễ trùng tu & kỷ niệm chùa"
+  ],
+
+  "rating_summary": "Ngôi chùa nổi bật giữa lòng Cần Thơ với kiến trúc 5 tầng hiện đại kết hợp không gian thanh tịnh - phù hợp tham quan, chiêm bái và chụp ảnh."
+},
+  {
+  "id": "chua-munir-ansay",
+  "name_vi": "Chùa Munir Ansay",
+  "name_en": "Munir Ansay Pagoda",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 36 Đại lộ Hòa Bình, Phường Tân An, Quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "36 Hoa Binh Boulevard, Tan An Ward, Ninh Kieu District, Can Tho City",
+
+  "opening_hours": "08:00 - 18:00 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Buổi sáng hoặc chiều mát; lễ hội Chôl Chnăm Thmây (tháng 4) & lễ Ok Om Bok (tháng 10 âm lịch)",
+
+  "activities_vi": [
+    "Tham quan chánh điện và khuôn viên chùa Khmer",
+    "Dâng hương và cầu an",
+    "Chụp ảnh kiến trúc Khmer vàng nổi bật",
+    "Tìm hiểu văn hóa Phật giáo Nam Tông Khmer",
+    "Tham dự lễ hội Khmer (nếu đi đúng dịp)"
+  ],
+  "activities_en": [
+    "Visit the main worship hall and Khmer courtyard",
+    "Incense offering & prayer",
+    "Photography with golden Khmer temple architecture",
+    "Learn about Southern Khmer Theravada Buddhism",
+    "Join Khmer festivals (seasonal)"
+  ],
+
+  "suitable_for_vi": [
+    "Người yêu kiến trúc & văn hóa Khmer",
+    "Khách hành hương, cầu bình an",
+    "Gia đình, nhóm bạn đi tham quan trung tâm",
+    "Khách quốc tế muốn trải nghiệm văn hóa Nam Bộ đa dạng"
+  ],
+  "suitable_for_en": [
+    "Architecture & culture lovers",
+    "Spiritual travelers",
+    "Families & friend groups sightseeing in the city center",
+    "International tourists exploring diverse Southern culture"
+  ],
+
+  "description_vi": "Chùa Munir Ansay, xây dựng năm 1948 và hoàn thiện năm 1988, là ngôi chùa Khmer tiêu biểu tại Cần Thơ với kiến trúc đậm chất Angkor: mái nhọn, họa tiết chạm khắc tinh xảo, gam vàng chủ đạo. Đây là trung tâm sinh hoạt tôn giáo của cộng đồng Khmer Nam Bộ, thờ Phật giáo Nam Tông. Tọa lạc ngay trung tâm Ninh Kiều, gần Bến Ninh Kiều và Chùa Phật Học, chùa là điểm dừng chân lý tưởng để khám phá văn hóa Khmer giữa lòng thành phố.",
+  "description_en": "Built in 1948 and completed in 1988, Munir Ansay Pagoda is a signature Khmer Buddhist temple in Can Tho, featuring Angkor-style pointed towers, intricate carvings, and dominant golden tones. It serves as a religious center for the Khmer community practicing Theravada Buddhism. Located in central Ninh Kieu near Ninh Kieu Wharf and Phat Hoc Pagoda, it’s a must-visit cultural landmark showcasing Khmer heritage in the Mekong Delta.",
+
+  "travel_tips_vi": [
+    "Ăn mặc lịch sự, không ồn ào trong khuôn viên chùa",
+    "Có thể kết hợp tham quan Chùa Phật Học đối diện",
+    "Nếu muốn xem lễ hội Khmer, nên đi tháng 4 hoặc tháng 10 âm lịch",
+    "Thích hợp đi lúc sáng sớm hoặc chiều để tránh nắng"
+  ],
+  "travel_tips_en": [
+    "Wear modest clothing and keep quiet inside the temple",
+    "Combine visit with Phat Hoc Pagoda right across the street",
+    "Visit in April or lunar October for Khmer festivals",
+    "Best time: morning or late afternoon to avoid heat"
+  ],
+
+  "nearby_places": [
+    "Chùa Phật Học",
+    "Bến Ninh Kiều",
+    "Chợ đêm Ninh Kiều",
+    "Chùa Ông",
+    "Công viên Bến Ninh Kiều"
+  ],
+
+  "recommended_itinerary_vi": "Xuất phát từ Bến Ninh Kiều → đi bộ đến Chùa Munir Ansay (30-45 phút tham quan) → sang Chùa Phật Học đối diện → dạo phố Hòa Bình hoặc chợ đêm Ninh Kiều buổi tối.",
+  "recommended_itinerary_en": "Start from Ninh Kieu Wharf → walk to Munir Ansay Pagoda (30-45 mins) → cross to Phat Hoc Pagoda → explore Hoa Binh Boulevard & Ninh Kieu Night Market."
+},
+  {
+  "id": "chua-quang-duc-can-tho",
+  "name_vi": "Chùa Quang Đức",
+  "name_en": "Quang Duc Pagoda",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 146 đường Mậu Thân, phường An Phú, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "146 Mau Than Street, An Phu Ward, Ninh Kieu District, Can Tho City",
+
+  "opening_hours": "06:00 - 20:30 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Buổi sáng hoặc chiều mát; dịp lễ Phật Đản, Vu Lan",
+
+  "activities_vi": [
+    "Tham quan kiến trúc chùa Nam Tông",
+    "Dâng hương, cầu bình an",
+    "Ngồi thiền, tìm không gian tĩnh lặng",
+    "Chụp ảnh kiến trúc và tượng Phật",
+    "Tham dự lễ Phật giáo (nếu trùng thời điểm)"
+  ],
+  "activities_en": [
+    "Explore Theravada Buddhist architecture",
+    "Offer incense and pray",
+    "Meditation and quiet relaxation",
+    "Photography of temple hall and statues",
+    "Join Buddhist ceremonies (if available)"
+  ],
+
+  "suitable_for_vi": [
+    "Người yêu văn hóa Phật giáo",
+    "Khách hành hương, cầu bình an",
+    "Gia đình đi tham quan trung tâm thành phố",
+    "Khách quốc tế thích tìm hiểu Phật giáo Nam Tông"
+  ],
+  "suitable_for_en": [
+    "Buddhism & culture enthusiasts",
+    "Spiritual travelers",
+    "Families sightseeing in city center",
+    "International visitors interested in Theravada Buddhism"
+  ],
+
+  "description_vi": "Chùa Quang Đức là một ngôi chùa Phật giáo Nam Tông tiêu biểu tại Cần Thơ, thành lập năm 1958 và trùng tu vào năm 2006. Chùa mang kiến trúc đậm chất chùa Nam Bộ với mái cong, cột sơn son thếp vàng, tượng rồng - phượng và bảo tháp uy nghi. Dù nằm trên trục đường sầm uất Mậu Thân, không gian chùa vẫn thanh tịnh, thích hợp cho du khách ghé thăm chiêm bái, cầu an và tìm sự an yên giữa nhịp sống đô thị.",
+  "description_en": "Quang Duc Pagoda is a notable Theravada Buddhist temple in Can Tho, established in 1958 and renovated in 2006. The pagoda features traditional Southern Vietnamese Buddhist architecture with curved roofs, golden pillars, dragon motifs, and a prominent stupa. Located on busy Mau Than Street, it remains a peaceful sanctuary where visitors can pray, meditate, and explore local Buddhist culture."
+
+  ,
+  "travel_tips_vi": [
+    "Ăn mặc lịch sự, giữ yên lặng trong chánh điện",
+    "Nên đi buổi sáng sớm để cảm nhận không gian thiền tĩnh",
+    "Hỏi trước nếu muốn tham dự lễ hoặc thiền tập",
+    "Tránh chụp ảnh người đang hành lễ quá gần"
+  ],
+  "travel_tips_en": [
+    "Wear modest clothing, keep quiet inside main hall",
+    "Morning is the best time for a peaceful visit",
+    "Ask beforehand if attending prayers or meditation",
+    "Avoid photographing worshippers up close"
+  ],
+
+  "nearby_places": [
+    "Chùa Khánh Quang",
+    "Chợ An Bình",
+    "Trung tâm thương mại Mậu Thân",
+    "Chùa Phật Học",
+    "Bến Ninh Kiều (khoảng 2.5km)"
+  ],
+
+  "recommended_itinerary_vi": "Di chuyển từ trung tâm Ninh Kiều → ghé Chùa Quang Đức chiêm bái (30-45 phút) → tiếp tục tham quan Chùa Phật Học hoặc Bến Ninh Kiều.",
+  "recommended_itinerary_en": "Start from Ninh Kieu area → visit Quang Duc Pagoda (30-45 mins) → continue to Phat Hoc Pagoda or Ninh Kieu Wharf."
+},
+  {
+  "id": "chua-hoi-linh",
+  "name_vi": "Chùa Hội Linh (Hội Linh Cổ Tự)",
+  "name_en": "Hoi Linh Pagoda (Hoi Linh Ancient Temple)",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 314/36 đường Cách Mạng Tháng Tám, Phường Bùi Hữu Nghĩa, Quận Bình Thủy, TP. Cần Thơ",
+  "address_en": "314/36 Cach Mang Thang 8 Street, Bui Huu Nghia Ward, Binh Thuy District, Can Tho City",
+
+  "opening_hours": "06:00 - 17:00 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Sáng sớm hoặc cuối chiều; dịp lễ Kỳ Yên hoặc lễ xuân chùa",
+
+  "activities_vi": [
+    "Tham quan kiến trúc chùa cổ hơn 100 năm",
+    "Dâng hương, cầu an trong không gian yên tĩnh",
+    "Chụp ảnh mái ngói âm-dương, cổng tam quan, ao sen",
+    "Tìm hiểu lịch sử chùa - nơi từng làm căn cứ cách mạng",
+    "Đi bộ quanh sân đình, vườn cây trong khuôn viên rộng ~6.500 m²"
+  ],
+  "activities_en": [
+    "Explore century-old temple architecture",
+    "Offer incense and prayer in tranquil surroundings",
+    "Photography of yin-yang roof tiles, tam quan gate, lotus pond",
+    "Learn history - temple served as resistance base",
+    "Stroll in grounds of about 6,500 m² with garden and trees"
+  ],
+
+  "suitable_for_vi": [
+    "Người yêu kiến trúc cổ và văn hóa truyền thống",
+    "Khách tâm linh muốn chốn dâng hương yên tĩnh",
+    "Gia đình hoặc nhóm bạn muốn điểm tham quan nhẹ nhàng gần trung tâm",
+    "Khách quốc tế muốn tìm hiểu lịch sử & tín ngưỡng miền Tây"
+  ],
+  "suitable_for_en": [
+    "Architecture and cultural heritage enthusiasts",
+    "Spiritual travellers seeking peaceful temple visit",
+    "Families or friend groups looking for light city-centre stop",
+    "International visitors interested in Mekong Delta history & beliefs"
+  ],
+
+  "description_vi": "Chùa Hội Linh, còn gọi Hội Linh Cổ Tự, được khởi lập năm 1907 (âm lịch) và tọa lạc tại phường Bùi Hữu Nghĩa, quận Bình Thủy. Về sau chùa được tu bổ nhiều lần và là di tích lịch sử văn hóa cấp quốc gia (1993) - đồng thời từng là cơ sở cách mạng trong thời kháng chiến. Khuôn viên rộng khoảng 6.500 m², kiến trúc mái ngói âm-dương, cổng tam quan, ao sen, vườn cây, mang lại không gian thanh tịnh giữa đô thị.",
+  "description_en": "Hoi Linh Pagoda, also known as Hoi Linh Ancient Temple, was established in 1907 and is located in Bui Huu Nghia Ward, Binh Thuy District. Later restored several times, it is listed as a national historical-cultural monument (since 1993) and served as a resistance base during wartime. Covering about 6,500 m², the site features yin-yang roof tiles, tam quan gate, lotus pond and garden trees offering a peaceful sanctuary in the city.",
+
+  "travel_tips_vi": [
+    "Đi bộ dễ dàng từ trung tâm, gửi xe ngoài hẻm nhỏ",
+    "Mang theo mũ/nón vì khuôn viên có nhiều cây nhưng vẫn hứng nắng sáng",
+    "Giữ yên tĩnh, không bật flash chụp ảnh trong chánh điện",
+    "Nên ghé vào sáng sớm hoặc chiều muộn để tránh đông khách"
+  ],
+  "travel_tips_en": [
+    "Walkable from city centre; park bike outside alley",
+    "Bring hat because some open areas get sun",
+    "Keep quiet; avoid flash photography in main hall",
+    "Visit early morning or late afternoon to avoid crowds"
+  ],
+
+  "nearby_places": [
+    "Vườn trái cây Ba Cống",
+    "Nhà cổ Bình Thủy",
+    "Chùa Nam Nhã",
+    "Chùa Quang Đức"
+  ],
+
+  "recommended_itinerary_vi": "Từ trung tâm Cần Thơ → tới Chùa Hội Linh (~20 phút) → tham quan 30-45 phút → đi bộ tới Nhà cổ Bình Thủy hoặc Vườn trái cây Ba Cống cho buổi chiều.",
+  "recommended_itinerary_en": "From Can Tho city centre → arrive at Hoi Linh Pagoda (~20 mins) → 30-45 min visit → walk or ride to Binh Thuy Ancient House or Ba Cong Fruit Garden for afternoon.",
+
+  "tags": [
+    "chùa cổ",
+    "di tích cấp quốc gia",
+    "kiến trúc Nam Bộ",
+    "Bình Thủy",
+    "tâm linh",
+    "lịch sử cách mạng"
+  ],
+
+  "festivals": [
+    "Lễ Kỳ Yên Thượng Điền (12-14 tháng 4 âm lịch)",
+    "Giao thừa & lễ vía chư Phật (Rằm tháng Giêng)"
+  ],
+
+  "rating_summary": "Điểm tham quan kết hợp giữa kiến trúc chùa cổ, lịch sử kháng chiến và không gian tâm linh yên tĩnh - phù hợp cho cả người thích lịch sử, gia đình và khách muốn tìm chốn thư giãn."
+},
+  {
+  "id": "chua-pitu-khosa-rangsay",
+  "name_vi": "Chùa Pitu Khôsa Răngsây (tên gọi khác: Chùa Viễn Quang)",
+  "name_en": "Pitu Khôsa Rangsay Pagoda (Viễn Quang Pagoda)",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 27/18 đường Mạc Đĩnh Chi, Phường An Cư, Quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "27/18 Mac Dinh Chi Street, An Cu Ward, Ninh Kieu District, Can Tho City",
+
+  "opening_hours": "07:00 - 19:00 hàng ngày",
+  "ticket_price": "Miễn phí (đóng góp tự nguyện được khuyến khích)",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Buổi sáng hoặc chiều; dịp lễ Khmer như Chôl Chnăm Thmây (tháng 4 âm) & Ok Om Bók (tháng 10 âm) hoặc lễ Sene Đôn-ta (tháng 8 âm) tại chùa. :contentReference[oaicite:1]{index=1}",
+
+  "activities_vi": [
+    "Tham quan kiến trúc chùa Khmer - ba tầng lầu, mái cong kiểu Angkor",
+    "Dâng hương, cầu bình an trong nghi lễ Khmer",
+    "Chụp ảnh hoa văn rồng, chim Thần Krud, phù điêu chạm khắc tinh xảo",
+    "Tìm hiểu lịch sử chùa - nơi tu học, cộng đồng Khmer và kháng chiến",
+    "Tham dự lễ hội Khmer (nếu thời điểm trùng) như Sene Đôn-ta, Chol Chnam Thmay"
+  ],
+  "activities_en": [
+    "Explore Khmer temple architecture - three floors, Angkor-style roofs",
+    "Incense offering & prayer during Khmer rituals",
+    "Photography of dragon motifs, divine bird Krud, intricate bas-reliefs",
+    "Learn temple history - Khmer community, war-time refuge",
+    "Join Khmer festivals if visiting at festival time"
+  ],
+
+  "suitable_for_vi": [
+    "Người yêu thích văn hóa & kiến trúc Khmer",
+    "Khách hành hương / tâm linh muốn trải nghiệm Nam Tông Khmer",
+    "Gia đình hoặc nhóm bạn muốn tham quan trung tâm thành phố",
+    "Khách quốc tế muốn tìm hiểu đa văn hóa Nam Bộ - Việt-Hoa-Khmer"
+  ],
+  "suitable_for_en": [
+    "Architecture & Khmer culture enthusiasts",
+    "Spiritual travellers exploring Theravada Khmer Buddhism",
+    "Families or friends sightseeing in city centre",
+    "International visitors experiencing multi-ethnic Southern Vietnam"
+  ],
+
+  "description_vi": "Chùa Pitu Khôsa Răngsây (chùa Viễn Quang) là ngôi chùa Khmer Nam Bộ nổi bật tại Cần Thơ, được xây dựng năm 1948 bởi Thượng tọa Sơn Tây, tọa lạc tại 27/18 Mạc Đĩnh Chi, An Cư, Ninh Kiều. Chùa sở hữu kiến trúc ba tầng lầu, mái cong kiểu Angkor, được trùng tu lớn từ 2008 đến 2012. Kiến trúc chùa nổi bật với hoa văn rồng, chim Thần Krud, phù điêu nữ thần Tép-pa-nom, phù điêu thần Hanuman… :contentReference[oaicite:2]{index=2} Chùa cũng là nơi lưu giữ các thư tịch cổ, bộ sách lá buông hàng trăm năm tuổi của cộng đồng Khmer. :contentReference[oaicite:3]{index=3} Nằm ngay trung tâm thành phố Cần Thơ, chùa là điểm đến lý tưởng cho hành hương, tham quan văn hóa và chụp ảnh kiến trúc.",
+  "description_en": "Pitu Khôsa Rangsay Pagoda (also known as Viễn Quang Pagoda) is a prominent Khmer Theravada Buddhist temple in Can Tho, built in 1948 and located at 27/18 Mac Dinh Chi Street, An Cu Ward, Ninh Kieu District. :contentReference[oaicite:4]{index=4} The temple features a striking three-storey Angkor-style architecture with ornate carvings of dragons, the sacred bird Krud, goddess Tép-pa-nom, and Hanuman motifs. :contentReference[oaicite:5]{index=5} It underwent major renovation from 2008 to 2012 and houses ancient palm-leaf manuscripts considered treasures of the Khmer community. :contentReference[oaicite:6]{index=6} Located in the heart of Can Tho City, it is an ideal destination for pilgrimage, cultural exploration and architectural photography.",
+
+  "travel_tips_vi": [
+    "Trang phục kín đáo, phù hợp khi vào chánh điện",
+    "Giữ yên lặng trong khu vực thờ, không bật đèn flash hoặc fly-cam khi chưa xin phép",
+    "Nếu đi đúng lễ Khmer (Chôl Chnăm Thmây, Ok Om Bók, Sene Đôn-ta) sẽ thấy không khí rất đặc sắc",
+    "Nên đến sáng sớm hoặc chiều mát để có ánh sáng đẹp và tránh đông"
+  ],
+  "travel_tips_en": [
+    "Wear modest clothes when entering main hall",
+    "Stay quiet; avoid flash or drones without permission",
+    "Visiting during Khmer festivals (Khmer New Year, Ok Om Bok, Sene Don-ta) offers richer experience",
+    "Morning or late afternoon visits provide good light and fewer crowds"
+  ],
+
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Chùa Phật Học",
+    "Chùa Quang Đức",
+    "Chợ đêm Ninh Kiều",
+    "Khách sạn Sheraton Cần Thơ"
+  ],
+
+  "recommended_itinerary_vi": "Từ trung tâm Cần Thơ → Chùa Pitu Khôsa Răngsây (~30 phút tham quan) → tiếp tục tới Bến Ninh Kiều hoặc Chùa Phật Học → chiều dạo chợ đêm Ninh Kiều.",
+  "recommended_itinerary_en": "From central Can Tho → visit Pitu Khôsa Rangsay Pagoda (~30 mins) → continue to Ninh Kieu Wharf or Phat Hoc Pagoda → evening stroll at Ninh Kieu Night Market.",
+
+  "tags": [
+    "chùa khmer",
+    "Nam Tông Khmer",
+    "kiến trúc Angkor",
+    "Cần Thơ trung tâm",
+    "thư tịch cổ",
+    "lễ hội Khmer"
+  ],
+
+  "festivals": [
+    "Chôl Chnăm Thmây (12-15 tháng 4 âm lịch)",
+    "Sene Đôn-ta / Kanh Ben (16-30 tháng 8 âm lịch) :contentReference[oaicite:7]{index=7}",
+    "Ok Om Bók (15 tháng 10 âm lịch)"
+  ],
+
+  "rating_summary": "Một trong những ngôi chùa Khmer đẹp nhất miền Tây - kiến trúc rực rỡ, lịch sử phong phú và nằm ngay trung tâm Cần Thơ. Rất phù hợp cho hành hương, tìm hiểu văn hóa hoặc chụp ảnh."
+},
+  {
+  "id": "thoi-long-co-tu",
+  "name_vi": "Thới Long Cổ Tự",
+  "name_en": "Thoi Long Ancient Pagoda",
+  "category_vi": "Du lịch văn hóa tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+
+  "address_vi": "Số 120 đường Hùng Vương, phường An Cư, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "120 Hung Vuong Street, An Cu Ward, Ninh Kieu District, Can Tho City",
+
+  "opening_hours": "07:00 - 18:00 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 - 60 phút",
+  "best_time_to_visit": "Buổi sáng (8:00 - 10:00) hoặc chiều mát; dịp lễ Vu Lan & Rằm tháng Giêng",
+
+  "activities_vi": [
+    "Tham quan kiến trúc cổ mang dấu ấn Nam Bộ",
+    "Dâng hương, cầu an, tĩnh tâm",
+    "Chụp ảnh chánh điện, tượng Phật, tiểu cảnh sân chùa",
+    "Tìm hiểu lịch sử hình thành và vai trò chùa trong đời sống người dân địa phương"
+  ],
+  "activities_en": [
+    "Explore Southern Vietnamese ancient Buddhist architecture",
+    "Offer incense, pray and meditate",
+    "Photography of pagoda grounds and statues",
+    "Learn the cultural and spiritual significance of the pagoda"
+  ],
+
+  "suitable_for_vi": [
+    "Người yêu văn hóa - lịch sử",
+    "Khách hành hương - tâm linh",
+    "Gia đình và người lớn tuổi",
+    "Khách quốc tế muốn trải nghiệm Phật giáo Nam Bộ",
+    "Khách thích check-in kiến trúc cổ"
+  ],
+  "suitable_for_en": [
+    "Culture & history enthusiasts",
+    "Spiritual travelers",
+    "Families & elders",
+    "International tourists exploring Southern Buddhism",
+    "Travelers interested in traditional architecture"
+  ],
+
+  "description_vi": "Thới Long Cổ Tự là một trong những ngôi chùa lâu đời tại Cần Thơ, được xây dựng từ thế kỷ XIX với phong cách kiến trúc Nam Bộ đặc trưng. Chùa nổi bật với tông vàng rực rỡ, mái ngói cong, họa tiết rồng phượng và không gian thanh tịnh giữa khu vực trung tâm Ninh Kiều. Đây là địa điểm lý tưởng để tìm sự an yên, khám phá kiến trúc cổ và tìm hiểu đời sống Phật giáo bình dị của người dân Tây Đô.",
+  "description_en": "Thoi Long Ancient Pagoda is one of the oldest temples in Can Tho, built in the 19th century with traditional Southern Vietnamese Buddhist architecture. Featuring golden tones, curved tiled roofs and dragon-phoenix carvings, the temple offers a peaceful spiritual space in the busy city center. It is an ideal stop for serenity, cultural exploration, and learning about local Buddhist practices in the Mekong Delta.",
+
+  "travel_tips_vi": [
+    "Mặc trang phục lịch sự khi vào chánh điện",
+    "Giữ trật tự, không chụp ảnh khu vực thờ cúng khi có nghi lễ",
+    "Không xả rác, giữ môi trường tôn nghiêm",
+    "Đi buổi sáng hoặc chiều mát để có ánh sáng đẹp"
+  ],
+  "travel_tips_en": [
+    "Wear modest clothing when entering worship areas",
+    "Keep quiet; avoid photography during prayer sessions",
+    "Respect sacred spaces and keep the environment clean",
+    "Visit in the morning or late afternoon for best lighting"
+  ],
+
+  "nearby_places": [
+    "Chùa Quang Đức",
+    "Chùa Pitu Khôsa Răngsây",
+    "Chùa Phật Học",
+    "Bến Ninh Kiều",
+    "Chợ đêm Ninh Kiều"
+  ],
+
+  "recommended_itinerary_vi": "Xuất phát từ trung tâm Ninh Kiều → Thới Long Cổ Tự → Chùa Quang Đức → Chùa Pitu Khôsa Răngsây → Bến Ninh Kiều/Chợ đêm",
+  "recommended_itinerary_en": "Start from Ninh Kieu center → Thoi Long Ancient Pagoda → Quang Duc Pagoda → Pitu Khosa Rangsay Pagoda → Ninh Kieu Wharf/Night Market",
+
+  "tags": [
+    "chùa cổ",
+    "tâm linh",
+    "kiến trúc Nam Bộ",
+    "Cần Thơ",
+    "văn hóa Phật giáo",
+    "Ninh Kiều"
+  ]
+},
+  {
+  "id": "cho-noi-cai-rang",
+  "name_vi": "Chợ nổi Cái Răng",
+  "name_en": "Cai Rang Floating Market",
+
+  "category_vi": "Du lịch sông nước & văn hóa",
+  "category_en": "River & Cultural Experience",
+
+  "address_vi": "Trên sông Cần Thơ (nhánh sông Hậu), phường Lê Bình, quận Cái Răng, TP. Cần Thơ",
+  "address_en": "Can Tho River (Hau River tributary), Le Binh Ward, Cai Rang District, Can Tho City",
+
+  "opening_hours": "04:00 - 08:30 sáng (nhộn nhịp nhất từ 05:30 - 07:30)",
+  "ticket_price": "Thuê thuyền 150.000 - 300.000 VNĐ/đò (nhóm 4-10 người) hoặc 30.000 - 60.000 VNĐ/người đi ghép",
+  "visit_duration": "2 - 3 giờ",
+  "best_time_to_visit": "Bình minh (05:00 - 07:00), dịp lễ hội Tết Đoan Ngọ & Tết Nguyên Đán",
+
+  "activities_vi": [
+    "Đi thuyền khám phá chợ nổi",
+    "Thưởng thức bún riêu, hủ tiếu, cà phê trên ghe",
+    "Xem 'cây bẹo' - cách treo hàng hoá truyền thống",
+    "Chụp ảnh bình minh trên sông",
+    "Ghé lò hủ tiếu Cái Răng xem làm và thử ăn",
+    "Tương tác với thương hồ và trải nghiệm văn hóa sông nước"
+  ],
+  "activities_en": [
+    "Boat tour through the floating market",
+    "Enjoy noodle soup and coffee served on boats",
+    "See fruit-selling boats and the 'hanging pole' market signal system",
+    "Photograph sunrise views on the river",
+    "Visit traditional rice noodle factory",
+    "Experience authentic Mekong Delta river life"
+  ],
+
+  "suitable_for_vi": [
+    "Du khách yêu văn hóa miền Tây",
+    "Người thích trải nghiệm đời sống bản địa",
+    "Gia đình, cặp đôi, nhóm bạn",
+    "Nhiếp ảnh gia",
+    "Khách quốc tế muốn khám phá sông nước"
+  ],
+  "suitable_for_en": [
+    "Cultural travelers",
+    "Families & couples",
+    "Group travelers",
+    "Photographers",
+    "International visitors seeking authentic river life"
+  ],
+
+  "description_vi": "Chợ nổi Cái Răng là biểu tượng văn hóa đặc trưng của miền Tây Nam Bộ và là một trong những chợ nổi lớn nhất Việt Nam. Nơi đây diễn ra hoạt động buôn bán nông sản, trái cây, thực phẩm ngay trên thuyền - phản ánh lối sống sông nước đã tồn tại hàng trăm năm. Ghé chợ lúc bình minh, du khách có thể thưởng thức ly cà phê nóng, tô hủ tiếu nghi ngút khói và ngắm dòng người trên sông tạo nên khung cảnh sống động, mộc mạc nhưng đầy chất thơ.",
+  "description_en": "Cai Rang Floating Market is one of the largest and most iconic floating markets in Vietnam, showcasing the authentic river-based lifestyle of the Mekong Delta. Boats gather at dawn to trade fruits and local goods, creating a lively and unique scene. Visitors can enjoy noodle soup and coffee served directly from small boats, observe traditional trading methods, and capture the stunning sunrise over the river.",
+
+  "travel_tips_vi": [
+    "Đi càng sớm càng đẹp - khoảng 05:00 là lý tưởng",
+    "Mang áo khoác mỏng, chống nắng, chống nước cho điện thoại",
+    "Ưu tiên đi ghe nhỏ để len lỏi dễ hơn",
+    "Không nên trả giá quá thấp để tôn trọng người dân buôn bán",
+    "Nên đặt tour kèm thăm lò hủ tiếu và vườn trái cây"
+  ],
+  "travel_tips_en": [
+    "Arrive early (around 5:00 AM) for sunrise and busiest activity",
+    "Bring light jacket and waterproof phone cover",
+    "Small boats offer better access to narrow waterways",
+    "Support local sellers — avoid excessive bargaining",
+    "Combine trip with rice noodle workshop visit"
+  ],
+
+  "nearby_places": [
+    "Lò hủ tiếu Cái Răng",
+    "Bến Ninh Kiều",
+    "Cầu Cần Thơ",
+    "Chợ Cần Thơ",
+    "Cồn Sơn"
+  ],
+
+  "recommended_itinerary_vi": "05:00 xuất phát từ Bến Ninh Kiều → 05:30 tới chợ nổi Cái Răng → Ăn sáng trên thuyền → Thăm lò hủ tiếu → Ghé vườn trái cây/nhà vườn → Trở lại bến ~08:30",
+  "recommended_itinerary_en": "Depart from Ninh Kieu Wharf at 5:00 AM → Arrive market at 5:30 → Breakfast on boat → Visit rice noodle factory → Optional fruit garden visit → Return around 8:30 AM",
+
+  "tags": [
+    "floating market",
+    "mekong delta",
+    "river life",
+    "street food",
+    "cultural experience",
+    "Can Tho"
+  ]
+},
+  {
+  "id": "ben-ninh-kieu",
+  "name_vi": "Bến Ninh Kiều",
+  "name_en": "Ninh Kieu Wharf",
+
+  "category_vi": "Điểm tham quan - Sông nước - Biểu tượng Cần Thơ",
+  "category_en": "Landmark - Riverside attraction",
+
+  "address_vi": "Phường Tân An, quận Ninh Kiều, TP. Cần Thơ (ngay nơi giao nhau giữa sông Hậu và sông Cần Thơ)",
+  "address_en": "Tan An Ward, Ninh Kieu District, Can Tho City (at the confluence of Hau River & Can Tho River)",
+
+  "opening_hours": "Mở cửa tự do, đẹp nhất từ 16:00 - 22:00",
+  "ticket_price": "Miễn phí (tàu du ngoạn sông giá từ 80.000 - 150.000 VNĐ/người)",
+  "visit_duration": "1 - 2 giờ",
+  "best_time_to_visit": "Chiều tối (hoàng hôn và buổi tối có ánh đèn lung linh)",
+
+  "activities_vi": [
+    "Dạo công viên ven sông và chụp ảnh",
+    "Đi thuyền/du thuyền ngắm sông Hậu ban đêm",
+    "Thưởng thức ẩm thực đường phố và cà phê ven sông",
+    "Tham quan Cầu Tình Yêu & Tượng Bác Hồ",
+    "Check-in tại bến tàu và khu phố đi bộ"
+  ],
+  "activities_en": [
+    "Stroll along the riverside park and take photos",
+    "Take a river cruise along Hau River at night",
+    "Enjoy street food and riverside cafes",
+    "Visit Love Bridge & Ho Chi Minh Statue",
+    "Explore the walking street and night atmosphere"
+  ],
+
+  "suitable_for_vi": [
+    "Gia đình và nhóm bạn muốn dạo chơi, thư giãn",
+    "Cặp đôi thích không gian lãng mạn buổi tối",
+    "Khách du lịch lần đầu đến Cần Thơ",
+    "Du khách quốc tế muốn trải nghiệm văn hoá sông nước"
+  ],
+  "suitable_for_en": [
+    "Families and friend groups",
+    "Couples (romantic night view)",
+    "First-time Can Tho visitors",
+    "International travelers seeking river culture experience"
+  ],
+
+  "description_vi": "Bến Ninh Kiều là biểu tượng du lịch nổi tiếng nhất của Cần Thơ, nằm ngay trung tâm thành phố bên dòng sông Hậu thơ mộng. Không gian bờ kè rộng rãi, công viên cây xanh, tượng Bác Hồ, cầu đi bộ Ninh Kiều và bến tàu tạo nên điểm check-in không thể bỏ qua. Về đêm, Bến Ninh Kiều trở nên rực rỡ với ánh đèn lung linh, nhà hàng du thuyền, nhạc sống và không khí sông nước lãng mạn. Đây là nơi lý tưởng để cảm nhận nhịp sống Cần Thơ hiện đại nhưng vẫn đậm chất miền Tây.",
+  
+  "description_en": "Ninh Kieu Wharf is the most iconic landmark of Can Tho, located in the city center along the poetic Hau River. The riverside park, statue of Ho Chi Minh, pedestrian bridge, and boat pier create a lively urban riverside scene. At night, the area lights up with river cruises, live music, street food, and romantic river views — a must-visit place to experience the spirit of the Mekong Delta."
+
+  ,
+  "travel_tips_vi": [
+    "Nên đi buổi chiều để ngắm hoàng hôn",
+    "Mang theo tripod hoặc điện thoại chụp đêm đẹp",
+    "Tránh giờ cao điểm cuối tuần nếu không thích đông đúc",
+    "Có thể kết hợp đi du thuyền nghe đờn ca tài tử"
+  ],
+  "travel_tips_en": [
+    "Visit during sunset for the best view",
+    "Bring tripod or good phone for night photos",
+    "Avoid weekend evening crowds if you prefer quiet",
+    "Try river cruise with traditional music"
+  ],
+
+  "nearby_places": [
+    "Chợ đêm Ninh Kiều",
+    "Cầu đi bộ Ninh Kiều",
+    "Đền thờ Vua Hùng Cần Thơ",
+    "Bảo tàng Cần Thơ",
+    "Chợ Cần Thơ"
+  ],
+
+  "recommended_itinerary_vi": "16:30 dạo công viên + chụp hoàng hôn → 18:00 ăn tối/ăn vặt ven sông → 19:00 đi du thuyền sông Hậu → 20:30 dạo phố đi bộ & chợ đêm",
+  "recommended_itinerary_en": "4:30 PM walk & sunset → 6:00 PM riverside dinner → 7:00 PM river cruise → 8:30 PM explore walking street & night market",
+
+  "tags": [
+    "riverside",
+    "nightlife",
+    "iconic spot",
+    "cruise",
+    "street food",
+    "Can Tho"
+  ]
+},
+  {
+  "id": "nha-co-binh-thuy",
+  "name_vi": "Nhà cổ Bình Thủy",
+  "name_en": "Binh Thuy Ancient House",
+
+  "category_vi": "Du lịch tham quan - Kiến trúc - Văn hóa lịch sử",
+  "category_en": "Cultural & Historical Architecture",
+
+  "address_vi": "142/144 đường Bùi Hữu Nghĩa, phường Bình Thủy, quận Bình Thủy, TP. Cần Thơ",
+  "address_en": "142/144 Bui Huu Nghia Street, Binh Thuy Ward, Binh Thuy District, Can Tho City",
+
+  "opening_hours": "08:00 - 12:00 & 14:00 - 18:00",
+  "ticket_price": "15.000 VNĐ/người lớn (trẻ em có thể miễn phí hoặc giá thấp hơn)",
+  "visit_duration": "45 - 90 phút",
+  "best_time_to_visit": "Buổi sáng hoặc buổi chiều mát; sáng nắng đẹp để chụp ảnh vườn lan",
+
+  "activities_vi": [
+    "Tham quan kiến trúc nhà cổ kiểu Đông - Tây",
+    "Tìm hiểu lịch sử gia tộc họ Dương",
+    "Thưởng lãm vườn lan và cây cảnh",
+    "Chụp ảnh phong cách cổ điển",
+    "Tìm hiểu các bối cảnh phim từng quay tại đây"
+  ],
+  "activities_en": [
+    "Explore East-West architectural fusion",
+    "Learn about Duong family history",
+    "Visit the orchid garden",
+    "Vintage photography",
+    "See locations used in movies/TV scenes"
+  ],
+
+  "suitable_for_vi": [
+    "Người yêu thích kiến trúc & lịch sử",
+    "Gia đình muốn tham quan nhẹ nhàng",
+    "Người thích chụp ảnh - phong cách cổ điển, hoài niệm",
+    "Du khách quốc tế muốn tìm hiểu văn hóa Nam Bộ"
+  ],
+  "suitable_for_en": [
+    "Architecture & history lovers",
+    "Families seeking light cultural visits",
+    "Photography enthusiasts",
+    "International travelers exploring Mekong culture"
+  ],
+
+  "description_vi": "Nhà cổ Bình Thủy được xây dựng vào năm 1870 bởi gia tộc họ Dương - một trong những dinh thự cổ nổi tiếng nhất miền Tây. Công trình mang kiến trúc giao thoa Pháp - Hoa - Việt, với mặt tiền kiểu biệt thự Pháp, nội thất gỗ truyền thống, cửa vòm, gạch bông cổ và vườn lan quý. Đây là nơi tái hiện không gian sống của tầng lớp điền chủ Nam Bộ xưa và từng xuất hiện trong nhiều bộ phim, trong đó nổi bật là 'Người tình' (L’Amant). Không gian đậm chất hoài cổ, thanh bình, thích hợp cho những ai yêu lịch sử và nghệ thuật.",
+  
+  "description_en": "Binh Thuy Ancient House was built in 1870 by the Duong family and is one of the most iconic heritage mansions in the Mekong Delta. It combines French colonial façade with traditional Vietnamese and Chinese interior elements, featuring carved wood, antique tiles, and an orchid garden. The house preserves the lifestyle of wealthy southern Vietnamese landowners and has been featured in several films, including 'The Lover' (L’Amant). A peaceful and nostalgic destination ideal for culture and architecture enthusiasts.",
+
+  "travel_tips_vi": [
+    "Nên đi buổi sáng hoặc chiều để ánh sáng đẹp chụp hình",
+    "Tôn trọng không gian di sản - tránh chạm vào đồ cổ",
+    "Có thể nhờ chủ nhà kể lịch sử gia tộc",
+    "Mang tiền mặt vì vé vào không nhận thẻ"
+  ],
+  "travel_tips_en": [
+    "Best to visit in the morning or sunset for photography",
+    "Avoid touching antiques - respect the heritage site",
+    "Ask caretakers for historical stories if available",
+    "Bring cash for ticket payment"
+  ],
+
+  "nearby_places": [
+    "Đình Bình Thủy",
+    "Chùa Nam Nhã",
+    "Bến Ninh Kiều (khoảng 10 phút lái xe)",
+    "Chợ cổ Cần Thơ"
+  ],
+
+  "recommended_itinerary_vi": "08:30 tham quan nhà cổ → nghe giới thiệu lịch sử → 09:15 chụp ảnh và dạo vườn lan → 10:00 di chuyển sang Đình Bình Thuỷ & Chùa Nam Nhã gần đó",
+  "recommended_itinerary_en": "8:30 AM explore the house → 9:15 AM photography & orchid garden → 10:00 AM visit nearby Binh Thuy Temple & Nam Nha Pagoda",
+
+  "tags": [
+    "ancient house",
+    "heritage",
+    "architecture",
+    "film location",
+    "cultural site",
+    "Can Tho"
+  ]
+},
+  {
+  "id": "bao-tang-thanh-pho-can-tho",
+  "name_vi": "Bảo tàng Thành phố Cần Thơ",
+  "name_en": "Can Tho City Museum",
+  "category_vi": "Du lịch tham quan - Kiến trúc - Văn hóa lịch sử",
+  "category_en": "Cultural & Historical Tourism",
+  "address_vi": "Số 1 Đại Lộ Hòa Bình, phường Tân An, quận Ninh Kiều, TP. Cần Thơ",  
+  "address_en": "No. 1, Hoa Binh Boulevard, Tan An Ward, Ninh Kieu District, Can Tho City, Vietnam",
+  "opening_hours": "Thứ Ba-Thứ Năm: 08:00-11:00 & 14:00-17:00; Thứ Bảy, Chủ nhật, ngày lễ: 08:00-11:00 & 18:30-21:00",  
+  "ticket_price": "Miễn phí vào cửa",  
+  "visit_duration": "45 - 90 phút",
+  "best_time_to_visit": "Buổi sáng trước 11:00 hoặc buổi chiều muộn (18:30 trở đi) để tránh giờ đông",
+  "activities_vi": [
+    "Tham quan khu trưng bày lịch sử vùng đất Cần Thơ - từ thời cổ đến hiện đại",
+    "Xem trưng bày văn hóa 3 dân tộc Kinh-Hoa-Khmer",
+    "Tìm hiểu kháng chiến và thành tựu phát triển đô thị Cần Thơ",
+    "Chụp ảnh kiến trúc tòa nhà bảo tàng và khuôn viên"
+  ],
+  "activities_en": [
+    "Visit exhibitions on the history of Can Tho - from ancient to modern times",
+    "Explore Kinh-Hoa-Khmer cultural displays",
+    "Learn about wartime history and urban development of Can Tho",
+    "Take photos of museum architecture and grounds"
+  ],
+  "suitable_for_vi": [
+    "Gia đình & học sinh: tham quan giáo dục",
+    "Khách yêu thích lịch sử & văn hóa",
+    "Du khách quốc tế muốn hiểu sâu miền Tây Nam Bộ",
+    "Người tìm điểm tham quan nhẹ gần trung tâm"
+  ],
+  "suitable_for_en": [
+    "Families & students seeking educational visits",
+    "History & culture enthusiasts",
+    "International tourists wanting deeper Mekong Delta insight",
+    "Visitors looking for easy central location stop"
+  ],
+  "description_vi": "Bảo tàng Thành phố Cần Thơ là nơi lưu giữ, trưng bày toàn diện lịch sử - văn hóa - xã hội của vùng đồng bằng sông Cửu Long, đặt tại số 1 Đại Lộ Hòa Bình, TP. Cần Thơ. Với hơn 3.000 m² không gian trưng bày, bảo tàng giới thiệu hơn 1.000 - 5.000 hiện vật trải dài từ thời văn hóa Óc Eo, đến 3 dân tộc Kinh-Hoa-Khmer, và giai đoạn đấu tranh cách mạng. :contentReference[oaicite:4]{index=4}",
+  "description_en": "Can Tho City Museum preserves and exhibits the comprehensive history, culture and society of the Mekong Delta region, located at No. 1 Hoa Binh Boulevard, Can Tho. With over 3,000 m² of exhibition space and thousands of artifacts, the museum covers the Oc Eo culture, the Kinh-Hoa-Khmer communities and wartime history. :contentReference[oaicite:5]{index=5}",
+  "travel_tips_vi": [
+    "Đi giày dép thoải mái vì đi bộ nhiều",
+    "Không chạm vào hiện vật, giữ yên lặng trong phòng trưng bày",
+    "Mang theo máy ảnh nhưng tránh ánh flash lớn trong khu trưng bày tối",
+    "Kết hợp tham quan Bến Ninh Kiều hoặc khu ẩm thực gần đó"
+  ],
+  "travel_tips_en": [
+    "Wear comfortable shoes for walking",
+    "Do not touch artifacts; keep quiet in exhibition halls",
+    "Bring camera but avoid strong flash indoors",
+    "Combine with visit to Ninh Kieu Wharf or nearby food area"
+  ],
+  "nearby_places": [
+    "Bến Ninh Kiều",
+    "Chợ đêm Tây Đô",
+    "Nhà cổ Bình Thủy",
+    "Chùa Quang Đức"
+  ],
+  "recommended_itinerary_vi": "09:00 - 10:30 tham quan bảo tàng → 10:30 - 11:30 dạo Bến Ninh Kiều gần đó → ăn trưa ven sông.",
+  "recommended_itinerary_en": "09:00-10:30 tour the museum → 10:30-11:30 stroll at Ninh Kieu Wharf → lunch by the river.",
+  "tags": [
+    "museum",
+    "history",
+    "culture",
+    "Mekong Delta",
+    "Can Tho",
+    "exhibition"
+  ]
+},
+  {
+  "id": "den-tho-hung-vuong-can-tho",
+  "name_vi": "Đền thờ Hùng Vương Cần Thơ",
+  "name_en": "Hung Kings Temple Can Tho",
+  "category_vi": "Du lịch văn hóa - tâm linh",
+  "category_en": "Cultural & Spiritual Tourism",
+  "address_vi": "Khu vực 7, phường Bình Thủy, quận Bình Thủy, TP. Cần Thơ, Việt Nam",
+  "address_en": "Zone 7, Binh Thuy Ward, Binh Thuy District, Can Tho City, Vietnam",
+  "opening_hours": "07:30 - 17:00 hàng ngày",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "45 - 90 phút",
+  "best_time_to_visit": "Sáng sớm hoặc chiều mát; Lễ Giỗ Tổ Hùng Vương (mùng 10/3 âm lịch)",
+  "activities_vi": [
+    "Tham quan kiến trúc biểu tượng thời đại Hùng Vương",
+    "Dâng hương tưởng niệm các Vua Hùng",
+    "Tìm hiểu văn hóa - lịch sử dựng nước",
+    "Chụp ảnh tại quảng trường, hồ nước và không gian cây xanh"
+  ],
+  "activities_en": [
+    "Explore symbolic Hung Kings architectural style",
+    "Offer incense and pay tribute",
+    "Learn about Vietnamese cultural origin and history",
+    "Take photos at the large plaza and lake area"
+  ],
+  "suitable_for_vi": [
+    "Khách yêu thích văn hóa & lịch sử",
+    "Người hành hương, cầu bình an",
+    "Gia đình và nhóm bạn",
+    "Khách quốc tế muốn tìm hiểu văn hóa nguồn cội Việt Nam"
+  ],
+  "suitable_for_en": [
+    "Culture & history lovers",
+    "Spiritual visitors",
+    "Families and groups",
+    "International travelers seeking Vietnamese heritage"
+  ],
+  "description_vi": "Đền thờ Hùng Vương Cần Thơ là công trình văn hóa - tâm linh quy mô lớn tại miền Tây Nam Bộ, với diện tích gần 39.000 m². Công trình mang đậm biểu tượng thời đại Hùng Vương và văn hóa Đông Sơn: khối chính vuông - tròn tượng trưng 'đất vuông trời tròn', 18 cánh cung biểu trưng 18 đời Vua Hùng và 54 cột trụ đại diện 54 dân tộc Việt Nam. Không gian rộng lớn với hồ nước, cây xanh, khu thờ tự trang nghiêm giúp du khách tìm về nguồn cội dân tộc, tri ân tổ tiên và khám phá văn hóa Việt trong khung cảnh hiện đại hòa quyện truyền thống.",
+  "description_en": "Hung Kings Temple in Can Tho is a large cultural and spiritual complex in the Mekong Delta, covering nearly 39,000 m². The architecture symbolizes the Hung Kings era and Dong Son culture: a round-square main shrine representing the ancient concept 'round sky, square earth', 18 arcs for 18 Hung Kings and 54 pillars symbolizing Vietnam's 54 ethnic groups. The temple features lakes, green areas and solemn worship halls, offering visitors a serene place to honor national ancestors and explore Vietnamese cultural heritage.",
+  "travel_tips_vi": [
+    "Trang phục lịch sự, ưu tiên kín đáo",
+    "Mang nón/mũ vì khuôn viên rộng và nắng",
+    "Không gây ồn ào trong khu vực chính điện",
+    "Nếu đi dịp Giỗ Tổ (10/3 âm lịch) nên đi sớm tránh đông"
+  ],
+  "travel_tips_en": [
+    "Wear respectful and modest clothing",
+    "Bring hat/umbrella for sunny weather",
+    "Keep quiet in worship areas",
+    "Visit early during Hung Kings Festival to avoid crowds"
+  ],
+  "nearby_places": [
+    "Đình Bình Thủy",
+    "Nhà cổ Bình Thủy",
+    "Chùa Nam Nhã",
+    "Chợ nổi Cái Răng (khoảng 20 phút đi xe)"
+  ],
+  "recommended_itinerary_vi": "08:00 dâng hương và tham quan đền → 09:00 dạo hồ & chụp ảnh → 09:30 ghé Nhà cổ Bình Thủy và Chùa Nam Nhã gần đó",
+  "recommended_itinerary_en": "08:00 incense offering & explore temple → 09:00 photos & lakeside walk → 09:30 visit Binh Thuy Ancient House & Nam Nha Pagoda nearby",
+  "tags": [
+    "hung-kings",
+    "temple",
+    "culture",
+    "spiritual",
+    "heritage",
+    "can-tho",
+    "vietnam-history",
+    "landmark"
+  ]
+},
+{
+  "id": "park_song_hau_can_tho",
+  "type": "attraction",
+  "name_vi": "Công viên Sông Hậu",
+  "name_en": "Song Hau Park",
+  "category_vi": "Công viên ven sông – điểm check-in",
+  "category_en": "Riverside Park & Photo Spot",
+  "address_vi": "Đường Hai Bà Trưng, phường Cái Khế, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "Hai Ba Trung Street, Cai Khe Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "Mở cửa tự do cả ngày (sáng – tối)",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 – 60 phút",
+  "description_vi": "Công viên Sông Hậu là khu vực ven sông rộng lớn nằm gần Bến Ninh Kiều, nổi bật với không gian thoáng mát, đường dạo bộ ven sông và quảng trường tổ chức sự kiện lớn như lễ hội bánh dân gian, bắn pháo hoa Tết. Đây là nơi lý tưởng để ngắm hoàng hôn, dạo mát và chụp ảnh check-in.",
+  "description_en": "Song Hau Park is a spacious riverside park near Ninh Kieu Wharf, known for its open-air atmosphere, walking paths, and event plaza that hosts major festivals like the Folk Cake Festival and New Year fireworks. It’s an ideal spot to enjoy the sunset, take a stroll, and capture scenic photos.",
+  "activities_vi": [
+    "Ngắm hoàng hôn bên sông Hậu",
+    "Dạo bộ hoặc đạp xe ven bờ sông",
+    "Tham gia lễ hội và sự kiện ngoài trời",
+    "Chụp ảnh check-in với cầu Cần Thơ từ xa"
+  ],
+  "activities_en": [
+    "Watch the sunset over the Hau River",
+    "Take a riverside walk or bike ride",
+    "Join public festivals and outdoor events",
+    "Take scenic photos with Can Tho Bridge view"
+  ],
+  "suitable_for_vi": ["Gia đình", "Cặp đôi", "Khách du lịch yêu thiên nhiên"],
+  "suitable_for_en": ["Families", "Couples", "Nature lovers"],
+  "tags": ["park", "riverside", "sunset", "outdoor", "Ninh Kieu"]
+},
+{
+  "id": "park_luu_huu_phuoc",
+  "type": "attraction",
+  "name_vi": "Công viên Lưu Hữu Phước",
+  "name_en": "Luu Huu Phuoc Park",
+  "category_vi": "Công viên trung tâm – sinh hoạt cộng đồng",
+  "category_en": "Central Urban Park & Public Space",
+  "address_vi": "Đại lộ Hòa Bình, phường Tân An, quận Ninh Kiều, TP. Cần Thơ",
+  "address_en": "Hoa Binh Boulevard, Tan An Ward, Ninh Kieu District, Can Tho City",
+  "opening_hours": "Cả ngày, sôi động nhất buổi tối",
+  "ticket_price": "Miễn phí",
+  "visit_duration": "30 – 90 phút",
+  "description_vi": "Công viên Lưu Hữu Phước là điểm sinh hoạt cộng đồng lớn nhất trung tâm Cần Thơ, thường diễn ra các chương trình ca nhạc, hội chợ, sự kiện lễ hội. Buổi tối, khu vực này rất đông người dân đi dạo, tập thể dục, ăn vặt và check-in. Đây cũng là điểm trung tâm trong các dịp lễ Tết.",
+  "description_en": "Luu Huu Phuoc Park is the largest public space in downtown Can Tho, hosting concerts, fairs, and cultural festivals. In the evening, it becomes lively with locals exercising, enjoying street food, and taking photos. It’s a central gathering point during major holidays and events.",
+  "activities_vi": [
+    "Thưởng thức đồ ăn vặt quanh công viên",
+    "Tham gia các lễ hội, ca nhạc và hội chợ",
+    "Tập thể dục buổi sáng hoặc tối",
+    "Chụp ảnh với đài phun nước trung tâm"
+  ],
+  "activities_en": [
+    "Try local street food stalls around the park",
+    "Join public concerts and cultural fairs",
+    "Exercise in the morning or evening",
+    "Take photos near the central fountain"
+  ],
+  "suitable_for_vi": ["Gia đình", "Giới trẻ", "Khách du lịch nội địa"],
+  "suitable_for_en": ["Families", "Young travelers", "Domestic tourists"],
+  "tags": ["park", "festival", "downtown", "nightlife", "public space"]
+}
+]
