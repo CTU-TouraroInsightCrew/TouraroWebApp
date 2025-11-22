@@ -1,4 +1,7 @@
+"use client";
 import React from 'react'
+import { usePathname } from "next/navigation";
+import { cn } from "@/lib/utils";
 import { NavLink } from "@/lib/types";
 import Link from "next/link";
 const navLinks: NavLink[] = [
@@ -7,26 +10,26 @@ const navLinks: NavLink[] = [
     { label: "Guide", href: "/guide" },
     { label: "Map", href: "/map" },
     { label: "Chat", href: "/chat" },
-    { label: "Dashboard", href: "/dashboard" },
     
 ];
 export default function Navigation() {
+    const pathname = usePathname();
     return (
         <nav className = "hidden md:block" >
             <ul className="flex gap-8 items-center">
-                <li><a href="#home" className="cursor-pointer hover:text-primary">Home</a></li>
-                <li><a href="#locations" className="cursor-pointer hover:text-primary">Locations</a></li>
-                <li><a href="#guides" className="cursor-pointer hover:text-primary">Guide</a></li>
-                <li><a href="#map" className="cursor-pointer hover:text-primary">Map</a></li>
-                <li><a href="#chat" className="cursor-pointer hover:text-primary">Chat</a></li>
-                <li><a href="#dashboard" className="cursor-pointer hover:text-primary">Dashboard</a></li>
+                <li><Link href="/home" className="cursor-pointer hover:text-primary">Home</Link></li>
+                <li><Link href="/locations" className="cursor-pointer hover:text-primary">Locations</Link></li>
+                <li><Link href="/guides" className="cursor-pointer hover:text-primary">Guide</Link></li>
+                <li><Link href="/map" className="cursor-pointer hover:text-primary">Map</Link></li>
+                <li><Link href="/chat" className="cursor-pointer hover:text-primary">Chat</Link></li>
                 
-                <Link className="cursor-pointer hover:text-white hover:bg-blue-950 font-semibold px-4 py-2 rounded-md border hover:border-transparent tránition duảtion-150" href="/login">
+                
+                <li><Link className="cursor-pointer hover:text-white hover:bg-blue-950 font-semibold px-4 py-2 rounded-md border hover:border-transparent transition duảtion-150" href="/login">
                     Login
-                </Link>
-                <Link className="cursor-pointer hover:text-white hover:bg-yellow font-semibold px-4 py-2 rounded-md border hover:border-transparent tránition duảtion-150" href="/signup">
+                </Link></li>
+                <li><Link className="cursor-pointer hover:text-white hover:bg-yellow font-semibold px-4 py-2 rounded-md border hover:border-transparent tránition duảtion-150" href="/sign-up">
                     Sign Up
-                </Link>
+                </Link></li>
             </ul>
         </nav>
     );

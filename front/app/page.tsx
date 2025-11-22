@@ -5,7 +5,6 @@ import LocationsSection from "@/components/locations-section";
 import GuideSection from "@/components/guides-section";
 import ChatSection from "@/components/chat-section";
 import MapSection from "@/components/map-section";
-import DashboardSection from "@/components/dashboard-section";
 
 
 export default function Home() {
@@ -16,7 +15,6 @@ export default function Home() {
     <GuideSection />
     <MapSection/>
     <ChatSection/>
-    <DashboardSection/>
   </main>
   );
 }
