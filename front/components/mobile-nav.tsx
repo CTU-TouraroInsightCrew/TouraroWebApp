@@ -11,7 +11,6 @@ const navLinks: NavLink[] = [
     { label: "Guide", href: "/guides" },
     { label: "Map", href: "/map" },
     { label: "Chat", href: "/chat" },
-    { label: "Dashboard", href: "/dashboard" },
 ];
 export default function MobileNav({ onClose }: { onClose: () => void }) {
   return (
