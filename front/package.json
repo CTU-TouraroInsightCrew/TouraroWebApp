@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@formkit/auto-animate": "^0.9.0",
+    "@hookform/resolvers": "^5.2.2",
+    "@radix-ui/react-label": "^2.1.8",
     "@radix-ui/react-slot": "^1.2.4",
     "@types/markdown-it": "^14.1.2",
     "axios": "^1.13.2",
@@ -24,11 +26,13 @@
     "next": "16.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-hook-form": "^7.66.1",
     "react-icons": "^5.5.0",
     "react-leaflet": "^4.2.1",
     "react-leaflet-cluster": "^3.1.1",
     "swiper": "^12.0.3",
-    "tailwind-merge": "^3.4.0"
+    "tailwind-merge": "^3.4.0",
+    "zod": "^4.1.12"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
