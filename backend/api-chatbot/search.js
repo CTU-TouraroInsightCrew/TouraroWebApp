@@ -15,7 +15,7 @@ export function loadVectorStore() {
   }
 
   VECTOR_STORE = JSON.parse(fs.readFileSync(VECTOR_PATH, "utf8"));
-  console.log("📌 Đã load vector store:", VECTOR_STORE.length, "mẫu.");
+  console.log("Đã load vector store:", VECTOR_STORE.length, "mẫu.");
 }
 
 export function cosine(a, b) {
