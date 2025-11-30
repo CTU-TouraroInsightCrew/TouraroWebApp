@@ -16,7 +16,7 @@ export default function WeatherDisplay() {
   useEffect(() => {
     async function load() {
       try {
-        const res = await fetch("http://localhost:3001/api/weather");
+        const res = await fetch("http://localhost:4000/api/weather");
         setWeather(await res.json());
       } catch (e) {
         console.error(e);
