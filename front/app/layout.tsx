@@ -4,13 +4,9 @@ import Footer from "@/components/footer";
 
 import type { Metadata } from "next";
 import { Poppins, Volkhov } from "next/font/google";
-// @ts-expect-error: side-effect import without type declarations
 import "./globals.css";  
-// @ts-expect-error: side-effect import without type declarations
 import "leaflet/dist/leaflet.css"; 
-// @ts-expect-error: side-effect import without type declarations
 import "leaflet.markercluster/dist/MarkerCluster.css";
-// @ts-expect-error: side-effect import without type declarations
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 
 
