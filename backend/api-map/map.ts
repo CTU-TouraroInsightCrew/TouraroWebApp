@@ -44,7 +44,6 @@ export async function GET() {
     }));
 
     // 5. Trả dữ liệu sạch về cho Frontend
-    // 5. Trả dữ liệu sạch về cho Frontend
     return new Response(JSON.stringify(poiData), {
       status: 200,
       headers: { 'Content-Type': 'application/json' },
