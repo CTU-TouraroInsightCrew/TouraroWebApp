@@ -37,6 +37,6 @@ app.get("/api/weather", async (req, res) => {
   }
 });
 
-app.listen(3001, "0.0.0.0", () => {
-  console.log("Backend chạy tại http://localhost:3001/api/weather");
+app.listen(4000, "0.0.0.0", () => {
+  console.log("Backend chạy tại http://localhost:4000/api/weather");
 });
