@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-
+import '../../app/chat/style.css';
 interface Message {
   type: "user" | "bot" | "loading";
   text?: string;
@@ -14,14 +14,15 @@ export default function ChatSection() {
   const messagesRef = useRef<HTMLDivElement | null>(null);
 
   // --- Helper functions (declare BEFORE useEffect that calls them) ---
-  function formatBotText(text: string) {
-    return text
-      .replace(/\*\*(.*?)\*\*/g, "$1")
-      .replace(/- /g, "• ")
-      .replace(/\d+\./g, (o) => "\n" + o)
-      .replace(/\n{2,}/g, "\n")
-      .trim();
-  }
+function formatBotText(text: string) {
+  return text
+    .replace(/\*\*(.*?)\*\*/g, "$1")     // bỏ **bold**
+    .replace(/- /g, "• ")                // bullet
+    .replace(/(^|\n)(\d+\.\s)/g, "\n$2") // xuống dòng chỉ cho list "1. "
+    .replace(/\n{2,}/g, "\n")            // không cho xuống dòng nhiều
+    .trim();
+}
+
 
   function addBotMessage(text: string) {
     const cleaned = formatBotText(text);
@@ -78,12 +79,24 @@ export default function ChatSection() {
     sendToBackend(text);
   }
 
-  // --- Scrolling ---
-  const scrollToBottom = () => {
-    messagesRef.current?.scrollIntoView({ behavior: "smooth" });
-  };
-  useEffect(scrollToBottom, [messages]);
+  
+// --- Scrolling ---
+// const scrollToBottom = () => {
+//   messagesRef.current?.scrollIntoView({ behavior: "smooth" });
+// };
 
+const firstLoad = useRef(true);
+
+useEffect(() => {
+  if (firstLoad.current) {
+    firstLoad.current = false;
+    return;        // ❗ Ngăn auto-scroll khi load trang
+  }
+  // scrollToBottom();
+}, [messages]);
+
+
+  
   // --- Greeting messages (now safe because addBotMessage is defined above) ---
   useEffect(() => {
     addBotMessage("Xin chào! 👋");
