@@ -1,11 +1,11 @@
 "use client";
 import React from 'react'
 import { useState } from "react";
-import Logo from "./logo";
+import Logo from "../logo";
 import MobileMenuToggle from "./mobile-menu-toggle";
 import MobileNav from './mobile-nav';
 import Navigation from "./navigation"
-import Wrapper from "./wrapper";
+import Wrapper from "../wrapper";
 import { AnimatePresence } from 'motion/react';
 export default function Header() {
     const [isOpen, setIsOpen] = useState(false);
