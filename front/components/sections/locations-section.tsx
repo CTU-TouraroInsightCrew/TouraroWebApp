@@ -1,7 +1,7 @@
 import React from 'react'
 import SectionHeader from "./section-header";
-import Wrapper from "./wrapper";
-import LocationsGrid from "./locations-grid";
+import Wrapper from "../wrapper";
+import LocationsGrid from "../features/locations-grid";
 import Image from "next/image";
 //import { FaRegCirclePlay } from "react-icons/fa6";
 export default function LocationSection() {

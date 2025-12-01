@@ -1,5 +1,5 @@
-import H2 from "./h2";
-import H4 from "./h4";
+import H2 from "../small_components/h2";
+import H4 from "../small_components/h4";
 
 type SectionHeaderProps = {
   subtitle: string;
