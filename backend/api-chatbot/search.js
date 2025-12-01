@@ -5,7 +5,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const VECTOR_PATH = path.join(__dirname, "..", "data", "vector_store.json");
+const VECTOR_PATH = path.join(__dirname, "..", "rag_vector_store", "vector_store.json");
 
 let VECTOR_STORE = [];
 
