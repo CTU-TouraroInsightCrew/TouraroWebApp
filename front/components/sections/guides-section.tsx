@@ -18,7 +18,7 @@ const guides = [
     avatar: "/images/guide2.jpg",
   },
   {
-    id: 2,
+    id: 3,
     name: "Le Van C",
     email: "c@example.com",
     phone: "0987654321",
@@ -28,7 +28,7 @@ const guides = [
 
 export default function GuideSection() {
   return (
-    <div className="p-8 bg-gray-100 min-h-screen">
+    <div id="guides-section" className="p-8 bg-gray-100 min-h-screen" >
       <h1 className="text-3xl font-bold mb-8">Tour Guides</h1>
       <div className="grid gap-6 md:grid-cols-2">
         {guides.map((guide) => (
