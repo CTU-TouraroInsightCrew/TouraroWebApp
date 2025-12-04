@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chatbot Du Lịch Cần Thơ</title>
+  <link rel="stylesheet" href="style.css">
+  <style ></style>
+</head>
+
+<body>
+
+<div id="chat-section">
+  <div id="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+  <!-- SIDEBAR -->
+  <div id="sidebar">
+    <div class="sidebar-header">
+      <button id="new-chat-btn" onclick="newChat()">+ Cuộc trò chuyện mới</button>
+      <h4>Lịch sử trò chuyện</h4>
+    </div>
+
+    <div id="chat-history"></div>
+  </div>
+
+  <!-- MAIN CHAT AREA -->
+  <div id="chat-container">
+
+    <div class="top-bar">
+      <button id="toggle-sidebar" onclick="toggleSidebar()">☰</button>
+      <h3 class="header-frame">Chatbot Cần Thơ</h3>
+    </div>
+
+
+    <div id="messages"></div>
+
+    <!-- Gợi ý khi bắt đầu -->
+    <div id="suggestions" style="margin-bottom:15px;">
+      <button class="suggest-btn" onclick="sendSuggestion('Các địa điểm nổi bật ở Cần Thơ?')">✨ Các địa điểm nổi bật</button>
+      <button class="suggest-btn" onclick="sendSuggestion('Gợi ý món ăn đặc sản Cần Thơ')">🍜 Món ăn đặc sản</button>
+      <button class="suggest-btn" onclick="sendSuggestion('Đi chợ nổi Cái Răng cần lưu ý gì?')">⛵ Đi chợ nổi</button>
+    </div>
+
+    <!-- Khu vực nhập câu hỏi -->
+    <div id="input-area">
+      <input type="text" id="question" placeholder="Nhập câu hỏi…" />
+      <button onclick="sendMessage()">Gửi</button>
+    </div>
+
+  </div>
+
+</div>
+
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
