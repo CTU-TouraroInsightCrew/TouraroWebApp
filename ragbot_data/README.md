@@ -2,11 +2,10 @@
 
 Thư mục này chứa toàn bộ dữ liệu JSON được sử dụng làm nguồn tri thức (Knowledge Base) cho hệ thống **RAG Chatbot Du lịch Cần Thơ**.  
 Mỗi file JSON mô tả một chủ đề riêng, được chia thành các chunk nhỏ để phục vụ việc embedding và truy vấn.
-
 ---
 
 ## 📁 Cấu trúc thư mục
-
+```
 json_data/
 ├── festivals_cantho.json # Thông tin lễ hội theo tháng/khu vực
 ├── flooding_cantho.json # Mức độ ngập, triều cường, thời điểm thủy triều, các lưu ý khi di chuyển mùa triều cường
@@ -16,6 +15,7 @@ json_data/
 ├── tourist_places.json # Điểm tham quan, làng du lịch, vườn sinh thái
 ├── transport_cantho.json # Taxi, xe bus, xe máy,giờ cao điểm, tình trạng giao thông, mức độ kẹt xe các tuyến đường
 └── weather_cantho.json # Thời tiết, mùa mưa, mẹo di chuyển theo mùa
+```
 ---
 
 ## 🗂 Định dạng dữ liệu JSON
