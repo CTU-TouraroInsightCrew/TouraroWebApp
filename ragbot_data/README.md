@@ -16,8 +16,6 @@ json_data/
 ├── tourist_places.json # Điểm tham quan, làng du lịch, vườn sinh thái
 ├── transport_cantho.json # Taxi, xe bus, xe máy,giờ cao điểm, tình trạng giao thông, mức độ kẹt xe các tuyến đường
 └── weather_cantho.json # Thời tiết, mùa mưa, mẹo di chuyển theo mùa
-
-
 ---
 
 ## 🗂 Định dạng dữ liệu JSON
