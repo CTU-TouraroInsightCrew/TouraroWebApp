@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 
 const guides = [
   {
@@ -37,13 +38,16 @@ export default function GuideSection() {
             className="flex bg-white rounded-lg shadow-md overflow-hidden"
           >
             {/* Hình bên trái */}
-            <div className="w-1/3">
-              <img
+            <div className="w-1/3 relative">
+              <Image
                 src={guide.avatar}
                 alt={guide.name}
-                className="w-full h-full object-cover"
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 33vw" 
               />
             </div>
+
 
             {/* Thông tin bên phải */}
             <div className="w-2/3 p-4 flex flex-col justify-center">
