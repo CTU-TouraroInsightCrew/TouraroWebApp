@@ -1,4 +1,4 @@
-import LocationSection from "@/components/locations-section";
+import LocationSection from "@/components/sections/locations-section";
 
 
 export default function LocationPage() {

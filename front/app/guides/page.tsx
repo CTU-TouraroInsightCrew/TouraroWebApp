@@ -1,4 +1,4 @@
-import GuideSection from "@/components/guides-section";
+import GuideSection from "@/components/sections/guides-section";
 
 
 export default function GuidePage() {
