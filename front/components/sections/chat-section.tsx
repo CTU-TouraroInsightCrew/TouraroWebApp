@@ -94,9 +94,7 @@ useEffect(() => {
   }
   // scrollToBottom();
 }, [messages]);
-
-
-  
+ 
   // --- Greeting messages (now safe because addBotMessage is defined above) ---
   useEffect(() => {
     addBotMessage("Xin chào! 👋");
