@@ -1,71 +1,36 @@
-import express, { Request, Response } from "express";
-import axios from "axios";
+// backend/index.ts
+import "dotenv/config";  // cách ngắn gọn nhất, nằm trên cùng file
+
+import express from "express";
 import cors from "cors";
 
+import chatRouter from "./chatbot-server/api-chatbot/api";
+import weatherRouter from "./client/api-weather/weather";
+import mapRouter from "./client/api-map/map";
+import routeRouter from "./client/api-route/route";
+import { loadVectorStore } from "./chatbot-server/api-chatbot/search";
+
 const app = express();
-app.use(cors());
 
-interface PoiEntity {
-  id: string;
-  type: string;
-  name: string;
-  location: {
-    type: "GeoProperty";
-    value: {
-      type: "Point";
-      coordinates: [number, number]; // [lng, lat]
-    };
-  };
-  category: string;
-}
+app.use(
+  cors({
+    origin: ["http://localhost:3000", "http://192.168.1.237:3000"],
+    methods: ["GET", "POST"],
+  })
+);
+app.use(express.json());
 
-// GET /api/poi
-app.get("/api/poi", async (req: Request, res: Response) => {
-  try {
-    const lat = parseFloat((req.query.lat as string) || "10.0302");
-    const lon = parseFloat((req.query.lon as string) || "105.7721");
-    const radius = 2000;
+// 🔥 lúc này process.env đã có OPENAI_API_KEY
+loadVectorStore();
 
-    const overpassQuery = `
-      [out:json];
-      (
-        node["amenity"="cafe"](around:${radius},${lat},${lon});
-        node["amenity"="restaurant"](around:${radius},${lat},${lon});
-        node["amenity"="university"](around:${radius},${lat},${lon});
-      );
-      out body;
-    `;
+// gắn router như trước
+app.use("/", chatRouter);
+app.use("/api", weatherRouter);
+app.use("/api", mapRouter);
+app.use("/api", routeRouter);
 
-    const response = await axios.post(
-      "https://overpass-api.de/api/interpreter",
-      overpassQuery,
-      { headers: { "Content-Type": "text/plain" } }
-    );
+const PORT = process.env.PORT || 4000;
 
-    const data = response.data.elements;
-
-    const poiData: PoiEntity[] = data.map((el: any) => ({
-      id: `urn:ngsi-ld:POI:${el.id}`,
-      type: "POI",
-      name: el.tags?.name || "Địa điểm không tên",
-      location: {
-        type: "GeoProperty",
-        value: {
-          type: "Point",
-          coordinates: [el.lon, el.lat],
-        },
-      },
-      category: el.tags?.amenity || "unknown",
-    }));
-
-    res.json(poiData);
-  } catch (err) {
-    console.error("❌ Lỗi API /api/poi:", err);
-    res.status(500).json({ error: "Lỗi lấy dữ liệu" });
-  }
-});
-
-const PORT = 4000;
 app.listen(PORT, () => {
   console.log(`🚀 Backend chạy tại http://localhost:${PORT}`);
 });
