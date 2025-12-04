@@ -2,6 +2,7 @@
 
 Thư mục này chứa toàn bộ dữ liệu JSON được sử dụng làm nguồn tri thức (Knowledge Base) cho hệ thống **RAG Chatbot Du lịch Cần Thơ**.  
 Mỗi file JSON mô tả một chủ đề riêng, được chia thành các chunk nhỏ để phục vụ việc embedding và truy vấn.
+
 ---
 
 ## 📁 Cấu trúc thư mục
