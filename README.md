@@ -3,9 +3,9 @@ Touraro là một dự án web được xây dựng nhằm cung cấp trải ngh
 
 Mục tiêu của dự án là giúp du khách khám phá Cần Thơ dễ dàng hơn và hỗ trợ người dân cập nhật các thông tin hữu ích theo thời gian thực.
 
-Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2023](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F). Được được open source theo giấy phép [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) bởi đội tác giả CTU-LinguTechnies.
+Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2025]([https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F]). Được được open source theo giấy phép [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) bởi đội tác giả CTU-TouraroInsightCrew.
 
-Để biết thêm chi tiết về cuộc thi, bạn có thể xem tại [đây](https://vfossa.vn/tin-tuc/de-thi-phan-mem-nguon-mo-olp-2023-688.html).
+Để biết thêm chi tiết về cuộc thi, bạn có thể xem tại [đây]([https://vfossa.vn/thong-bao/de-thi-phan-mem-nguon-mo-olp-2025-749.html]).
 
 
 
