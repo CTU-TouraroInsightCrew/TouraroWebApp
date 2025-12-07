@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState, KeyboardEvent } from "react";
-import "../chatbot_updated/style.css";// chỉnh lại path CSS cho đúng dự án
+import "../chatbot/style.css";// chỉnh lại path CSS cho đúng dự án
 
 type MsgType = "user" | "bot" | "loading";
 
