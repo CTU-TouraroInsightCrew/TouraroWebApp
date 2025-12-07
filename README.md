@@ -50,46 +50,46 @@ Hệ thống Touraro được xây dựng theo mô hình Full-Stack Web Applicat
 
 ```
                          ┌─────────────────────────┐
-                         │      Người dùng (UI)     │
+                         │      Người dùng (UI)    │
                          └─────────────┬───────────┘
                                        │
                                        ▼
                         ┌─────────────────────────────┐
-                        │     Frontend (Next.js)       │
-                        │  - React UI                  │
-                        │  - Bản đồ OSM (Leaflet)      │
-                        │  - Chat UI + Streaming       │
+                        │     Frontend (Next.js)      │
+                        │  - React UI                 │
+                        │  - Bản đồ OSM (Leaflet)     │
+                        │  - Chat UI + Streaming      │
                         └─────────────┬───────────────┘
                                       │ gọi API
                                       ▼
-             ┌──────────────────────────────────────────────────┐
+             ┌───────────────────────────────────────────────────┐
              │               Backend (Express.js)                │
-             │--------------------------------------------------│
-             │  • /chat/api  → gọi OpenAI + RAG + logic cảnh báo│
-             │  • /weather     → lấy dữ liệu OpenWeather        │
-             │  • /map         → xử lý dữ liệu map (nếu cần)    │
-             │                                                    │
+             │---------------------------------------------------│
+             │  • /chat/api  → gọi OpenAI + RAG + logic cảnh báo │
+             │  • /weather     → lấy dữ liệu OpenWeather         │
+             │  • /map         → xử lý dữ liệu map (nếu cần)     │
+             │                                                   │
              │  **Thành phần Backend:**                          │
              │  - axios / node-fetch: gọi API ngoài              │
              │  - openai: giao tiếp mô hình AI                   │
              │  - dotenv: cấu hình môi trường                    │
              │  - cors: kết nối FE ↔ BE                          │
              │  - tsconfig-paths: hỗ trợ module alias (TS)       │
-             └───────────────┬──────────────────────────────────┘
+             └───────────────┬───────────────────────────────────┘
                              │
                sử dụng dữ liệu nội bộ
                              ▼
-            ┌──────────────────────────────────────────────┐
+            ┌───────────────────────────────────────────────┐
             │      Local Vector Store + JSON RAG Store      │
             │  - json_data/ (địa điểm, ẩm thực, flooding…)  │
             │  - vector_store.pkl                           │
             │  - thuật toán search() để tìm ngữ cảnh        │
-            └──────────────────────────────────────────────┘
+            └───────────────────────────────────────────────┘
                              │
                              ▼ lấy thêm thông tin
      ┌───────────────────────────────┐      ┌─────────────────────────┐
      │       OpenWeather API         │      │       OpenAI API        │
-     │ (thời tiết, dự báo, cảnh báo) │      │ (sinh câu trả lời AI)  │
+     │ (thời tiết, dự báo, cảnh báo) │      │ (sinh câu trả lời AI)   │
      └───────────────────────────────┘      └─────────────────────────┘
 
 ```
