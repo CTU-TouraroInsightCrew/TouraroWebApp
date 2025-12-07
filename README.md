@@ -11,16 +11,14 @@ Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olym
 
 ## 🔎 Danh Mục
 
-1. [Giới Thiệu](#Giới-Thiệu)
+1. [Giới Thiệu](#giới-Thiệu)
 2. [Chức Năng](#chức-năng-chính)
-3. [Tổng Quan Hệ Thống](#👩‍💻-tổng-quan-hệ-thống)
+3. [Kiến trúc hệ thống](#kiến-trúc-hệ-thống)
 4. [Cấu Trúc Thư Mục](#cấu-trúc-thư-mục)
-5. [Hướng Dẫn Cài Đặt](#hướng-dẫn-cài-đặt)
-    - [📋 Yêu Cầu - Prerequisites](#yêu-cầu-📋)
-    - [🔨 Cài Đặt](#🔨-cài-đặt)
-6. [CI/CD](#ci/cd)
-7. [🙌 Đóng Góp](#🙌-đóng-góp-cho-dự-án)
-8. [📝 License](#📝-license)
+5. [Hướng dẫn cài đặt dự án](#hướng-dẫn-cài-đặt-dự-án)
+6. [Đóng góp cho dự án](#đóng-góp-cho-dự-án)
+7. [Liên hệ](#liên-hệ)
+8. [License](#license)
 
 
 ## Giới Thiệu
@@ -100,6 +98,7 @@ Hệ thống Touraro được xây dựng theo mô hình Full-Stack Web Applicat
 1. Frontend — Next.js + React
 Frontend chịu trách nhiệm hiển thị giao diện du lịch, bản đồ và chatbot.
 Các thư viện chính:
+
 | Nhóm chức năng              | Thư viện                                                                                                |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- |
 | **Giao diện**               | `next`, `react`, `react-dom`, `tailwind-merge`, `clsx`, `motion`                                        |
@@ -108,6 +107,8 @@ Các thư viện chính:
 | **Hiệu ứng & UI**           | `lucide-react`, `swiper`, `@formkit/auto-animate`, `@radix-ui/react-*`                                  |
 | **Xử lý markdown**          | `markdown-it`, `@types/markdown-it`                                                                     |
 | **HTTP client**             | `axios`                                                                                                 |
+
+
 Frontend đảm nhiệm:
 - Render bản đồ Leaflet + OpenStreetMap tiles
 - Hiển thị điểm du lịch, routing, clustering
@@ -125,6 +126,7 @@ Backend là API Gateway chính, xử lý toàn bộ logic dữ liệu & AI.
 | Cấu hình môi trường | `dotenv`                    |
 | Cross-origin        | `cors`                      |
 | TS alias            | `tsconfig-paths`            |
+
 
 Backend thực hiện:
 - Nhận request từ frontend: `/chat/api`, `/weather`, …
@@ -170,7 +172,7 @@ Dự án Touraro được tổ chức thành 3 phần chính: backend, frontend,
 | **ragbot_data/** | Bộ dữ liệu JSON và code embed dữ liệu cho truy vấn chatbot  |
 
 
-## Hướng dân cài đặt dự án
+## Hướng dẫn cài đặt dự án
 1. Clone dự án
 ```bash 
 git clone https://github.com/CTU-TouraroInsightCrew/TouraroWebApp.git
@@ -200,7 +202,7 @@ Di chuyển vào thư mục `frontend` và cài đặt các dependencies
 ```bash
 npm install
 ```
-Chạy website backend
+Chạy website frontend
 ```bash
 npm run dev
 ```
