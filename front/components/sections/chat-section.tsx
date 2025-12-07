@@ -1,9 +1,12 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
-import '../../app/chat/style.css';
+import { useEffect, useRef, useState, KeyboardEvent } from "react";
+import "../chatbot_updated/style.css";// chỉnh lại path CSS cho đúng dự án
+
+type MsgType = "user" | "bot" | "loading";
+
 interface Message {
-  type: "user" | "bot" | "loading";
+  type: MsgType;
   text?: string;
 }
 
@@ -11,18 +14,25 @@ export default function ChatSection() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(true);
-  const messagesRef = useRef<HTMLDivElement | null>(null);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
-  // --- Helper functions (declare BEFORE useEffect that calls them) ---
-function formatBotText(text: string) {
-  return text
-    .replace(/\*\*(.*?)\*\*/g, "$1")     // bỏ **bold**
-    .replace(/- /g, "• ")                // bullet
-    .replace(/(^|\n)(\d+\.\s)/g, "\n$2") // xuống dòng chỉ cho list "1. "
-    .replace(/\n{2,}/g, "\n")            // không cho xuống dòng nhiều
-    .trim();
-}
+  const messagesEndRef = useRef<HTMLDivElement | null>(null);
 
+  // ===== Helpers =====
+  /*function scrollMessages() {
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  } */
+
+  function formatBotText(text: string) {
+    return text
+      .replace(/\*\*(.*?)\*\*/g, "$1") // bỏ **bold**
+      .replace(/- /g, "• ") // bullet
+      .replace(/\d+\./g, (o) => "\n" + o) // xuống dòng trước 1. 2. 3.
+      .replace(/\n{2,}/g, "\n") // bỏ xuống dòng thừa
+      .trim();
+  }
+
+  
 
   function addBotMessage(text: string) {
     const cleaned = formatBotText(text);
@@ -41,15 +51,17 @@ function formatBotText(text: string) {
     setMessages((prev) => prev.filter((m) => m.type !== "loading"));
   }
 
+  // ===== Gọi backend =====
   async function sendToBackend(question: string) {
     addLoading();
+
     try {
       const res = await fetch("http://localhost:4000/chat/api", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ question }),
-    });
-
+        // nếu backend bạn là /api/chat thì sửa lại ở đây
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question }),
+      });
 
       if (!res.ok) {
         throw new Error(`Server error: ${res.status}`);
@@ -57,8 +69,7 @@ function formatBotText(text: string) {
 
       const data = await res.json();
       removeLoading();
-      // guard in case data.answer missing
-      addBotMessage(typeof data?.answer === "string" ? data.answer : "Không có phản hồi");
+      addBotMessage(data.answer ?? "Không có phản hồi từ server.");
     } catch (err) {
       removeLoading();
       addBotMessage("Có lỗi khi kết nối tới server.");
@@ -66,90 +77,153 @@ function formatBotText(text: string) {
     }
   }
 
-  function handleSend() {
-    if (!input.trim()) return;
-    setShowSuggestions(false);
-    addUserMessage(input);
-    sendToBackend(input);
-    setInput("");
-  }
-
+  // ===== Khi click gợi ý =====
   function sendSuggestion(text: string) {
     setShowSuggestions(false);
     addUserMessage(text);
     sendToBackend(text);
   }
 
-  
-// --- Scrolling ---
-// const scrollToBottom = () => {
-//   messagesRef.current?.scrollIntoView({ behavior: "smooth" });
-// };
+  // ===== Gửi tin nhắn =====
+  function handleSend() {
+    const question = input.trim();
+    if (!question) return;
 
-const firstLoad = useRef(true);
+    if (showSuggestions) setShowSuggestions(false);
 
-useEffect(() => {
-  if (firstLoad.current) {
-    firstLoad.current = false;
-    return;        // ❗ Ngăn auto-scroll khi load trang
+    addUserMessage(question);
+    setInput("");
+    sendToBackend(question);
   }
-  // scrollToBottom();
-}, [messages]);
 
+  function handleKeyDown(e: KeyboardEvent<HTMLInputElement>) {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      handleSend();
+    }
+  }
 
-  
-  // --- Greeting messages (now safe because addBotMessage is defined above) ---
+  // ===== Sidebar =====
+  function toggleSidebar() {
+    setIsSidebarOpen((prev) => !prev);
+  }
+
+  function newChat() {
+    // reset chat
+    setMessages([]);
+    setShowSuggestions(true);
+    // gửi lại câu chào
+    addBotMessage("Xin chào! 👋");
+    addBotMessage("Tôi có thể giúp gì cho bạn hôm nay?");
+  }
+
+  // ===== Chào khi load component =====
   useEffect(() => {
     addBotMessage("Xin chào! 👋");
     addBotMessage("Tôi có thể giúp gì cho bạn hôm nay?");
   }, []);
 
-  // --- JSX UI ---
-  return (
-    <div id="chat-container">
-      <h3 className="header-frame">ChatBot Cần Thơ</h3>
+  // Auto scroll khi có message mới
+  /*useEffect(() => {
+    scrollMessages();
+  }, [messages]);*/
 
-      <div id="messages">
-        {messages.map((msg, i) => (
-          <div
-            key={i}
-            className={
-              msg.type === "user"
-                ? "bubble user"
-                : msg.type === "bot"
-                ? "bubble bot"
-                : "bubble bot"
-            }
-          >
-            {msg.type === "loading" ? <div className="spinner" /> : msg.text}
-          </div>
-        ))}
-        <div ref={messagesRef} />
+  // ===== JSX =====
+  return (
+    <div id="chat-section">
+      {/* Overlay cho sidebar mobile */}
+      <div
+        id="sidebar-overlay"
+        className={isSidebarOpen ? "active" : ""}
+        onClick={toggleSidebar}
+      />
+
+      {/* SIDEBAR */}
+      <div id="sidebar" className={isSidebarOpen ? "active" : ""}>
+        <div className="sidebar-header">
+          <button id="new-chat-btn" onClick={newChat}>
+            + Cuộc trò chuyện mới
+          </button>
+          <h4>Lịch sử trò chuyện</h4>
+        </div>
+
+        <div id="chat-history">
+          {/* TODO: hiển thị lịch sử nếu bạn có lưu */}
+          <p style={{ color: "#aaa", fontSize: "0.9rem" }}>
+            (Chưa có lịch sử – cần thêm logic lưu nếu muốn)
+          </p>
+        </div>
       </div>
 
-      {showSuggestions && (
-        <div id="suggestions" style={{ marginBottom: "15px" }}>
-          <button className="suggest-btn" onClick={() => sendSuggestion("Các địa điểm nổi bật ở Cần Thơ?")}>
-            ✨ Các địa điểm nổi bật
+      {/* MAIN CHAT AREA */}
+      <div id="chat-container">
+        <div className="top-bar">
+          <button
+            id="toggle-sidebar"
+            className={isSidebarOpen ? "toggle-hidden" : ""}
+            onClick={toggleSidebar}
+          >
+            ☰
           </button>
-          <button className="suggest-btn" onClick={() => sendSuggestion("Gợi ý món ăn đặc sản Cần Thơ")}>
-            🍜 Món ăn đặc sản
-          </button>
-          <button className="suggest-btn" onClick={() => sendSuggestion("Đi chợ nổi Cái Răng cần lưu ý gì?")}>
-            ⛵ Đi chợ nổi
-          </button>
+          <h3 className="header-frame">Chatbot Cần Thơ</h3>
         </div>
-      )}
 
-      <div id="input-area">
-        <input
-          id="question"
-          placeholder="Nhập câu hỏi…"
-          value={input}
-          onChange={(e) => setInput(e.target.value)}
-          onKeyDown={(e) => e.key === "Enter" && handleSend()}
-        />
-        <button onClick={handleSend}>Gửi</button>
+        <div id="messages">
+          {messages.map((msg, idx) => (
+            <div
+              key={idx}
+              className={
+                msg.type === "user"
+                  ? "bubble user"
+                  : msg.type === "bot"
+                  ? "bubble bot"
+                  : "bubble bot"
+              }
+            >
+              {msg.type === "loading" ? <div className="spinner" /> : msg.text}
+            </div>
+          ))}
+          <div ref={messagesEndRef} />
+        </div>
+
+        {/* Gợi ý ban đầu */}
+        {showSuggestions && (
+          <div id="suggestions" style={{ marginBottom: "15px" }}>
+            <button
+              className="suggest-btn"
+              onClick={() => sendSuggestion("Các địa điểm nổi bật ở Cần Thơ?")}
+            >
+              ✨ Các địa điểm nổi bật
+            </button>
+            <button
+              className="suggest-btn"
+              onClick={() => sendSuggestion("Gợi ý món ăn đặc sản Cần Thơ")}
+            >
+              🍜 Món ăn đặc sản
+            </button>
+            <button
+              className="suggest-btn"
+              onClick={() =>
+                sendSuggestion("Đi chợ nổi Cái Răng cần lưu ý gì?")
+              }
+            >
+              ⛵ Đi chợ nổi
+            </button>
+          </div>
+        )}
+
+        {/* Input */}
+        <div id="input-area">
+          <input
+            type="text"
+            id="question"
+            placeholder="Nhập câu hỏi…"
+            value={input}
+            onChange={(e) => setInput(e.target.value)}
+            onKeyDown={handleKeyDown}
+          />
+          <button onClick={handleSend}>Gửi</button>
+        </div>
       </div>
     </div>
   );
