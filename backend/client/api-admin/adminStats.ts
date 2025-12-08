@@ -22,22 +22,57 @@ router.get("/admin/users", async (req: Request, res: Response) => {
   try {
     const users = await User.find(
       {},
-      "name email provider role createdAt"
+      // ✅ thêm isActive để frontend nhận được
+      "name email provider role createdAt isActive"
     ).sort({ createdAt: -1 });
 
     return res.json(users);
   } catch (err) {
     console.error("Lỗi admin users:", err);
-    return res.status(500).json({ error: "Không lấy được danh sách người dùng" });
+    return res
+      .status(500)
+      .json({ error: "Không lấy được danh sách người dùng" });
   }
 });
+
+// ========== UPDATE USER STATUS (ACTIVE / INACTIVE) ==========
+router.patch(
+  "/admin/users/:id/status",
+  async (req: Request, res: Response) => {
+    try {
+      const { id } = req.params;
+      const { isActive } = req.body;
+
+      if (typeof isActive !== "boolean") {
+        return res.status(400).json({ error: "isActive phải là boolean" });
+      }
+
+      const user = await User.findByIdAndUpdate(
+        id,
+        { isActive },
+        { new: true }
+      ).select("name email provider role createdAt isActive");
+
+      if (!user) {
+        return res.status(404).json({ error: "Không tìm thấy user" });
+      }
+
+      return res.json(user);
+    } catch (err) {
+      console.error("Lỗi cập nhật trạng thái user:", err);
+      return res
+        .status(500)
+        .json({ error: "Không cập nhật được trạng thái người dùng" });
+    }
+  }
+);
 
 // ========== DANH SÁCH HƯỚNG DẪN VIÊN ==========
 router.get("/admin/guides", async (req: Request, res: Response) => {
   try {
     const guides = await User.find(
-      { role: "guide" },                 // chỉ lấy guide
-      "name email provider role createdAt"
+      { role: "guide" }, // lưu ý: model hiện mới có "user" | "admin"
+      "name email provider role createdAt isActive"
     ).sort({ createdAt: -1 });
 
     return res.json(guides);
