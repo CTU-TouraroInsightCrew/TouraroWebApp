@@ -1,42 +1,54 @@
 window.onload = function () {
   addBotMessage("Xin chào! 👋");
   addBotMessage("Tôi có thể giúp gì cho bạn hôm nay?");
-  document.getElementById("suggestions").style.display = "block"; // hiện gợi ý ban đầu
+  document.getElementById("suggestions").style.display = "block";
 };
 
+// ENTER ĐỂ GỬI
 document.getElementById("question").addEventListener("keydown", function (e) {
   if (e.key === "Enter") {
     e.preventDefault();
     sendMessage();
   }
 });
+
+// GỬI VỀ BACKEND
 async function sendToBackend(question) {
-  addLoading();
+  try {
+    addLoading();
 
-  const response = await fetch("http://localhost:4000/chat/api", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ question })
-  });
+    const response = await fetch("http://localhost:4000/chat/api", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question })
+    });
 
-  const data = await response.json();
+    const data = await response.json();
 
-  removeLoading();
-  addBotMessage(data.answer);
+    removeLoading();
+
+    if (!data || !data.answer) {
+      addBotMessage("Xin lỗi, bot không nhận được phản hồi từ server.");
+      return;
+    }
+
+    addBotMessage(data.answer);
+
+  } catch (err) {
+    console.error("❌ Lỗi kết nối API:", err);
+    removeLoading();
+    addBotMessage("Bot đang gặp sự cố kết nối server. Vui lòng thử lại.");
+  }
 }
 
-
+// GỬI SUGGESTION
 function sendSuggestion(text) {
-  document.getElementById("suggestions").style.display = "none"; 
+  document.getElementById("suggestions").style.display = "none";
   addUserMessage(text);
   sendToBackend(text);
 }
 
-// function scrollMessages() {
-//   const messages = document.getElementById("messages");
-//   messages.scrollTop = messages.scrollHeight;
-// }
-
+// HIỂN THỊ USER CHAT
 function addUserMessage(text) {
   const div = document.createElement("div");
   div.className = "bubble user";
@@ -45,29 +57,32 @@ function addUserMessage(text) {
   scrollMessages();
 }
 
+// HIỂN THỊ BOT CHAT
 function addBotMessage(text) {
   const div = document.createElement("div");
   div.className = "bubble bot";
 
+  // Format tin cho dễ đọc
   text = text
-    .replace(/\*\*(.*?)\*\*/g, "$1")      // bỏ bold markdown
-    .replace(/- /g, "• ")                 // dấu bullet
-    .replace(/\d+\./g, o => "\n" + o)      // danh sách 1. 2. 3. xuống dòng
-    .replace(/\n{2,}/g, "\n")              // bỏ xuống dòng thừa
+    .replace(/\*\*(.*?)\*\*/g, "$1")
+    .replace(/- /g, "• ")
+    .replace(/\d+\./g, o => "\n" + o)
+    .replace(/\n{2,}/g, "\n")
     .trim();
 
   div.textContent = text;
   document.getElementById("messages").appendChild(div);
-  // scrollMessages();
+  scrollMessages();
 }
 
+// LOADING SPINNER
 function addLoading() {
   const div = document.createElement("div");
   div.className = "bubble bot";
   div.id = "loading-bubble";
   div.innerHTML = `<div class="spinner"></div>`;
   document.getElementById("messages").appendChild(div);
-  // scrollMessages();
+  scrollMessages();
 }
 
 function removeLoading() {
@@ -75,26 +90,33 @@ function removeLoading() {
   if (el) el.remove();
 }
 
+// SCROLL BOTTOM
+function scrollMessages() {
+  const messages = document.getElementById("messages");
+  messages.scrollTop = messages.scrollHeight;
+}
 
+// GỬI TIN NHẮN CHÍNH
 async function sendMessage() {
   const input = document.getElementById("question");
   const question = input.value.trim();
   if (!question) return;
 
-  // Ẩn gợi ý khi người dùng gửi tin đầu tiên
+  // Ẩn gợi ý
   const sug = document.getElementById("suggestions");
   if (sug && sug.style.display !== "none") {
     sug.style.display = "none";
   }
 
-
   addUserMessage(question);
+
+  // CLEAR input ngay lập tức
   input.value = "";
 
-  // Gửi chung về backend
-  sendToBackend(question);
+  await sendToBackend(question);
 }
 
+// TOGGLE SIDEBAR
 function toggleSidebar() {
   const sidebar = document.getElementById("sidebar");
   const overlay = document.getElementById("sidebar-overlay");
@@ -103,7 +125,6 @@ function toggleSidebar() {
   sidebar.classList.toggle("active");
   overlay.classList.toggle("active");
 
-  // Ẩn toggle khi sidebar đang mở
   if (sidebar.classList.contains("active")) {
     toggleBtn.classList.add("toggle-hidden");
   } else {
