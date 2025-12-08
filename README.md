@@ -1,4 +1,4 @@
-# TouraroWebApp# TouraroWebApp
+# TouraroWebApp
 <img src="./images/Banner.png" alt="Touraro Banner" width="100%">
 
 **Touraro** là nền tảng web du lịch thông minh, giúp người dân và du khách khám phá **thành phố Cần Thơ** thông qua bản đồ số, thời tiết thời gian thực và chatbot AI.
@@ -25,7 +25,9 @@ Mã nguồn được phát hành theo giấy phép **GNU GPL v3.0**:
 
 
 ## Giới Thiệu
+Touraro là một hệ thống du lịch thông minh được phát triển để nâng tầm trải nghiệm khám phá thành phố Cần Thơ. Ứng dụng kết hợp bản đồ số trực quan, dữ liệu thời tiết thời gian thực và chatbot AI để cung cấp thông tin toàn diện cho người dùng — từ điểm đến, ẩm thực, văn hoá cho đến giao thông và triều cường.
 
+Không chỉ phục vụ du khách, Touraro còn tích hợp một bảng điều khiển dành cho quản trị viên, cho phép theo dõi tình trạng thời tiết – mực nước – lưu lượng giao thông, đồng thời quản lý người dùng, hướng dẫn viên và nội dung hiển thị trên nền tảng. Nhờ đó, hệ thống vận hành hiệu quả, cập nhật liên tục và dễ dàng mở rộng trong tương lai.
 
 ## Chức năng chính
 
@@ -178,7 +180,7 @@ Chạy Server backend
 ```bash
 npm start
 ```
-Backend sẽ chạy tại `http://localhost:3000`
+Backend sẽ chạy tại `http://localhost:4000`
 
 3. Cài đặt Frontend (Next.js 16)
 Di chuyển vào thư mục `frontend` và cài đặt các dependencies
