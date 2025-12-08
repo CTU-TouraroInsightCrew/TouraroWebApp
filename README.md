@@ -51,15 +51,17 @@ Hệ thống Touraro được xây dựng theo mô hình Full-Stack Web Applicat
 - External Services: OpenAI API, OpenWeather API, OpenStreetMap Tiles
 - Local Knowledge Base: Các file JSON + Vector Store cho chatbot
 
-                         | Thành phần | Mô tả | Công nghệ / API |
-|------------|-------|------------------|
+
+| Thành phần | Mô tả | Công nghệ / API |
+|-----------|-------|------------------|
 | **Người dùng (UI)** | Giao diện người dùng cuối | Web UI |
 | **Frontend (Next.js)** | Hiển thị giao diện, bản đồ, chat streaming | React, Next.js, Leaflet |
-| **Backend (Express.js)** | API Gateway xử lý toàn bộ logic dữ liệu & AI | Express.js, axios, node-fetch, openai, dotenv, cors, tsconfig-paths |
+| **Backend (Express.js)** | API Gateway xử lý toàn bộ logic dữ liệu & AI | Express.js, Axios, node-fetch, OpenAI SDK, dotenv, CORS, tsconfig-paths |
 | **Đường dẫn API Backend** | Các endpoint chính | `/chat/api`, `/weather`, `/map` |
 | **Local Vector Store + JSON RAG Store** | Lưu dữ liệu địa điểm, ẩm thực, flooding… và vector để tìm kiếm ngữ cảnh | `json_data/`, `vector_store.pkl`, custom `search()` |
 | **OpenWeather API** | Lấy dữ liệu thời tiết, dự báo, cảnh báo | OpenWeather API |
-| **OpenAI API** | Sinh câu trả lời AI + RAG | OpenAI GPT models |
+| **OpenAI API** | Sinh câu trả lời AI + RAG | OpenAI GPT Models |
+
 
 <img src="./images/diagram.png" alt="System Architecture" width="100%">
 
