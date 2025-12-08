@@ -65,7 +65,7 @@ Hệ thống Touraro được xây dựng theo mô hình Full-Stack Web Applicat
 
 Sơ đồ tổng quan của phần mềm
 
-<img src="./images/diagram.webp" alt="System Architecture" width="100%">
+<img src="./images/diagram-web.webp" alt="System Architecture" width="100%">
 
 
 
