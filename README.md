@@ -51,7 +51,6 @@ Hệ thống Touraro được xây dựng theo mô hình Full-Stack Web Applicat
 - External Services: OpenAI API, OpenWeather API, OpenStreetMap Tiles
 - Local Knowledge Base: Các file JSON + Vector Store cho chatbot
 
-```
                          | Thành phần | Mô tả | Công nghệ / API |
 |------------|-------|------------------|
 | **Người dùng (UI)** | Giao diện người dùng cuối | Web UI |
@@ -65,7 +64,6 @@ Hệ thống Touraro được xây dựng theo mô hình Full-Stack Web Applicat
 <img src="./images/diagram.png" alt="System Architecture" width="100%">
 
 
-```
 
 ### Công nghệ sử dụng
 1. Frontend — Next.js + React
