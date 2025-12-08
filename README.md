@@ -34,7 +34,7 @@ Mã nguồn được phát hành theo giấy phép **GNU GPL v3.0**:
 - Chế độ xem trực quan, hỗ trợ zoom/pan.
 
 2. Tích hợp thời tiết theo thời gian thực (OpenWeather)
-- Nhiệt độ, độ ẩm, điều kiện thời tiết hiện tại\
+- Nhiệt độ, độ ẩm, điều kiện thời tiết hiện tại
 
 3. Chatbot AI (du lịch + thông tin thành phố)
 - Giải thích — gợi ý địa điểm du lịch
@@ -42,6 +42,12 @@ Mã nguồn được phát hành theo giấy phép **GNU GPL v3.0**:
 - Gợi ý hành trình du lịch
 - Tích hợp dữ liệu RAG nội bộ (địa điểm, ẩm thực, văn hóa, mùa vụ, các tuyến đường)
 - Tích hợp mô hình AI thông qua API OpenAI
+
+4. Admin controlling
+- Theo dõi thông số qua dashboard (gồm thời tiết, mực nước và lưu lượng giao thông)
+- Quản lý người dùng
+- Quản lý người hướng dẫn
+- Quản lý nội dung trên web client
 
 
 ## Kiến trúc hệ thống
