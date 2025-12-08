@@ -35,7 +35,7 @@ async function sendToBackend(question) {
     addBotMessage(data.answer);
 
   } catch (err) {
-    console.error("❌ Lỗi kết nối API:", err);
+    console.error("Lỗi kết nối API:", err);
     removeLoading();
     addBotMessage("Bot đang gặp sự cố kết nối server. Vui lòng thử lại.");
   }
