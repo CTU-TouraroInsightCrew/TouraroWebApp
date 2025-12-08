@@ -63,7 +63,9 @@ Hệ thống Touraro được xây dựng theo mô hình Full-Stack Web Applicat
 | **OpenAI API** | Sinh câu trả lời AI + RAG | OpenAI GPT Models |
 
 
-<img src="./images/diagram.png" alt="System Architecture" width="100%">
+Sơ đồ tổng quan của phần mềm
+
+<img src="./images/diagram.webp" alt="System Architecture" width="100%">
 
 
 
