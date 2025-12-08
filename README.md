@@ -1,11 +1,14 @@
 # TouraroWebApp
-Touraro là một dự án web được xây dựng nhằm cung cấp trải nghiệm du lịch hiện đại cho người dân và du khách tại thành phố Cần Thơ.
+<img src="E:\Project\PMNM\Banner.png" alt="Touraro Banner" width="100%">
 
-Mục tiêu của dự án là giúp du khách khám phá Cần Thơ dễ dàng hơn và hỗ trợ người dân cập nhật các thông tin hữu ích theo thời gian thực.
+**Touraro** là nền tảng web du lịch thông minh, giúp người dân và du khách khám phá **thành phố Cần Thơ** thông qua bản đồ số, thời tiết thời gian thực và chatbot AI.
 
-Dự án được thực hiện trong cuộc thi [Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2025]([https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F]). Được được open source theo giấy phép [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) bởi đội tác giả CTU-TouraroInsightCrew.
+Dự án tham gia cuộc thi **Phần Mềm Nguồn Mở – Olympic Tin học Sinh viên Việt Nam 2025**:  
+🔗 https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F  
+🔗 https://vfossa.vn/thong-bao/de-thi-phan-mem-nguon-mo-olp-2025-749.html  
 
-Để biết thêm chi tiết về cuộc thi, bạn có thể xem tại [đây]([https://vfossa.vn/thong-bao/de-thi-phan-mem-nguon-mo-olp-2025-749.html]).
+Mã nguồn được phát hành theo giấy phép **GNU GPL v3.0**:  
+🔗 https://www.gnu.org/licenses/gpl-3.0.en.html  
 
 
 
@@ -165,10 +168,10 @@ Hệ thống Chatbot du lịch Touraro sử dụng kiến trúc RAG (Retrieval-A
 ## Cấu trúc thư mục 
 Dự án Touraro được tổ chức thành 3 phần chính: backend, frontend, và ragbot_data.
 
-| Thư mục          | Vai trò                                        |
-| ---------------- | ---------------------------------------------- |
-| **backend/**     | Xử lý API, chatbot, thời tiết, RAG search      |
-| **frontend/**    | Giao diện Next.js: bản đồ, chatbot, UI du lịch |
+| Thư mục          | Vai trò                                                     |
+| ---------------- | ----------------------------------------------              |
+| **backend/**     | Xử lý API, chatbot, thời tiết, RAG search                   |
+| **frontend/**    | Giao diện Next.js: bản đồ, chatbot, UI du lịch              |
 | **ragbot_data/** | Bộ dữ liệu JSON và code embed dữ liệu cho truy vấn chatbot  |
 
 
@@ -216,9 +219,14 @@ Sau khi hoàn tất, truy cập `http://localhost:3000` và vào mục Chat đ�
 
 ## Đóng góp cho dự án 
 
-Mọi đóng góp của các bạn đều được trân trọng, đừng ngần ngại gửi pull request cho dự án.
+Chúng tôi hoan nghênh mọi đóng góp!
+Pull Request / Issue tại:
+🔗 https://github.com/CTU-TouraroInsightCrew/TouraroWebApp
 
 ## Liên hệ 
-- Thanh Nhi Coconut
+📧 Email: socthanhnhi@gmail.com
+ (Thạch Thanh Nhi)
 
 ## License
+Dự án phát hành theo giấy phép GNU GPL v3.0
+🔗 https://www.gnu.org/licenses/gpl-3.0.en.html
