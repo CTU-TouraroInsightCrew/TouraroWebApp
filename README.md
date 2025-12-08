@@ -1,5 +1,5 @@
 # TouraroWebApp# TouraroWebApp
-<img src="E:\Project\PMNM\Banner.png" alt="Touraro Banner" width="100%">
+<img src="./images/Banner.png" alt="Touraro Banner" width="100%">
 
 **Touraro** là nền tảng web du lịch thông minh, giúp người dân và du khách khám phá **thành phố Cần Thơ** thông qua bản đồ số, thời tiết thời gian thực và chatbot AI.
 
@@ -52,48 +52,18 @@ Hệ thống Touraro được xây dựng theo mô hình Full-Stack Web Applicat
 - Local Knowledge Base: Các file JSON + Vector Store cho chatbot
 
 ```
-                         ┌─────────────────────────┐
-                         │      Người dùng (UI)    │
-                         └─────────────┬───────────┘
-                                       │
-                                       ▼
-                        ┌─────────────────────────────┐
-                        │     Frontend (Next.js)      │
-                        │  - React UI                 │
-                        │  - Bản đồ OSM (Leaflet)     │
-                        │  - Chat UI + Streaming      │
-                        └─────────────┬───────────────┘
-                                      │ gọi API
-                                      ▼
-             ┌───────────────────────────────────────────────────┐
-             │               Backend (Express.js)                │
-             │---------------------------------------------------│
-             │  • /chat/api  → gọi OpenAI + RAG + logic cảnh báo │
-             │  • /weather     → lấy dữ liệu OpenWeather         │
-             │  • /map         → xử lý dữ liệu map (nếu cần)     │
-             │                                                   │
-             │  **Thành phần Backend:**                          │
-             │  - axios / node-fetch: gọi API ngoài              │
-             │  - openai: giao tiếp mô hình AI                   │
-             │  - dotenv: cấu hình môi trường                    │
-             │  - cors: kết nối FE ↔ BE                          │
-             │  - tsconfig-paths: hỗ trợ module alias (TS)       │
-             └───────────────┬───────────────────────────────────┘
-                             │
-               sử dụng dữ liệu nội bộ
-                             ▼
-            ┌───────────────────────────────────────────────┐
-            │      Local Vector Store + JSON RAG Store      │
-            │  - json_data/ (địa điểm, ẩm thực, flooding…)  │
-            │  - vector_store.pkl                           │
-            │  - thuật toán search() để tìm ngữ cảnh        │
-            └───────────────────────────────────────────────┘
-                             │
-                             ▼ lấy thêm thông tin
-     ┌───────────────────────────────┐      ┌─────────────────────────┐
-     │       OpenWeather API         │      │       OpenAI API        │
-     │ (thời tiết, dự báo, cảnh báo) │      │ (sinh câu trả lời AI)   │
-     └───────────────────────────────┘      └─────────────────────────┘
+                         | Thành phần | Mô tả | Công nghệ / API |
+|------------|-------|------------------|
+| **Người dùng (UI)** | Giao diện người dùng cuối | Web UI |
+| **Frontend (Next.js)** | Hiển thị giao diện, bản đồ, chat streaming | React, Next.js, Leaflet |
+| **Backend (Express.js)** | API Gateway xử lý toàn bộ logic dữ liệu & AI | Express.js, axios, node-fetch, openai, dotenv, cors, tsconfig-paths |
+| **Đường dẫn API Backend** | Các endpoint chính | `/chat/api`, `/weather`, `/map` |
+| **Local Vector Store + JSON RAG Store** | Lưu dữ liệu địa điểm, ẩm thực, flooding… và vector để tìm kiếm ngữ cảnh | `json_data/`, `vector_store.pkl`, custom `search()` |
+| **OpenWeather API** | Lấy dữ liệu thời tiết, dự báo, cảnh báo | OpenWeather API |
+| **OpenAI API** | Sinh câu trả lời AI + RAG | OpenAI GPT models |
+
+<img src="./images/diagram.png" alt="System Architecture" width="100%">
+
 
 ```
 
@@ -118,17 +88,19 @@ Frontend đảm nhiệm:
 - UI chatbot với animation mềm
 - Gửi câu hỏi → backend → nhận câu trả lời streaming
 
-2. Backend — Express.js
+2. ## Backend — Express.js
+
 Backend là API Gateway chính, xử lý toàn bộ logic dữ liệu & AI.
-| Chức năng           | Thư viện                    |
-| ------------------- | --------------------------- |
-| Server              | `express`                   |
-| API calls           | `axios`, `node-fetch`       |
-| AI                  | `openai`                    |
-| Thời tiết           | OpenWeather API (qua axios) |
-| Cấu hình môi trường | `dotenv`                    |
-| Cross-origin        | `cors`                      |
-| TS alias            | `tsconfig-paths`            |
+
+| Chức năng            | Thư viện / Công nghệ        |
+|----------------------|------------------------------|
+| Server               | express                      |
+| API calls            | axios, node-fetch            |
+| AI                   | openai                       |
+| Thời tiết            | OpenWeather API (qua axios)  |
+| Cấu hình môi trường  | dotenv                       |
+| Cross-origin         | cors                         |
+| TS alias             | tsconfig-paths               |
 
 
 Backend thực hiện:
