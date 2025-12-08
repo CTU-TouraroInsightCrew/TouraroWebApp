@@ -6,7 +6,8 @@ export interface IUser extends Document {
   password?: string;
   provider: "credentials" | "google";
   role: "user" | "admin";
-  avatarUrl: { type: String, default: "" };
+  avatarUrl?: string;   // ✅ chỉ cần string, không phải { type, default }
+  isActive: boolean;    // ✅ thêm field trạng thái
 }
 
 const UserSchema = new Schema<IUser>(
@@ -24,7 +25,15 @@ const UserSchema = new Schema<IUser>(
       enum: ["user", "admin"],
       default: "user",
     },
-    avatarUrl: { type: String }, // 👈 thêm trường avatar
+    avatarUrl: {
+      type: String,
+      default: "",
+    },
+    // ✅ user còn active hay đã bị khóa
+    isActive: {
+      type: Boolean,
+      default: true, // user mới tạo mặc định là đang hoạt động
+    },
   },
   { timestamps: true }
 );
