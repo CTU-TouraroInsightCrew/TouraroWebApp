@@ -203,7 +203,7 @@ Sau khi hoàn tất, truy cập `http://localhost:3000` và vào mục Chat đ�
 
 Chúng tôi hoan nghênh mọi đóng góp!
 Pull Request / Issue tại:
-🔗 https://github.com/CTU-TouraroInsightCrew/TouraroWebApp
+🔗 [https://github.com/CTU-TouraroInsightCrew/TouraroWebApp](https://github.com/CTU-TouraroInsightCrew/TouraroWebApp/issues/new)
 
 ## Liên hệ 
 📧 Email: socthanhnhi@gmail.com
