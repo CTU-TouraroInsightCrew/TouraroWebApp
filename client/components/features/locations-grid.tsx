@@ -151,6 +151,7 @@ const LocationsSection: Locations[] = [
     location: "Chợ Cái Khế",
     duration: "Đường Trần Văn Khéo - quận Ninh Kiều",
     image: "/location_images/ChoCK.png",
+
   },
   {
     id: 25,
@@ -160,30 +161,30 @@ const LocationsSection: Locations[] = [
   },
 ];
 export default function LocationsGrid() {
-    return (
-        <div className="w-full py-8">
+  return (
+    <div className="w-full py-8">
       <Swiper
-        modules={[Navigation, Pagination]} // Kích hoạt module mũi tên
-        spaceBetween={24}       // Khoảng cách giữa các thẻ (tương đương gap-6)
-        slidesPerView={1}       // Mặc định mobile hiện 1 hình
-        navigation={true}       // Hiện mũi tên trái phải
-        pagination={{ clickable: true }} // (Tùy chọn) Hiện dấu chấm tròn ở dưới
+        modules={[Navigation, Pagination]}
+        spaceBetween={24}
+        slidesPerView={1}
+        navigation={true}
+        pagination={{ clickable: true }}
         breakpoints={{
-          640: { slidesPerView: 2 },  // Tablet nhỏ: hiện 2 hình
-          768: { slidesPerView: 3 },  // Tablet lớn: hiện 3 hình
-          1024: { slidesPerView: 4 }, // Desktop: hiện 4 hình (giống Booking)
+          640: { slidesPerView: 2 },
+          768: { slidesPerView: 3 },
+          1024: { slidesPerView: 4 },
         }}
-        className="mySwiper pb-12! px-4" 
+        className="mySwiper pb-12 px-4"
       >
         {LocationsSection.map((item) => (
           <SwiperSlide key={item.id} className="h-auto">
-            {/* Chiều cao h-full để các thẻ bằng nhau */}
             <div className="h-full">
-              <LocationsCard Locations={item} />
+              {/* FIXED: truyền props đúng tên */}
+              <LocationsCard location={item} />
             </div>
           </SwiperSlide>
         ))}
       </Swiper>
     </div>
-    );
+  );
 }
