@@ -98,7 +98,7 @@ Frontend đảm nhiệm:
 - UI chatbot với animation mềm
 - Gửi câu hỏi → backend → nhận câu trả lời streaming
 
-2. ## Backend — Express.js
+2. Backend — Express.js
 
 Backend là API Gateway chính, xử lý toàn bộ logic dữ liệu & AI.
 
