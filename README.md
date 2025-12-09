@@ -42,7 +42,7 @@ Không chỉ phục vụ du khách, Touraro còn tích hợp một bảng điề
 - Giải thích — gợi ý địa điểm du lịch
 - Trả lời thông tin về triều cường, đường ngập, giao thông
 - Gợi ý hành trình du lịch
-- Tích hợp dữ liệu RAG nội bộ (địa điểm, ẩm thực, văn hóa, mùa vụ, các tuyến đường)
+- Tích hợp dữ liệu RAG nội bộ (địa điểm, ẩm thực, văn hóa, các tuyến đường)
 - Tích hợp mô hình AI thông qua API OpenAI
 
 4. Admin controlling
@@ -145,7 +145,7 @@ Dữ liệu được sử dụng với mục đích nghiên cứu học thuật 
 > ↓  
 > **4. Lấy các đoạn văn bản liên quan nhất (Top-k Contexts)**  
 > ↓  
-> **5. Ghép thêm dữ liệu thời tiết nếu có (OpenWeather + mùa vụ)**  
+> **5. Ghép thêm dữ liệu thời tiết nếu có (OpenWeather)**  
 > ↓  
 > **6. Tạo Prompt chứa toàn bộ ngữ cảnh**  
 > ↓  
