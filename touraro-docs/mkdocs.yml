@@ -1,0 +1,56 @@
+site_name: Touraro WebApp
+site_description: Tài liệu hệ thống Touraro – Nền tảng du lịch thông minh Cần Thơ
+site_author: CTU Touraro Insight Crew
+site_url: https://your-username.github.io/touraro-docs/
+
+theme:
+  name: material
+  language: vi
+  palette:
+    - scheme: default
+      primary: blue
+      accent: teal
+    - scheme: slate
+      primary: blue
+      accent: teal
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.integrate
+
+nav:
+  - Trang Chủ: index.md
+  - Giới Thiệu: gioi-thieu.md
+  - Chức Năng: chuc-nang.md
+  - Kiến Trúc Hệ Thống:
+      - Tổng quan: kien-truc.md
+      - RAG & Chatbot: rag.md
+  - Cài Đặt Dự Án: cai-dat.md
+  - Cấu Trúc Thư Mục: thu-muc.md
+  - Đóng Góp: dong-gop.md
+  - Liên Hệ: lien-he.md
+  - License: license.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.tabbed
+  - tables
+  - footnotes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CTU-TouraroInsightCrew/TouraroWebApp
+
+use_directory_urls: false 
