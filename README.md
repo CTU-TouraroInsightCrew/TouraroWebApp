@@ -128,7 +128,13 @@ Kiến trúc RAG của Touraro kết hợp khả năng truy xuất tri thức t�
 Hệ thống Chatbot du lịch Touraro sử dụng kiến trúc RAG (Retrieval-Augmented Generation) để bảo đảm câu trả lời:
 - Chính xác dựa trên dữ liệu du lịch & đời sống tại Cần Thơ
 - Không “bịa” thông tin ngoài CSDL
-- Linh hoạt và có khả năng cập nhật linh hoạt tùy theo tình hình thực tế 
+- Linh hoạt và có khả năng cập nhật linh hoạt tùy theo tình hình thực tế
+
+Dữ liệu trong các tệp JSON của dự án được tổng hợp từ nhiều nguồn thông tin công khai và đáng tin cậy, bao gồm:
+- Thông tin địa điểm du lịch, ẩm thực: Traveloka.com, MIA.vn, Vinpearl.com, Bachhoaxanh.com, Atrip.vn
+- Thông tin về triều cường và tình hình giao thông: Baocantho.com, VTV.vn, TuoiTre.vn
+- Bên cạnh đó, dữ liệu còn được bổ sung từ ý kiến, chia sẻ và kinh nghiệm thực tế của người dân địa phương tại Cần Thơ.
+Dữ liệu được sử dụng với mục đích nghiên cứu học thuật và phục vụ nhu cầu tham khảo trong khuôn khổ dự án.
 
 
 > **1. Câu hỏi người dùng**  
