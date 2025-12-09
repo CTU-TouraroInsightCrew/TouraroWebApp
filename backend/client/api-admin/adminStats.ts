@@ -1,3 +1,9 @@
+/*
+ * This file is part of TouraroWebApp.
+ * Licensed under the GPL-3.0-only License.
+ * Copyright (c) 2025 CTU-TouraroInsigtCrew
+ */
+
 // backend/client/api-admin/adminStats.ts
 import { Router, Request, Response } from "express";
 import User from "../../models/User";

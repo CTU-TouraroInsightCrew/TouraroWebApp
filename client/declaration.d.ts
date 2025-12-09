@@ -1,3 +1,9 @@
+/*
+ * This file is part of TouraroWebApp.
+ * Licensed under the GPL-3.0-only License.
+ * Copyright (c) 2025 CTU-TouraroInsigtCrew
+ */
+
 declare module 'swiper/css';
 declare module 'swiper/css/navigation';
 declare module 'swiper/css/pagination';

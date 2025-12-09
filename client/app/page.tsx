@@ -1,3 +1,9 @@
+/*
+ * This file is part of TouraroWebApp.
+ * Licensed under the GPL-3.0-only License.
+ * Copyright (c) 2025 CTU-TouraroInsigtCrew
+ */
+
 import React from "react";
 import HeroSection from "@/components/sections/hero-section";
 import LocationsSection from "@/components/sections/locations-section";

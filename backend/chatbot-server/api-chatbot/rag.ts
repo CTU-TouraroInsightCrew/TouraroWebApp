@@ -1,3 +1,9 @@
+/*
+ * This file is part of TouraroWebApp.
+ * Licensed under the GPL-3.0-only License.
+ * Copyright (c) 2025 CTU-TouraroInsigtCrew
+ */
+
 // backend/chatbot-server/api-chatbot/rag.ts
 import OpenAI from "openai";
 // Nếu search vẫn là file JS thì giữ .js

@@ -1,3 +1,9 @@
+/*
+ * This file is part of TouraroWebApp.
+ * Licensed under the GPL-3.0-only License.
+ * Copyright (c) 2025 CTU-TouraroInsigtCrew
+ */
+
 import { Locations } from "@/lib/types";
 import Image from "next/image";
 import { FaLocationArrow } from "react-icons/fa";
