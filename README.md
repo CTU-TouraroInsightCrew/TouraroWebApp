@@ -165,6 +165,7 @@ git clone https://github.com/CTU-TouraroInsightCrew/TouraroWebApp.git
 2. Cài đặt Backend (Express.js)
 Di chuyển vào thư mục `backend` và cài các thư viện cần thiết
 ```bash
+cd backend
 npm install
 ```
 Tạo file cấu hình môi trường .env 
@@ -184,10 +185,23 @@ Backend sẽ chạy tại `http://localhost:4000`
 
 3. Cài đặt Frontend (Next.js 16)
 Di chuyển vào thư mục `admin` và `client`. Cài đặt các dependencies
+
+Với admin:
 ```bash
+cd admin
 npm install
 ```
-Chạy website frontend
+Chạy website admin
+```bash
+npm run dev
+```
+
+Với client:
+```bash
+cd client
+npm install
+```
+Chạy website client
 ```bash
 npm run dev
 ```
