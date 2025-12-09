@@ -12,6 +12,7 @@ type UserRow = {
   provider: "credentials" | "google";
   role: "user" | "admin";
   createdAt: string;
+  isActive: boolean; // ✅ thêm trạng thái
 };
 
 export default function AdminUsersPage() {
@@ -19,6 +20,7 @@ export default function AdminUsersPage() {
   const [loading, setLoading] = useState(false);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
   const [search, setSearch] = useState("");
+  const [updatingId, setUpdatingId] = useState<string | null>(null); // ✅ để disable nút khi đang update
 
   async function loadUsers() {
     try {
@@ -47,6 +49,41 @@ export default function AdminUsersPage() {
     loadUsers();
   }, []);
 
+  // ✅ Toggle active / inactive
+  async function handleToggleActive(user: UserRow) {
+    try {
+      setErrorMsg(null);
+      setUpdatingId(user._id);
+
+      const res = await fetch(
+        `${BACKEND_URL}/api/admin/users/${user._id}/status`,
+        {
+          method: "PATCH",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ isActive: !user.isActive }),
+        }
+      );
+
+      if (!res.ok) {
+        throw new Error("Không cập nhật được trạng thái người dùng");
+      }
+
+      const updated = (await res.json()) as UserRow;
+
+      // Cập nhật lại state local
+      setUsers((prev) =>
+        prev.map((u) => (u._id === updated._id ? updated : u))
+      );
+    } catch (err: any) {
+      console.error(err);
+      setErrorMsg(err?.message || "Có lỗi xảy ra khi cập nhật trạng thái");
+    } finally {
+      setUpdatingId(null);
+    }
+  }
+
   const filtered = users.filter((u) => {
     const q = search.toLowerCase();
     return (
@@ -62,7 +99,7 @@ export default function AdminUsersPage() {
         <div>
           <h2 className="text-xl font-semibold">Quản lý tài khoản người dùng</h2>
           <p className="text-sm text-muted-foreground">
-            Xem và tìm kiếm tài khoản đã đăng ký trong hệ thống Touraroo.
+            Xem, tìm kiếm và quản lý trạng thái tài khoản trong hệ thống Touraroo.
           </p>
         </div>
 
@@ -97,14 +134,16 @@ export default function AdminUsersPage() {
                 <th className="text-left py-2">Email</th>
                 <th className="text-left py-2">Provider</th>
                 <th className="text-left py-2">Vai trò</th>
+                <th className="text-left py-2">Trạng thái</th>
                 <th className="text-left py-2">Ngày tạo</th>
+                <th className="text-left py-2">Hành động</th>
               </tr>
             </thead>
             <tbody>
               {filtered.length === 0 && (
                 <tr>
                   <td
-                    colSpan={5}
+                    colSpan={7}
                     className="py-3 text-xs text-muted-foreground"
                   >
                     {loading
@@ -136,8 +175,46 @@ export default function AdminUsersPage() {
                       {u.role === "admin" ? "Admin" : "User"}
                     </span>
                   </td>
+
+                  {/* ✅ Cột trạng thái */}
+                  <td className="py-2">
+                    <span
+                      className={
+                        "inline-flex items-center rounded-full px-3 py-0.5 text-xs font-medium " +
+                        (u.isActive
+                          ? "bg-emerald-100 text-emerald-700"
+                          : "bg-red-100 text-red-700")
+                      }
+                    >
+                      {u.isActive ? "Đang hoạt động" : "Đã vô hiệu hóa"}
+                    </span>
+                  </td>
+
                   <td className="py-2 text-xs text-muted-foreground">
                     {new Date(u.createdAt).toLocaleString("vi-VN")}
+                  </td>
+
+                  {/* ✅ Nút hành động */}
+                  <td className="py-2">
+                    <button
+                      onClick={() => handleToggleActive(u)}
+                      disabled={updatingId === u._id}
+                      className={
+                        "px-3 py-1 rounded-md text-xs font-medium border " +
+                        (u.isActive
+                          ? "bg-red-50 text-red-700 border-red-200 hover:bg-red-100"
+                          : "bg-emerald-50 text-emerald-700 border-emerald-200 hover:bg-emerald-100") +
+                        (updatingId === u._id
+                          ? " opacity-60 cursor-not-allowed"
+                          : "")
+                      }
+                    >
+                      {updatingId === u._id
+                        ? "Đang cập nhật..."
+                        : u.isActive
+                        ? "Vô hiệu hóa"
+                        : "Kích hoạt"}
+                    </button>
                   </td>
                 </tr>
               ))}
