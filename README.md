@@ -178,12 +178,12 @@ PORT=4000
 ```
 Chạy Server backend
 ```bash
-npm start
+npm run dev
 ```
 Backend sẽ chạy tại `http://localhost:4000`
 
 3. Cài đặt Frontend (Next.js 16)
-Di chuyển vào thư mục `frontend` và cài đặt các dependencies
+Di chuyển vào thư mục `admin` và `client`. Cài đặt các dependencies
 ```bash
 npm install
 ```
@@ -191,7 +191,8 @@ Chạy website frontend
 ```bash
 npm run dev
 ```
-Frontend sẽ chạy tại `http://localhost:3000`
+- Client sẽ chạy tại `http://localhost:3000`
+- Admin sẽ chạy tại `http://localhost:3001`
 
 4. Tạo Embedding cho dữ liệu RAG
 Dữ liệu RAG nằm trong thư mục `ragbot_data/json_data/`
