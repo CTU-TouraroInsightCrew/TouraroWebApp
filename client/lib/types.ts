@@ -13,5 +13,5 @@ export type Locations = {
     location: string;
     duration: string;
     image: string;
-    
+    description?: string;
 }
