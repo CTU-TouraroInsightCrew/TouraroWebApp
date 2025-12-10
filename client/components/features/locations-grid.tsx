@@ -186,7 +186,7 @@ export default function LocationsGrid() {
           <SwiperSlide key={item.id} className="h-auto">
             <div className="h-full">
               {/* FIXED: truyền props đúng tên */}
-              <LocationsCard location={item} />
+              <LocationsCard Locations={item} />
             </div>
           </SwiperSlide>
         ))}
