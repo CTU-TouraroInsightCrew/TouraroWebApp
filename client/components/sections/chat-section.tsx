@@ -32,8 +32,8 @@ export default function ChatSection() {
   function formatBotText(text: string) {
     return text
       .replace(/\*\*(.*?)\*\*/g, "$1") // bỏ **bold**
-      .replace(/- /g, "• ") // bullet
-      .replace(/\d+\./g, (o) => "\n" + o) // xuống dòng trước 1. 2. 3.
+      .replace(/^- /gm, "• ")  // chỉ bullet nếu "- " đầu dòng
+      .replace(/(^|\n)(\d+)\. /g, "\n$2. ")  // xuống dòng trước 1. 2. 3.
       .replace(/\n{2,}/g, "\n") // bỏ xuống dòng thừa
       .trim();
   }

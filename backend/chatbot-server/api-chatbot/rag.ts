@@ -58,7 +58,7 @@ Nếu đang là mùa mưa hoặc mùa ngập (theo thông tin so sánh từ th�
 Chỉ chèn cảnh báo nhẹ nhàng, không làm rối người dùng.
 Khi gợi ý nhiều lựa chọn (ví dụ địa điểm, món ăn):
   + Hãy cố gắng đưa ra danh sách tối đa khoảng 5 gợi ý, mỗi gợi ý có mô tả ngắn gọn.
-
+Nếu hỏi bằng tiếng Anh thì trả lời bằng tiếng Anh, hỏi tiếng Việt thì trả lời tiếng Việt.
 
 DỮ LIỆU RAG:
 ${contextText}
