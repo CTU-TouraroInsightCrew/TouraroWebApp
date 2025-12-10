@@ -5,7 +5,6 @@
  */
 
 import Header from "@/components/layout/header";
-import Footer from "@/components/layout/footer";
 
 import type { Metadata } from "next";
 import { Poppins, Volkhov } from "next/font/google";
@@ -49,9 +48,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className={`${volkhov.variable} ${poppins.variable} antialiased font-poppins`}>
         <AuthProvider>
           <Header />
-          {children}
+          <main className="pt-24">
+            {children}
+          </main>
         </AuthProvider>
       </body>
     </html>
   );
 }
+

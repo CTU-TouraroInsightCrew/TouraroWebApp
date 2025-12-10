@@ -10,6 +10,7 @@ import { useAuth } from "@/components/auth/auth-provider";
 import { BACKEND_URL } from "@/lib/auth";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 
 export default function ProfilePage() {
@@ -117,6 +118,24 @@ export default function ProfilePage() {
         >
           {saving ? "Đang lưu..." : "Lưu thay đổi"}
         </Button>
+      </div>
+
+      {/* Hai nút flow hướng dẫn viên */}
+      <div className="mt-8 flex flex-col sm:flex-row gap-3">
+        <Link href="/guides/register">
+          <Button className="w-full sm:w-auto bg-green-600 text-white">
+            Đăng ký làm hướng dẫn viên
+          </Button>
+        </Link>
+
+        <Link href="/guides">
+          <Button
+            variant="outline"
+            className="w-full sm:w-auto border-[#0059B3] text-[#0059B3]"
+          >
+            Tìm người hướng dẫn viên
+          </Button>
+        </Link>
       </div>
     </div>
   );

@@ -8,6 +8,8 @@ const LOCATIONS: Locations[] = [
     id: 1,
     location: "Khu Du Lịch Mỹ Khánh",
     duration: "Xã Mỹ Khánh - Huyện Phong Điền",
+    lat: 9.99137,
+    lng: 105.70545,
     image: "/location_images/MyKhanh.png",
     description: `
     Địa chỉ: 335 Lộ Vòng Cung, Xã Mỹ Khánh, Huyện Phong Điền, Thành Phố Cần Thơ
@@ -20,6 +22,8 @@ const LOCATIONS: Locations[] = [
     id: 2,
     location: "Làng du lịch Ông Đề",
     duration: "Xã Mỹ Khánh - Huyện Phong Điền",
+    lat: 9.990574,
+    lng: 105.709185,
     image: "/location_images/OngDe.png",
     description: `
     Địa chỉ: Ấp Mỹ Ái, Xã Mỹ Khánh, Huyện Phong Điền, TP Cần Thơ.
@@ -31,6 +35,8 @@ const LOCATIONS: Locations[] = [
     id: 3,
     location: "Vườn ca cao Mười Cương",
     duration: "Xã Mỹ Khánh - Huyện Phong Điền",
+    lat: 9.989097,
+    lng: 105.708901,
     image: "/location_images/MuoiCuong.png",
     description: `
     Địa chỉ: Ấp Mỹ Ái, Xã Mỹ Khánh, Huyện Phong Điền, TP Cần Thơ.
@@ -42,17 +48,20 @@ const LOCATIONS: Locations[] = [
     id: 4,
     location: "Vườn trái cây Phi Yến",
     duration: "ấp Nhơn Lộc 1 - Huyện Phong Điền",
+    lat: 9.992485,
+    lng: 105.685888,
     image: "/location_images/PhiYen.png",
     description: `
     Địa chỉ: Đường Nguyễn Văn Cừ nối dài, ấp Nhơn Lộc 1, thị trấn Phong Điền, huyện Phong Điền, TP Cần Thơ.
-
-    Mô tả: Vườn trái cây Phi Yến nằm tại Phong Điền, Cần Thơ, nổi bật với không gian miệt vườn xanh mát và phong phú cây trái như nhãn tím, ổi tím, mận, xoài, vú sữa, cam quýt và đặc sản dâu da địa phương. Du khách có thể tự tay hái trái cây, đi xuồng ba lá len lỏi kênh rạch, câu cá, đi cầu khỉ, tham quan tiểu cảnh check-in, thưởng thức món ăn đồng quê và nghỉ dưỡng tại homestay. Đây là điểm đến lý tưởng cho gia đình và nhóm bạn tìm kiếm sự thư giãn và trải nghiệm đậm chất miền Tây.
+Mô tả: Vườn trái cây Phi Yến nằm tại Phong Điền, Cần Thơ, nổi bật với không gian miệt vườn xanh mát và phong phú cây trái như nhãn tím, ổi tím, mận, xoài, vú sữa, cam quýt và đặc sản dâu da địa phương. Du khách có thể tự tay hái trái cây, đi xuồng ba lá len lỏi kênh rạch, câu cá, đi cầu khỉ, tham quan tiểu cảnh check-in, thưởng thức món ăn đồng quê và nghỉ dưỡng tại homestay. Đây là điểm đến lý tưởng cho gia đình và nhóm bạn tìm kiếm sự thư giãn và trải nghiệm đậm chất miền Tây.
 `,
     },
   {
     id: 5,
     location: "Cồn Ấu",
     duration: "Phường Hưng Lợi - Quận Cái Răng",
+    lat: 10.03123,
+    lng: 105.80364,
     image: "/location_images/ConAu.png",
     description: `
     Mô tả: Cồn Ấu là một cù lao nhỏ trên sông Hậu thuộc quận Cái Răng, nổi tiếng với cảnh quan sông nước trong lành, rặng bần xanh và vườn cây trái miệt vườn. Với diện tích khoảng 130 ha, nơi đây vẫn giữ nét hoang sơ, bình yên và gần gũi đời sống người dân miền Tây.
@@ -63,6 +72,8 @@ const LOCATIONS: Locations[] = [
     location: "Cồn Sơn",
     duration: "Phường Bùi Hữu Nghĩa - Quận Bình Thủy",
     image: "/location_images/ConSon.png",
+    lat: 10.08483,
+    lng: 105.75019,
     description: `
     Địa chỉ: Giữa sông Hậu, thuộc phường Bùi Hữu Nghĩa, quận Bình Thủy, TP Cần Thơ.
 
@@ -73,6 +84,8 @@ const LOCATIONS: Locations[] = [
     id: 7,
     location: "Khu du lịch sinh thái Phú Hữu",
     duration: "Ấp Phú Nghĩa - Xã Phú Hữu",
+    lat: 9.926908,
+    lng: 105.822887,
     image: "/location_images/PhuHuu.png",
     description: `
     Địa chỉ: Ấp Phú Nghĩa, Xã Phú Hữu, Cần Thơ (khu vực Phụng Hiệp - giáp Cần Thơ & Hậu Giang).
@@ -84,6 +97,8 @@ const LOCATIONS: Locations[] = [
     id: 8,
     location: "Khu du lịch sinh thái Xẻo Nhum",
     duration: "Phường Hưng Thạnh - Quận Cái Răng",
+lat:9.997915450858907,
+    lng:105.7770459807826,
     image: "/location_images/XeoNhum.png",
     description: `
     Địa chỉ: Số 01 Khu Dân Cư Hồng Loan, Phường Hưng Thạnh, Quận Cái Răng, TP Cần Thơ.
@@ -96,6 +111,8 @@ const LOCATIONS: Locations[] = [
     location: "Khu du lịch sinh thái Lung Cột Lầu",
     duration: "Xã Nhơn Nghĩa - Huyện Phong Điền",
     image: "/location_images/LungCotCau.png",
+    lat:9.969402726102508, 
+    lng:105.69594919670321,
     description: `
     Địa chỉ: Quốc lộ 61C, Xã Nhơn Nghĩa, Huyện Phong Điền, TP Cần Thơ.
 
@@ -106,7 +123,9 @@ const LOCATIONS: Locations[] = [
     id: 10,
     location: "Vườn cò Bằng Lăng",
     duration: "Phường Thuận An - Quận Thốt Nốt",
-    image: "/location_images/BangLang.png",
+    image: "/location_images/BangLang.png",  
+    lat:10.281686365312007, 
+    lng:105.50546944129869,
     description: `
     Địa chỉ: Ấp Thới Bình 1, Phường Thuận An, Quận Thốt Nốt, TP. Cần Thơ.
 
@@ -118,17 +137,20 @@ const LOCATIONS: Locations[] = [
     location: "Thiền Viện Trúc Lâm Phương Nam",
     duration: "Xã Mỹ Khánh - Huyện Phong Điền",
     image: "/location_images/PhuongNam.png",
+    lat:9.990933423727352, 
+    lng:105.70407481915994 ,
     description: `
     Địa chỉ: ĐT 923, Ấp Nhơn Mỹ, Xã Mỹ Khánh, Huyện Phong Điền, TP Cần Thơ.
-
-    Mô tả: Thiền Viện Trúc Lâm Phương Nam là thiền viện quy mô lớn nhất vùng Tây Nam Bộ, tọa lạc trên trục ĐT923, xã Mỹ Khánh, Phong Điền. Công trình khởi công năm 2013, khánh thành 2014, diện tích khoảng 3,8-4 ha, kiến trúc mô phỏng phong cách Phật giáo thời Lý-Trần với mái ngói đỏ cong, cột gỗ, chánh điện, tổ điện, gác chuông-trống và các tiểu cảnh. Không gian thanh tịnh, nhiều mảng xanh, phù hợp dạo bộ, tĩnh tâm và chụp ảnh kiến trúc.
+Mô tả: Thiền Viện Trúc Lâm Phương Nam là thiền viện quy mô lớn nhất vùng Tây Nam Bộ, tọa lạc trên trục ĐT923, xã Mỹ Khánh, Phong Điền. Công trình khởi công năm 2013, khánh thành 2014, diện tích khoảng 3,8-4 ha, kiến trúc mô phỏng phong cách Phật giáo thời Lý-Trần với mái ngói đỏ cong, cột gỗ, chánh điện, tổ điện, gác chuông-trống và các tiểu cảnh. Không gian thanh tịnh, nhiều mảng xanh, phù hợp dạo bộ, tĩnh tâm và chụp ảnh kiến trúc.
 `,
     },
   {
     id: 12,
     location: "Chùa Ông (Quảng Triệu Hội Quán)",
     duration: "Phường Thuận An - Quận Thốt Nốt",
-    image: "/location_images/ChuaOng.png",
+    image: "/location_images/ChuaOng.png", 
+    lat:10.034633177674142, 
+    lng:105.78843701669392 ,
     description: `
     Địa chỉ: Số 32 đường Hai Bà Trưng, phường Tân An, quận Ninh Kiều, TP Cần Thơ.
 
@@ -140,6 +162,8 @@ const LOCATIONS: Locations[] = [
     location: "Chùa Nam Nhã",
     duration: "Phường Bùi Hữu Nghĩa - Quận Bình Thủy",
     image: "/location_images/ChuaNamNha.png",
+    lat:10.07256339810581, 
+    lng:105.75436327720799, 
     description: `
     Địa chỉ: Số 612 Đường Cách Mạng Tháng Tám, Phường Bùi Hữu Nghĩa, Quận Bình Thủy, TP. Cần Thơ
     Mô tả: Chùa Nam Nhã là ngôi chùa cổ hơn 120 năm, ghi dấu kiến trúc và lịch sử vùng Tây Đô. Được xây dựng từ cuối thế kỷ XIX (khoảng 1895) bởi ông Nguyễn Giác Nguyên, tiền thân là Nam Nhã Đường, nay trở thành di tích lịch sử - văn hoá. Chùa nằm bên sông Bình Thủy, đối diện đình Bình Thủy, với sân chùa rợp bóng cây, hồ nước, mái ngói cong và kết cấu hài hoà Hoa-Pháp-Việt. Đây là điểm đến phù hợp để tham quan, dâng hương và tìm khoảnh khắc yên bình giữa lòng thành phố.
@@ -149,11 +173,12 @@ const LOCATIONS: Locations[] = [
     id: 14,
     location: "Đình Bình Thủy",
     duration: "Phường Bình Thủy - Quận Bình Thủy",
-    image: "/location_images/DinhBinhThuy.png",
+    image: "/location_images/DinhBinhThuy.png", 
+    lat:10.073017873675655,
+    lng:105.75228878333786, 
     description: `
     Địa chỉ: Số 46/11A Lê Hồng Phong, Phường Bình Thủy, Quận Bình Thủy, TP. Cần Thơ.
-
-    Mô tả: Đình Bình Thủy (còn gọi “Long Tuyền Cổ Miếu”) là công trình kiến trúc hơn 180 năm tuổi tại quận Bình Thủy, Cần Thơ. Ngôi đình được xây dựng năm 1844, trùng tu chủ yếu năm 1909-1910, và được công nhận là Di tích kiến trúc-nghệ thuật cấp quốc gia vào năm 1989. Đình có vị trí ven sông Hậu, mái ngói âm-dương, chạm khắc gỗ tinh xảo và là trung tâm tín ngưỡng, lễ hội của cộng đồng địa phương.
+Mô tả: Đình Bình Thủy (còn gọi “Long Tuyền Cổ Miếu”) là công trình kiến trúc hơn 180 năm tuổi tại quận Bình Thủy, Cần Thơ. Ngôi đình được xây dựng năm 1844, trùng tu chủ yếu năm 1909-1910, và được công nhận là Di tích kiến trúc-nghệ thuật cấp quốc gia vào năm 1989. Đình có vị trí ven sông Hậu, mái ngói âm-dương, chạm khắc gỗ tinh xảo và là trung tâm tín ngưỡng, lễ hội của cộng đồng địa phương.
 `,
     },
   {
@@ -161,6 +186,8 @@ const LOCATIONS: Locations[] = [
     location: "Chùa Phật Học",
     duration: "Phường Tân An - Quận Ninh Kiều",
     image: "/location_images/ChuaPhatHoc.png",
+    lat:10.033496025818948, 
+    lng:105.7841928774451, 
     description: `
     Địa chỉ: Số 11 Đại Lộ Hòa Bình, Phường Tân An, Quận Ninh Kiều, TP. Cần Thơ.
 
@@ -172,6 +199,8 @@ const LOCATIONS: Locations[] = [
     location: "Bến Ninh Kiều",
     duration: "Phường Tân An - Quận Ninh Kiều",
     image: "/location_images/BNK.png",
+    lat:10.032631158401161,
+    lng:105.78824400889755, 
     description: `
     Địa chỉ: Phường Tân An, quận Ninh Kiều, TP. Cần Thơ.
 
@@ -183,10 +212,11 @@ const LOCATIONS: Locations[] = [
     location: "Chợ nổi Cái Răng",
     duration: "Phường Lê Bình - Quận Cái Răng",
     image: "/location_images/ChoNoi.png",
+    lat:10.005249545148237, 
+    lng:105.74599369427101, 
     description: `
     Địa chỉ: Trên sông Cần Thơ (nhánh sông Hậu), phường Lê Bình, quận Cái Răng, TP. Cần Thơ.
-
-    Mô tả: Chợ nổi Cái Răng là biểu tượng văn hóa đặc trưng của miền Tây Nam Bộ và là một trong những chợ nổi lớn nhất Việt Nam. Nơi đây diễn ra hoạt động buôn bán nông sản, trái cây, thực phẩm ngay trên thuyền - phản ánh lối sống sông nước đã tồn tại hàng trăm năm. Ghé chợ lúc bình minh, du khách có thể thưởng thức ly cà phê nóng, tô hủ tiếu nghi ngút khói và ngắm dòng người trên sông tạo nên khung cảnh sống động, mộc mạc nhưng đầy chất thơ.
+Mô tả: Chợ nổi Cái Răng là biểu tượng văn hóa đặc trưng của miền Tây Nam Bộ và là một trong những chợ nổi lớn nhất Việt Nam. Nơi đây diễn ra hoạt động buôn bán nông sản, trái cây, thực phẩm ngay trên thuyền - phản ánh lối sống sông nước đã tồn tại hàng trăm năm. Ghé chợ lúc bình minh, du khách có thể thưởng thức ly cà phê nóng, tô hủ tiếu nghi ngút khói và ngắm dòng người trên sông tạo nên khung cảnh sống động, mộc mạc nhưng đầy chất thơ.
 `,
     },
   {
@@ -194,6 +224,8 @@ const LOCATIONS: Locations[] = [
     location: "Nhà cổ Bình Thủy",
     duration: "Phường Bình Thủy - Quận Bình Thủy",
     image: "/location_images/NhaCo.png",
+    lat:10.067237236680443, 
+    lng:105.74952899133612, 
     description: `
     Địa chỉ: 142/144 đường Bùi Hữu Nghĩa, phường Bình Thủy, quận Bình Thủy, TP. Cần Thơ.
 
@@ -205,6 +237,8 @@ const LOCATIONS: Locations[] = [
     location: "Bảo tàng Thành phố Cần Thơ",
     duration: "Phường Tân An - Quận Ninh Kiều",
     image: "/location_images/BaoTang.png",
+    lat:10.03548254070526, 
+    lng:105.78671377595786, 
     description: `
     Địa chỉ: Số 1 Đại Lộ Hòa Bình, phường Tân An, quận Ninh Kiều, TP. Cần Thơ.
 
@@ -216,17 +250,20 @@ const LOCATIONS: Locations[] = [
     location: "Đền thờ Hùng Vương",
     duration: "Phường Bình Thủy - Quận Bình Thủy",
     image: "/location_images/DenTho.png",
+    lat:10.066526464508792, 
+    lng:105.73367612014508, 
     description: `
     Địa chỉ: Khu vực 7, phường Bình Thủy, quận Bình Thủy, TP. Cần Thơ, Việt Nam.
-
-    Mô tả: Đền thờ Hùng Vương Cần Thơ là công trình văn hóa - tâm linh quy mô lớn tại miền Tây Nam Bộ, với diện tích gần 39.000 m². Công trình mang đậm biểu tượng thời đại Hùng Vương và văn hóa Đông Sơn: khối chính vuông - tròn tượng trưng 'đất vuông trời tròn', 18 cánh cung biểu trưng 18 đời Vua Hùng và 54 cột trụ đại diện 54 dân tộc Việt Nam. Không gian rộng lớn với hồ nước, cây xanh, khu thờ tự trang nghiêm giúp du khách tìm về nguồn cội dân tộc, tri ân tổ tiên và khám phá văn hóa Việt trong khung cảnh hiện đại hòa quyện truyền thống.
+Mô tả: Đền thờ Hùng Vương Cần Thơ là công trình văn hóa - tâm linh quy mô lớn tại miền Tây Nam Bộ, với diện tích gần 39.000 m². Công trình mang đậm biểu tượng thời đại Hùng Vương và văn hóa Đông Sơn: khối chính vuông - tròn tượng trưng 'đất vuông trời tròn', 18 cánh cung biểu trưng 18 đời Vua Hùng và 54 cột trụ đại diện 54 dân tộc Việt Nam. Không gian rộng lớn với hồ nước, cây xanh, khu thờ tự trang nghiêm giúp du khách tìm về nguồn cội dân tộc, tri ân tổ tiên và khám phá văn hóa Việt trong khung cảnh hiện đại hòa quyện truyền thống.
 `,
   },
   {
     id: 21,
     location: "Chợ Xuân Khánh",
     duration: "Đường 30 tháng 4 - quận Ninh Kiều",
-    image: "/location_images/ChoXK.png",
+    image: "/location_images/ChoXK.png", 
+    lat:10.026935679016407, 
+    lng:105.77686477786047, 
     description: `
     Địa chỉ: Đường 30 tháng 4, quận Ninh Kiều, Cần Thơ.
 
@@ -238,6 +275,8 @@ const LOCATIONS: Locations[] = [
     location: "Chợ Tân An",
     duration: "Đường Hai Bà Trưng - quận Ninh Kiều",
     image: "/location_images/ChoTA.png",
+    lat:10.029365611596958, 
+    lng:105.78811396188902, 
     description: `
     Địa chỉ: Đường Hai Bà Trưng, gần Bến Ninh Kiều, quận Ninh Kiều.
 
@@ -249,6 +288,8 @@ const LOCATIONS: Locations[] = [
     location: "Chợ An Bình",
     duration: "Đường Trần Vĩnh Kiết - quận Ninh Kiều",
     image: "/location_images/ChoAB.png",
+    lat:10.007831311797013, 
+    lng:105.74880226247984, 
     description: `
     Địa chỉ: Đường Trần Vĩnh Kiết, quận Ninh Kiều, Cần Thơ.
 
@@ -260,6 +301,8 @@ const LOCATIONS: Locations[] = [
     location: "Chợ Cái Khế",
     duration: "Đường Trần Văn Khéo - quận Ninh Kiều",
     image: "/location_images/ChoCK.png",
+    lat:10.047012519386021, 
+    lng:105.78314685216972, 
     description: `
     Địa chỉ: Đường Trần Văn Khéo, quận Ninh Kiều, Cần Thơ.
 
@@ -271,10 +314,11 @@ const LOCATIONS: Locations[] = [
     location: "Chợ Bình Thủy",
     duration: " Đường Lê Hồng Phong - Quận Bình Thủy",
     image: "/location_images/ChoBT.png",
+    lat:10.069878271303729, 
+    lng:105.75178159130323, 
     description: `
     Địa chỉ: Đường Lê Hồng Phong, Phường Bình Thủy, Quận Bình Thủy, Cần Thơ.
-
-    Mô tả: Chợ Bình Thủy là một trong những khu chợ lâu đời và sầm uất của quận Bình Thủy. Chợ nổi tiếng với các loại thực phẩm tươi sống, trái cây miệt vườn, hải sản, cùng nhiều món ăn sáng đặc trưng miền Tây.
+Mô tả: Chợ Bình Thủy là một trong những khu chợ lâu đời và sầm uất của quận Bình Thủy. Chợ nổi tiếng với các loại thực phẩm tươi sống, trái cây miệt vườn, hải sản, cùng nhiều món ăn sáng đặc trưng miền Tây.
 `,
   },
 ];
@@ -305,6 +349,14 @@ export default async function LocationDetailPage({
         />
       </div>
       <strong  className="text-xl mb-2">📍 {data.duration}</strong>
+
+      <a
+        href={`/?destLat=${data.lat}&destLng=${data.lng}#map-section`}
+        className="text-blue-600 underline block mt-4"
+      >
+        ➤ Chỉ đường trên bản đồ
+      </a>
+
 
       <p className="text-gray-700 leading-7 whitespace-pre-line mt-6">
          {data.description}

@@ -33,20 +33,19 @@ async function authMiddleware(req: any, res: any, next: any) {
   try {
     const payload = jwt.verify(token, JWT_SECRET) as any;
 
-    // ✅ Lấy lại user từ DB để kiểm tra isActive & role
     const user = await User.findById(payload.id);
     if (!user) {
       return res.status(401).json({ message: "User not found" });
     }
 
-    // ✅ Nếu admin đã vô hiệu hóa tài khoản thì chặn luôn
-    if (!user.isActive) {
-      return res
-        .status(403)
-        .json({ message: "Tài khoản đã bị vô hiệu hóa. Vui lòng liên hệ admin." });
+    // ✅ CHỈ CHẶN KHI isActive === false
+    if (user.isActive === false) {
+      return res.status(403).json({
+        message:
+          "Tài khoản đã bị vô hiệu hóa. Vui lòng liên hệ admin.",
+      });
     }
 
-    // gán user vào req để route phía sau dùng
     req.user = {
       id: user._id.toString(),
       email: user.email,
@@ -85,8 +84,7 @@ router.post("/register", async (req, res) => {
       email,
       password: hash,
       provider: "credentials",
-      role: "user", // admin thì set trực tiếp trong DB
-      // isActive: true // default trong schema rồi
+      role: "user",
     });
 
     const token = signToken(user);
@@ -115,9 +113,7 @@ router.post("/login", async (req, res) => {
     const { email, password } = req.body;
 
     if (!email || !password) {
-      return res
-        .status(400)
-        .json({ message: "Missing email or password" });
+      return res.status(400).json({ message: "Missing email or password" });
     }
 
     const user = await User.findOne({ email, provider: "credentials" });
@@ -130,11 +126,12 @@ router.post("/login", async (req, res) => {
       return res.status(400).json({ message: "Invalid email or password" });
     }
 
-    // ✅ Không cho login nếu tài khoản đã bị vô hiệu hóa
-    if (!user.isActive) {
-      return res
-        .status(403)
-        .json({ message: "Tài khoản của bạn đã bị vô hiệu hóa. Vui lòng liên hệ admin." });
+    // ✅ CHỈ CHẶN KHI isActive === false
+    if (user.isActive === false) {
+      return res.status(403).json({
+        message:
+          "Tài khoản của bạn đã bị vô hiệu hóa. Vui lòng liên hệ admin.",
+      });
     }
 
     const token = signToken(user);
@@ -161,10 +158,8 @@ router.post("/login", async (req, res) => {
 router.get("/me", authMiddleware, async (req: any, res) => {
   try {
     const user = await User.findById(req.user.id);
-    if (!user)
-      return res.status(404).json({ message: "User not found" });
+    if (!user) return res.status(404).json({ message: "User not found" });
 
-    // (đến đây chắc chắn user đã isActive vì đã qua authMiddleware)
     return res.json({
       id: user._id,
       name: user.name,
@@ -182,7 +177,6 @@ router.get("/me", authMiddleware, async (req: any, res) => {
 // ===================
 // Cập nhật profile (tên, avatar)
 // ===================
-// PUT /api/auth/profile
 router.put("/profile", authMiddleware, async (req: any, res) => {
   try {
     const { name, avatarUrl } = req.body;
@@ -214,5 +208,4 @@ router.put("/profile", authMiddleware, async (req: any, res) => {
 });
 
 export default router;
-// Nếu muốn dùng middleware cho router khác:
 export { authMiddleware };

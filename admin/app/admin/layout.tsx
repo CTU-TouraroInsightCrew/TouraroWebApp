@@ -16,6 +16,7 @@ const navItems = [
   { href: "/admin", label: "Dashboard" },
   { href: "/admin/users", label: "Người dùng" },
   { href: "/admin/guides", label: "Hướng dẫn viên" },
+  { href: "/admin/guide-applications", label: "Hồ sơ hướng dẫn viên" },
   { href: "/admin/content", label: "Nội dung client" },
 ];
 

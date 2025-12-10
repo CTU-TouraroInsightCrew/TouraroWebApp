@@ -21,8 +21,8 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { Input } from "../ui/input";
 import { Button } from "../ui/button";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import GoogleSignInButton from "./google-login-button";
+import { BACKEND_URL, setToken } from "@/lib/auth";
 
 const FormSchema = z.object({
   email: z.string().min(1, "Email is required").email("Invalid email"),
@@ -30,9 +30,7 @@ const FormSchema = z.object({
 });
 
 const SignInForm = () => {
-  const router = useRouter();
   const [error, setError] = useState("");
-  
 
   const form = useForm({
     resolver: zodResolver(FormSchema),
@@ -43,43 +41,51 @@ const SignInForm = () => {
   });
 
   const onSubmit = async (values: any) => {
-  setError("");
-  console.log("👉 SUBMIT LOGIN VALUES:", values);
+    setError("");
+    console.log("👉 SUBMIT LOGIN VALUES:", values);
 
-  try {
-    const res = await fetch("http://localhost:4000/api/auth/login", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(values),
-    });
-
-    console.log("👉 RESPONSE STATUS:", res.status);
-
-    const text = await res.text();
-    console.log("👉 RAW RESPONSE BODY:", text);
-
-    let data: any = {};
     try {
-      data = JSON.parse(text);
-    } catch {
-      data = {};
+      const res = await fetch(`${BACKEND_URL}/api/auth/login`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(values),
+      });
+
+      console.log("👉 RESPONSE STATUS:", res.status);
+
+      const text = await res.text();
+      console.log("👉 RAW RESPONSE BODY:", text);
+
+      let data: any = {};
+      try {
+        data = JSON.parse(text);
+      } catch {
+        data = {};
+      }
+
+      if (!res.ok) {
+        setError(data.message || "Login failed");
+        return;
+      }
+
+      // 🔑 Dùng setToken để chắc chắn trùng với getToken
+      setToken(data.token);
+      console.log("✅ Đã setToken:", data.token);
+
+      // 🔁 reload để AuthProvider chạy lại với token mới
+      const ADMIN_URL = process.env.NEXT_PUBLIC_ADMIN_URL || "http://localhost:3001";
+
+      if (data.user?.role === "admin") {
+        const ADMIN_URL = process.env.NEXT_PUBLIC_ADMIN_URL || "http://localhost:3001";
+        window.location.href = `${ADMIN_URL}/auth/callback?token=${data.token}`;
+      } else {
+        window.location.href = "/";
+      }
+    } catch (e) {
+      console.error("👉 FETCH ERROR:", e);
+      setError("Server error, please try again.");
     }
-
-    if (!res.ok) {
-      setError(data.message || "Login failed");
-      return;
-    }
-
-    localStorage.setItem("token", data.token);
-
-    if (data.user?.role === "admin") router.push("/admin");
-    else router.push("/");
-  } catch (e) {
-    console.error("👉 FETCH ERROR:", e);
-    setError("Server error, please try again.");
-  }
-};
-
+  };
 
   return (
     <Form {...form}>

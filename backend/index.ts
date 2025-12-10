@@ -21,6 +21,10 @@ import { loadVectorStore } from "./chatbot-server/api-chatbot/search";
 
 import adminStatsRouter from "./client/api-admin/adminStats";
 import adminContentRouter from "./client/api-admin/adminContent";
+import guideRegisterRouter from "./client/api-guide/registerGuide"; // ✅ thêm dòng này
+import adminGuideApprovalRouter from "./client/api-admin/guideApproval";
+import selectGuideRouter from "./client/api-guide/selectGuide";
+import publicGuidesRouter from "./client/api-guide/publicGuides";
 
 const app = express();
 
@@ -39,7 +43,7 @@ app.use(
 app.use(express.json());
 
 // ====== ROUTES ======
-app.use("/api/auth", authRouter);      // auth prefix /api/auth
+app.use("/api/auth", authRouter);
 
 app.use("/", chatRouter);
 app.use("/api", weatherRouter);
@@ -47,6 +51,11 @@ app.use("/api", mapRouter);
 app.use("/api", routeRouter);
 app.use("/api", adminStatsRouter);
 app.use("/api", adminContentRouter);
+app.use("/api", guideRegisterRouter); 
+app.use("/api", adminGuideApprovalRouter);
+app.use("/api", selectGuideRouter);
+app.use("/api", publicGuidesRouter);
+
 
 // ====== START SERVER ======
 const PORT = process.env.PORT || 4000;

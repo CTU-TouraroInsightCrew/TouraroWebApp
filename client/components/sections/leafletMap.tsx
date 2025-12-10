@@ -18,6 +18,7 @@ import {
 } from "react-leaflet";
 import L, { LeafletMouseEvent } from "leaflet";
 import "leaflet/dist/leaflet.css";
+import { useSearchParams } from "next/navigation";
 
 type LatLngTuple = [number, number];
 
@@ -106,9 +107,20 @@ function distanceMeters(a: LatLngTuple, b: LatLngTuple): number {
   return R * c;
 }
 
+function RecenterOnDestination({ destination }: { destination: LatLngTuple | null }) {
+  const map = useMap();
+  useEffect(() => {
+    if (destination) {
+      map.setView(destination, 16, { animate: true });
+    }
+  }, [destination, map]);
+  return null;
+}
+
+
 export default function LeafletMap() {
   const [position, setPosition] = useState<LatLngTuple | null>(null);
-  const [accuracy, setAccuracy] = useState<number | null>(null);
+const [accuracy, setAccuracy] = useState<number | null>(null);
   const [tracking, setTracking] = useState(false);
   const [status, setStatus] = useState<string>("");
 
@@ -212,7 +224,7 @@ export default function LeafletMap() {
           pos.coords.longitude,
         ];
         setPosition(newPos);
-        setAccuracy(pos.coords.accuracy);
+setAccuracy(pos.coords.accuracy);
         lastPosRef.current = newPos;
         setStatus("Đã định vị vị trí hiện tại.");
       },
@@ -292,6 +304,23 @@ export default function LeafletMap() {
     }
   };
 
+  
+  const params = useSearchParams();
+  const destLat = params.get("destLat");
+  const destLng = params.get("destLng");
+
+  useEffect(() => {
+    if (destLat && destLng) {
+      const lat = parseFloat(destLat);
+      const lng = parseFloat(destLng);
+
+      if (!isNaN(lat) && !isNaN(lng)) {
+        setDestination([lat, lng]);    // Gán điểm đến
+        setStatus("Đã nhận điểm đến từ trang địa điểm.");
+      }
+    }
+  }, [destLat, destLng]);
+
   return (
     <section
       id="map-section" // đổi id để tránh CSS cũ đụng #map nếu có
@@ -304,7 +333,7 @@ export default function LeafletMap() {
           onClick={handleLocateMe}
           className="rounded-lg px-3 py-2 text-sm bg-white shadow-md hover:bg-gray-100"
         >
-          📍 Tìm vị trí của tôi
+📍 Tìm vị trí của tôi
         </button>
 
         <button
@@ -357,8 +386,10 @@ export default function LeafletMap() {
         touchZoom={true}
         doubleClickZoom={true}
         className="w-full h-full z-0"
-        style={{ width: "100%", height: "100%" }}
+        style={{ width: "100%", height: "100%", pointerEvents: "auto" }}
       >
+        {destination && <RecenterOnDestination destination={destination} />}
+
         <EnableMapInteractions />
 
         <TileLayer

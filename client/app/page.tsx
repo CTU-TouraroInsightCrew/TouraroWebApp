@@ -10,6 +10,7 @@ import LocationsSection from "@/components/sections/locations-section";
 import GuideSection from "@/components/sections/guides-section";
 import ChatSection from "@/components/sections/chat-section";
 import MapSection from "@/components/sections/map-section";
+import HomeWrapper from "./home-wrapper";
 
 export default function Home() {
   return (

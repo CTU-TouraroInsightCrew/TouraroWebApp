@@ -124,11 +124,15 @@ export default function ChatSection() {
   }
 
   // ===== Chào khi load component =====
+const hasGreeted = useRef(false);
+
   useEffect(() => {
+    if (hasGreeted.current) return; // nếu đã chạy thì bỏ qua
+      hasGreeted.current = true;
     addBotMessage("Xin chào! 👋");
     addBotMessage("Tôi có thể giúp gì cho bạn hôm nay?");
   }, []);
-
+  
   // Auto scroll khi có message mới
   /*useEffect(() => {
     scrollMessages();

@@ -12,7 +12,7 @@ const LeafletMap = dynamic(() => import("./leafletMap"), {
   ssr: false,
   loading: () => (
     <section
-      id="map"
+      id="map-loading"
       className="relative w-full h-[500px] flex items-center justify-center"
     >
       <div className="text-sm text-gray-500">Đang tải bản đồ…</div>
@@ -21,5 +21,9 @@ const LeafletMap = dynamic(() => import("./leafletMap"), {
 });
 
 export default function MapSection() {
-  return <LeafletMap />;
+  return (
+    <section id="map-section" className="relative w-full h-[500px]">
+      <LeafletMap />
+    </section>
+  );
 }
