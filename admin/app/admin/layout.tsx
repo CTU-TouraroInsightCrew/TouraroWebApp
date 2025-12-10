@@ -1,7 +1,7 @@
 /*
  * This file is part of TouraroWebApp.
  * Licensed under the GPL-3.0-only License.
- * Copyright (c) 2025 CTU-TouraroInsigtCrew
+ * Copyright (c) 2025 CTU-TouraroInsightCrew
  */
 
 "use client";
@@ -76,7 +76,7 @@ export default function AdminLayout({
         <header className="h-14 border-b border-border bg-card/70 backdrop-blur flex items-center justify-between px-6">
           <h1 className="text-sm font-semibold">Bảng điều khiển</h1>
           <span className="text-xs text-muted-foreground">
-            Admin • Real-time city data
+            Admin • Quản lý hệ thống
           </span>
         </header>
 

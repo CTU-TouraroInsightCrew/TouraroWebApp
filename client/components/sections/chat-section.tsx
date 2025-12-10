@@ -1,13 +1,13 @@
 /*
  * This file is part of TouraroWebApp.
  * Licensed under the GPL-3.0-only License.
- * Copyright (c) 2025 CTU-TouraroInsigtCrew
+ * Copyright (c) 2025 CTU-TouraroInsightCrew
  */
 
 "use client";
 
 import { useEffect, useRef, useState, KeyboardEvent } from "react";
-import "../chatbot/style.css";// chỉnh lại path CSS cho đúng dự án
+import "../chatbot/style.css"; // chỉnh lại path CSS cho đúng dự án
 
 type MsgType = "user" | "bot" | "loading";
 
